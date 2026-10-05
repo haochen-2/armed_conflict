@@ -3,7 +3,6 @@ __pycache__/
 .Rproj.user/
 .Rhistory
 
-*.csv
 *.xlsx
 *.parquet
 data/
