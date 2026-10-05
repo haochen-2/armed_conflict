@@ -1,0 +1,4209 @@
+"iso","country","year","conflict_presence","earthquake","drought","maternal_mortality","infant_mortality","neonatal_mortality","under5_mortality"
+"AFG","Afghanistan",1999,NA,NA,NA,NA,NA,NA,NA
+"AFG","Afghanistan",2000,1,0,1,1450,90.5,60.9,129.2
+"AFG","Afghanistan",2001,1,1,0,1390,87.9,59.7,125.2
+"AFG","Afghanistan",2001,1,1,0,1390,87.9,59.7,125.2
+"AFG","Afghanistan",2002,1,1,0,1300,85.3,58.5,121.1
+"AFG","Afghanistan",2002,1,1,0,1300,85.3,58.5,121.1
+"AFG","Afghanistan",2002,1,1,0,1300,85.3,58.5,121.1
+"AFG","Afghanistan",2003,1,1,0,1240,82.7,57.2,116.9
+"AFG","Afghanistan",2004,1,1,0,1180,80,55.9,112.6
+"AFG","Afghanistan",2005,1,1,0,1140,77.3,54.6,108.4
+"AFG","Afghanistan",2005,1,1,0,1140,77.3,54.6,108.4
+"AFG","Afghanistan",2006,1,1,0,1120,74.6,53.2,104.1
+"AFG","Afghanistan",2006,1,0,1,1120,74.6,53.2,104.1
+"AFG","Afghanistan",2007,1,NA,NA,1090,71.9,51.7,99.9
+"AFG","Afghanistan",2008,1,0,1,1030,69.2,50.3,95.7
+"AFG","Afghanistan",2009,1,1,0,993,66.7,48.9,91.7
+"AFG","Afghanistan",2010,1,1,0,954,64.2,47.4,87.8
+"AFG","Afghanistan",2011,1,0,1,905,61.8,46,84
+"AFG","Afghanistan",2012,1,1,0,858,59.5,44.6,80.3
+"AFG","Afghanistan",2013,1,1,0,810,57.3,43.2,76.9
+"AFG","Afghanistan",2014,1,NA,NA,786,55.2,41.9,73.6
+"AFG","Afghanistan",2015,1,1,0,701,53.2,40.5,70.4
+"AFG","Afghanistan",2015,1,1,0,701,53.2,40.5,70.4
+"AFG","Afghanistan",2016,1,NA,NA,673,51.3,39.3,67.5
+"AFG","Afghanistan",2017,1,NA,NA,638,49.5,38.2,64.8
+"AFG","Afghanistan",2018,1,0,1,NA,47.9,37.2,62.3
+"AGO","Angola",1999,NA,NA,NA,NA,NA,NA,NA
+"AGO","Angola",2000,1,NA,NA,827,121.5,50.3,204.4
+"AGO","Angola",2001,1,0,1,766,118.2,49.2,198.4
+"AGO","Angola",2002,1,NA,NA,690,114.5,48,191.5
+"AGO","Angola",2003,1,NA,NA,628,110.4,46.5,183.8
+"AGO","Angola",2004,1,0,1,574,105.7,45.1,175.1
+"AGO","Angola",2005,1,NA,NA,519,100.9,43.5,166.1
+"AGO","Angola",2006,0,NA,NA,473,95.7,42,156.4
+"AGO","Angola",2007,0,NA,NA,431,90.6,40.5,147
+"AGO","Angola",2008,1,NA,NA,395,85.5,39,137.7
+"AGO","Angola",2009,0,NA,NA,359,80.6,37.7,128.7
+"AGO","Angola",2010,1,NA,NA,326,75.9,36.3,120.4
+"AGO","Angola",2011,0,NA,NA,300,71.5,35.1,112.5
+"AGO","Angola",2012,0,0,1,281,67.4,33.8,105.1
+"AGO","Angola",2013,0,NA,NA,269,63.7,32.7,98.5
+"AGO","Angola",2014,0,NA,NA,258,60.5,31.7,92.9
+"AGO","Angola",2015,0,NA,NA,251,57.7,30.8,88.1
+"AGO","Angola",2016,0,NA,NA,246,55.5,30,84.1
+"AGO","Angola",2017,1,0,1,241,53.5,29.2,80.6
+"AGO","Angola",2018,1,NA,NA,NA,51.7,28.6,77.3
+"ALB","Albania",1999,NA,NA,NA,NA,NA,NA,NA
+"ALB","Albania",2000,0,NA,NA,23,24.1,12.1,27.2
+"ALB","Albania",2001,0,NA,NA,23,22.9,11.8,25.8
+"ALB","Albania",2002,0,NA,NA,21,21.7,11.4,24.4
+"ALB","Albania",2003,0,NA,NA,21,20.4,11.1,23
+"ALB","Albania",2004,0,NA,NA,18,19.1,10.9,21.5
+"ALB","Albania",2005,0,NA,NA,22,17.8,10.6,20
+"ALB","Albania",2006,0,NA,NA,18,16.6,10,18.5
+"ALB","Albania",2007,0,NA,NA,19,15.3,9.2,17.1
+"ALB","Albania",2008,0,NA,NA,20,14.1,8.3,15.8
+"ALB","Albania",2009,0,1,0,20,12.9,7.4,14.5
+"ALB","Albania",2010,0,NA,NA,21,11.8,6.7,13.3
+"ALB","Albania",2011,0,NA,NA,22,10.8,6.2,12.1
+"ALB","Albania",2012,0,NA,NA,17,10,6,11.2
+"ALB","Albania",2013,0,NA,NA,16,9.3,5.9,10.4
+"ALB","Albania",2014,0,NA,NA,16,8.8,5.9,9.9
+"ALB","Albania",2015,0,NA,NA,15,8.5,6,9.6
+"ALB","Albania",2016,0,NA,NA,16,8.4,6.3,9.4
+"ALB","Albania",2017,0,NA,NA,15,8.4,6.7,9.4
+"ALB","Albania",2018,0,NA,NA,NA,8.5,7.1,9.5
+"AND","Andorra",1999,NA,NA,NA,NA,NA,NA,NA
+"AND","Andorra",2000,0,NA,NA,NA,7.3,3.8,8.2
+"AND","Andorra",2001,0,NA,NA,NA,6.9,3.6,7.7
+"AND","Andorra",2002,0,NA,NA,NA,6.5,3.3,7.3
+"AND","Andorra",2003,0,NA,NA,NA,6.2,3.2,6.9
+"AND","Andorra",2004,0,NA,NA,NA,5.9,3,6.5
+"AND","Andorra",2005,0,NA,NA,NA,5.6,2.9,6.1
+"AND","Andorra",2006,0,NA,NA,NA,5.3,2.7,5.8
+"AND","Andorra",2007,0,NA,NA,NA,5,2.6,5.4
+"AND","Andorra",2008,0,NA,NA,NA,4.7,2.5,5.1
+"AND","Andorra",2009,0,NA,NA,NA,4.4,2.3,4.8
+"AND","Andorra",2010,0,NA,NA,NA,4.1,2.2,4.5
+"AND","Andorra",2011,0,NA,NA,NA,3.9,2.1,4.2
+"AND","Andorra",2012,0,NA,NA,NA,3.7,2,4
+"AND","Andorra",2013,0,NA,NA,NA,3.5,1.9,3.8
+"AND","Andorra",2014,0,NA,NA,NA,3.3,1.8,3.5
+"AND","Andorra",2015,0,NA,NA,NA,3.1,1.7,3.3
+"AND","Andorra",2016,0,NA,NA,NA,2.9,1.6,3.2
+"AND","Andorra",2017,0,NA,NA,NA,2.8,1.5,3
+"AND","Andorra",2018,0,NA,NA,NA,2.6,1.4,2.8
+"ARE","United Arab Emirates",1999,NA,NA,NA,NA,NA,NA,NA
+"ARE","United Arab Emirates",2000,0,NA,NA,6,9.6,5.9,11.1
+"ARE","United Arab Emirates",2001,0,NA,NA,6,9.3,5.7,10.9
+"ARE","United Arab Emirates",2002,0,NA,NA,5,9.1,5.6,10.6
+"ARE","United Arab Emirates",2003,0,NA,NA,5,8.9,5.5,10.3
+"ARE","United Arab Emirates",2004,0,NA,NA,5,8.6,5.3,10.1
+"ARE","United Arab Emirates",2005,0,NA,NA,5,8.4,5.2,9.8
+"ARE","United Arab Emirates",2006,0,NA,NA,4,8.2,5.1,9.6
+"ARE","United Arab Emirates",2007,0,NA,NA,4,8.1,5,9.4
+"ARE","United Arab Emirates",2008,0,NA,NA,4,7.9,4.9,9.2
+"ARE","United Arab Emirates",2009,0,NA,NA,4,7.6,4.8,8.9
+"ARE","United Arab Emirates",2010,0,NA,NA,4,7.4,4.6,8.7
+"ARE","United Arab Emirates",2011,0,NA,NA,4,7.2,4.5,8.4
+"ARE","United Arab Emirates",2012,0,NA,NA,4,7,4.4,8.2
+"ARE","United Arab Emirates",2013,0,NA,NA,3,6.8,4.3,8
+"ARE","United Arab Emirates",2014,0,NA,NA,3,6.7,4.2,7.8
+"ARE","United Arab Emirates",2015,0,NA,NA,3,6.5,4.1,7.6
+"ARE","United Arab Emirates",2016,0,NA,NA,3,6.3,4,7.4
+"ARE","United Arab Emirates",2017,0,NA,NA,3,6.2,3.9,7.2
+"ARE","United Arab Emirates",2018,0,NA,NA,NA,6,3.8,7
+"ARG","Argentina",1999,NA,NA,NA,NA,NA,NA,NA
+"ARG","Argentina",2000,0,NA,NA,66,17.5,11,19.6
+"ARG","Argentina",2001,0,NA,NA,67,16.9,11,18.9
+"ARG","Argentina",2002,0,1,0,65,16.4,10.8,18.3
+"ARG","Argentina",2003,0,0,1,65,15.8,10.3,17.7
+"ARG","Argentina",2004,0,NA,NA,61,15.3,9.7,17.1
+"ARG","Argentina",2005,0,NA,NA,59,14.8,9.1,16.5
+"ARG","Argentina",2006,0,NA,NA,57,14.4,8.7,16.1
+"ARG","Argentina",2007,0,NA,NA,56,14,8.4,15.7
+"ARG","Argentina",2008,0,NA,NA,53,13.7,8.1,15.3
+"ARG","Argentina",2009,0,0,1,56,13.3,7.8,14.9
+"ARG","Argentina",2010,0,NA,NA,51,12.9,7.6,14.5
+"ARG","Argentina",2011,0,NA,NA,48,12.4,7.5,13.9
+"ARG","Argentina",2012,0,NA,NA,47,11.9,7.6,13.3
+"ARG","Argentina",2013,0,NA,NA,44,11.3,7.4,12.7
+"ARG","Argentina",2014,0,NA,NA,42,10.8,6.9,12.1
+"ARG","Argentina",2015,0,NA,NA,41,10.2,6.5,11.5
+"ARG","Argentina",2016,0,NA,NA,40,9.7,6.4,10.9
+"ARG","Argentina",2017,0,NA,NA,39,9.2,6.3,10.3
+"ARG","Argentina",2018,0,0,1,NA,8.6,6,9.7
+"ARM","Armenia",1999,NA,NA,NA,NA,NA,NA,NA
+"ARM","Armenia",2000,0,0,1,43,27,16.1,30.6
+"ARM","Armenia",2001,0,NA,NA,42,25.7,15.3,29.1
+"ARM","Armenia",2002,0,NA,NA,39,24.5,14.5,27.7
+"ARM","Armenia",2003,0,NA,NA,38,23.3,13.8,26.3
+"ARM","Armenia",2004,0,NA,NA,36,22.2,13.1,25
+"ARM","Armenia",2005,0,NA,NA,35,21.1,12.5,23.7
+"ARM","Armenia",2006,0,NA,NA,36,20,11.9,22.5
+"ARM","Armenia",2007,0,NA,NA,32,19,11.3,21.4
+"ARM","Armenia",2008,0,NA,NA,36,18.1,10.7,20.3
+"ARM","Armenia",2009,0,NA,NA,32,17.2,10.1,19.2
+"ARM","Armenia",2010,0,NA,NA,32,16.3,9.6,18.3
+"ARM","Armenia",2011,0,NA,NA,30,15.5,9.1,17.3
+"ARM","Armenia",2012,0,NA,NA,30,14.7,8.7,16.4
+"ARM","Armenia",2013,0,NA,NA,26,14,8.2,15.6
+"ARM","Armenia",2014,0,NA,NA,27,13.3,7.8,14.8
+"ARM","Armenia",2015,0,NA,NA,28,12.6,7.4,14.1
+"ARM","Armenia",2016,0,NA,NA,26,12,7,13.4
+"ARM","Armenia",2017,0,NA,NA,26,11.3,6.7,12.7
+"ARM","Armenia",2018,0,NA,NA,NA,10.8,6.4,12.1
+"ATG","Antigua & Barbuda",1999,NA,NA,NA,NA,NA,NA,NA
+"ATG","Antigua & Barbuda",2000,0,NA,NA,44,12.6,9.7,15.5
+"ATG","Antigua & Barbuda",2001,0,NA,NA,44,12.3,9.5,15.1
+"ATG","Antigua & Barbuda",2002,0,NA,NA,43,11.9,9.3,14.6
+"ATG","Antigua & Barbuda",2003,0,NA,NA,44,11.5,8.9,14.1
+"ATG","Antigua & Barbuda",2004,0,NA,NA,41,11,8.6,13.5
+"ATG","Antigua & Barbuda",2005,0,NA,NA,40,10.6,8.2,12.9
+"ATG","Antigua & Barbuda",2006,0,NA,NA,46,10.1,7.7,12.3
+"ATG","Antigua & Barbuda",2007,0,NA,NA,48,9.6,7.3,11.7
+"ATG","Antigua & Barbuda",2008,0,NA,NA,50,9.2,6.8,11.1
+"ATG","Antigua & Barbuda",2009,0,NA,NA,45,8.7,6.3,10.6
+"ATG","Antigua & Barbuda",2010,0,NA,NA,44,8.3,5.8,10
+"ATG","Antigua & Barbuda",2011,0,NA,NA,43,7.9,5.4,9.5
+"ATG","Antigua & Barbuda",2012,0,NA,NA,44,7.5,5.1,9
+"ATG","Antigua & Barbuda",2013,0,NA,NA,43,7.1,4.7,8.5
+"ATG","Antigua & Barbuda",2014,0,NA,NA,42,6.8,4.5,8.1
+"ATG","Antigua & Barbuda",2015,0,NA,NA,43,6.5,4.2,7.8
+"ATG","Antigua & Barbuda",2016,0,NA,NA,43,6.2,4.1,7.4
+"ATG","Antigua & Barbuda",2017,0,NA,NA,42,6,3.9,7.1
+"ATG","Antigua & Barbuda",2018,0,NA,NA,NA,5.8,3.8,6.9
+"AUS","Australia",1999,NA,NA,NA,NA,NA,NA,NA
+"AUS","Australia",2000,0,NA,NA,7,5.1,3.5,6.2
+"AUS","Australia",2001,0,NA,NA,6,5,3.5,6.1
+"AUS","Australia",2002,0,0,1,6,5,3.4,6
+"AUS","Australia",2003,0,NA,NA,6,4.9,3.4,5.9
+"AUS","Australia",2004,0,NA,NA,5,4.8,3.3,5.8
+"AUS","Australia",2005,0,NA,NA,5,4.8,3.2,5.7
+"AUS","Australia",2006,0,0,1,5,4.7,3.1,5.6
+"AUS","Australia",2007,0,NA,NA,5,4.5,3,5.4
+"AUS","Australia",2008,0,NA,NA,5,4.4,2.9,5.2
+"AUS","Australia",2009,0,NA,NA,5,4.2,2.8,5
+"AUS","Australia",2010,0,NA,NA,5,4,2.7,4.8
+"AUS","Australia",2011,0,NA,NA,6,3.8,2.6,4.5
+"AUS","Australia",2012,0,NA,NA,6,3.6,2.5,4.3
+"AUS","Australia",2013,0,NA,NA,6,3.5,2.4,4.1
+"AUS","Australia",2014,0,NA,NA,6,3.4,2.4,4
+"AUS","Australia",2015,0,NA,NA,6,3.3,2.3,3.9
+"AUS","Australia",2016,0,NA,NA,6,3.2,2.3,3.8
+"AUS","Australia",2017,0,NA,NA,6,3.2,2.3,3.8
+"AUS","Australia",2018,0,0,1,NA,3.2,2.3,3.7
+"AUT","Austria",1999,NA,NA,NA,NA,NA,NA,NA
+"AUT","Austria",2000,0,NA,NA,6,4.6,3.1,5.5
+"AUT","Austria",2001,0,NA,NA,6,4.5,3.1,5.4
+"AUT","Austria",2002,0,NA,NA,6,4.4,3.1,5.3
+"AUT","Austria",2003,0,NA,NA,6,4.3,3,5.2
+"AUT","Austria",2004,0,NA,NA,5,4.2,2.9,5.1
+"AUT","Austria",2005,0,NA,NA,6,4.1,2.8,4.9
+"AUT","Austria",2006,0,NA,NA,5,3.9,2.8,4.7
+"AUT","Austria",2007,0,NA,NA,5,3.8,2.7,4.6
+"AUT","Austria",2008,0,NA,NA,5,3.8,2.6,4.5
+"AUT","Austria",2009,0,NA,NA,5,3.7,2.6,4.5
+"AUT","Austria",2010,0,NA,NA,5,3.6,2.5,4.3
+"AUT","Austria",2011,0,NA,NA,5,3.5,2.4,4.2
+"AUT","Austria",2012,0,NA,NA,5,3.3,2.4,4
+"AUT","Austria",2013,0,NA,NA,5,3.2,2.3,3.9
+"AUT","Austria",2014,0,NA,NA,5,3.1,2.3,3.8
+"AUT","Austria",2015,0,NA,NA,5,3,2.2,3.7
+"AUT","Austria",2016,0,NA,NA,5,3,2.2,3.6
+"AUT","Austria",2017,0,NA,NA,5,2.9,2.2,3.6
+"AUT","Austria",2018,0,NA,NA,NA,2.9,2.2,3.6
+"AZE","Azerbaijan",1999,NA,NA,NA,NA,NA,NA,NA
+"AZE","Azerbaijan",2000,0,1,0,47,60.9,34.3,74.4
+"AZE","Azerbaijan",2000,0,0,1,47,60.9,34.3,74.4
+"AZE","Azerbaijan",2001,0,NA,NA,44,57.2,32.8,69.3
+"AZE","Azerbaijan",2002,0,NA,NA,43,53.5,31.3,64.3
+"AZE","Azerbaijan",2003,0,NA,NA,44,50.1,29.8,59.7
+"AZE","Azerbaijan",2004,0,NA,NA,39,47,28.3,55.6
+"AZE","Azerbaijan",2005,0,NA,NA,42,44.1,26.8,51.9
+"AZE","Azerbaijan",2006,0,NA,NA,35,41.5,25.5,48.6
+"AZE","Azerbaijan",2007,0,NA,NA,34,39.1,24.1,45.5
+"AZE","Azerbaijan",2008,0,NA,NA,32,36.8,22.8,42.7
+"AZE","Azerbaijan",2009,1,NA,NA,32,34.7,21.6,39.9
+"AZE","Azerbaijan",2010,0,NA,NA,31,32.5,20.3,37.3
+"AZE","Azerbaijan",2011,0,NA,NA,30,30.5,18.8,34.9
+"AZE","Azerbaijan",2012,0,1,0,29,28.5,17.3,32.5
+"AZE","Azerbaijan",2012,0,1,0,29,28.5,17.3,32.5
+"AZE","Azerbaijan",2013,0,NA,NA,28,26.7,16,30.3
+"AZE","Azerbaijan",2014,0,NA,NA,28,24.9,14.7,28.2
+"AZE","Azerbaijan",2015,1,NA,NA,27,23.3,13.5,26.3
+"AZE","Azerbaijan",2016,1,NA,NA,26,21.8,12.5,24.5
+"AZE","Azerbaijan",2017,1,NA,NA,26,20.3,11.7,22.8
+"AZE","Azerbaijan",2018,1,NA,NA,NA,19.2,10.9,21.5
+"BDI","Burundi",1999,NA,NA,NA,NA,NA,NA,NA
+"BDI","Burundi",2000,1,NA,NA,1010,94.7,36.6,154.5
+"BDI","Burundi",2001,1,NA,NA,956,91.9,36,149.4
+"BDI","Burundi",2002,1,NA,NA,925,88.9,35.4,143.8
+"BDI","Burundi",2003,1,0,1,890,85.7,34.8,138.1
+"BDI","Burundi",2004,1,1,0,844,82.3,34.1,131.9
+"BDI","Burundi",2005,1,0,1,814,78.4,33.2,124.9
+"BDI","Burundi",2006,1,NA,NA,785,74.4,32.3,117.6
+"BDI","Burundi",2007,1,NA,NA,756,70.4,31.3,110.5
+"BDI","Burundi",2008,1,0,1,733,66.5,30.2,103.6
+"BDI","Burundi",2009,1,0,1,698,62.9,29.2,97.1
+"BDI","Burundi",2010,0,0,1,665,59.4,28.2,91
+"BDI","Burundi",2011,0,NA,NA,635,56.3,27.1,85.5
+"BDI","Burundi",2012,0,NA,NA,608,53.4,26.1,80.3
+"BDI","Burundi",2013,0,NA,NA,591,50.7,25.2,75.5
+"BDI","Burundi",2014,0,NA,NA,576,48.2,24.4,71.3
+"BDI","Burundi",2015,1,NA,NA,568,46.2,23.6,67.6
+"BDI","Burundi",2016,1,NA,NA,558,44.4,23,64.4
+"BDI","Burundi",2017,1,NA,NA,548,42.7,22.4,61.5
+"BDI","Burundi",2018,1,NA,NA,NA,41.3,21.8,59
+"BEL","Belgium",1999,NA,NA,NA,NA,NA,NA,NA
+"BEL","Belgium",2000,0,NA,NA,8,4.8,3,5.8
+"BEL","Belgium",2001,0,NA,NA,8,4.6,2.8,5.6
+"BEL","Belgium",2002,0,NA,NA,7,4.4,2.8,5.4
+"BEL","Belgium",2003,0,NA,NA,7,4.3,2.7,5.2
+"BEL","Belgium",2004,0,NA,NA,7,4.2,2.7,5.1
+"BEL","Belgium",2005,0,NA,NA,7,4,2.6,4.9
+"BEL","Belgium",2006,0,NA,NA,7,4,2.6,4.8
+"BEL","Belgium",2007,0,NA,NA,7,3.9,2.5,4.7
+"BEL","Belgium",2008,0,NA,NA,7,3.8,2.5,4.6
+"BEL","Belgium",2009,0,NA,NA,6,3.7,2.4,4.5
+"BEL","Belgium",2010,0,NA,NA,6,3.6,2.3,4.4
+"BEL","Belgium",2011,0,NA,NA,6,3.6,2.3,4.4
+"BEL","Belgium",2012,0,NA,NA,6,3.5,2.3,4.3
+"BEL","Belgium",2013,0,NA,NA,6,3.4,2.3,4.2
+"BEL","Belgium",2014,0,NA,NA,6,3.3,2.3,4.1
+"BEL","Belgium",2015,0,NA,NA,5,3.3,2.3,4.1
+"BEL","Belgium",2016,0,NA,NA,5,3.3,2.3,4.1
+"BEL","Belgium",2017,1,NA,NA,5,3.3,2.3,4.1
+"BEL","Belgium",2018,0,NA,NA,NA,3.4,2.4,4.2
+"BEN","Benin",1999,NA,NA,NA,NA,NA,NA,NA
+"BEN","Benin",2000,0,NA,NA,520,85,39,136.8
+"BEN","Benin",2001,0,NA,NA,516,83.3,38.3,133.7
+"BEN","Benin",2002,0,NA,NA,511,81.5,37.6,130.5
+"BEN","Benin",2003,0,NA,NA,510,79.8,36.8,127.4
+"BEN","Benin",2004,0,NA,NA,505,78.2,36.2,124.4
+"BEN","Benin",2005,0,NA,NA,500,76.5,35.8,121.5
+"BEN","Benin",2006,0,NA,NA,493,75,35.3,118.8
+"BEN","Benin",2007,0,NA,NA,486,73.6,35,116.2
+"BEN","Benin",2008,0,NA,NA,480,72.2,34.6,113.7
+"BEN","Benin",2009,0,NA,NA,471,70.9,34.3,111.3
+"BEN","Benin",2010,0,NA,NA,464,69.6,33.9,109
+"BEN","Benin",2011,0,NA,NA,458,68.3,33.5,106.7
+"BEN","Benin",2012,0,NA,NA,450,67,33.1,104.4
+"BEN","Benin",2013,0,NA,NA,441,65.7,32.7,102.1
+"BEN","Benin",2014,0,NA,NA,432,64.4,32.3,99.8
+"BEN","Benin",2015,0,NA,NA,421,63.2,31.9,97.6
+"BEN","Benin",2016,0,NA,NA,408,61.9,31.5,95.4
+"BEN","Benin",2017,0,NA,NA,397,60.6,31.1,93.2
+"BEN","Benin",2018,0,NA,NA,NA,59.3,30.6,90.9
+"BFA","Burkina Faso",1999,NA,NA,NA,NA,NA,NA,NA
+"BFA","Burkina Faso",2000,0,NA,NA,516,90.9,40.7,178.9
+"BFA","Burkina Faso",2001,0,0,1,501,89.3,39.9,174.9
+"BFA","Burkina Faso",2002,0,NA,NA,486,87.6,39.2,170.4
+"BFA","Burkina Faso",2003,0,NA,NA,471,85.5,38.3,165.3
+"BFA","Burkina Faso",2004,0,NA,NA,454,83.3,37.2,159.5
+"BFA","Burkina Faso",2005,0,NA,NA,437,80.8,36,153.1
+"BFA","Burkina Faso",2006,0,NA,NA,422,78.1,34.8,146.3
+"BFA","Burkina Faso",2007,0,NA,NA,410,75.4,33.7,139.5
+"BFA","Burkina Faso",2008,0,NA,NA,401,72.7,32.7,132.9
+"BFA","Burkina Faso",2009,0,NA,NA,393,70.3,31.9,126.9
+"BFA","Burkina Faso",2010,0,NA,NA,385,68.1,31.2,121.5
+"BFA","Burkina Faso",2011,0,0,1,377,66.3,30.5,116.9
+"BFA","Burkina Faso",2012,0,NA,NA,369,64.4,29.9,112.5
+"BFA","Burkina Faso",2013,0,NA,NA,362,62.7,29.3,108.3
+"BFA","Burkina Faso",2014,0,0,1,353,61.2,28.8,104.5
+"BFA","Burkina Faso",2015,0,NA,NA,343,59.6,28.2,100.9
+"BFA","Burkina Faso",2016,0,NA,NA,331,58.2,27.7,97.5
+"BFA","Burkina Faso",2017,1,NA,NA,320,56.7,27.3,94.1
+"BFA","Burkina Faso",2018,1,NA,NA,NA,55.4,26.7,90.8
+"BGD","Bangladesh",1999,NA,NA,NA,NA,NA,NA,NA
+"BGD","Bangladesh",2000,0,1,0,434,63.1,44,86
+"BGD","Bangladesh",2001,1,NA,NA,423,60,42.2,81.1
+"BGD","Bangladesh",2002,1,NA,NA,410,57,40.4,76.5
+"BGD","Bangladesh",2003,0,1,0,395,54.3,38.8,72.3
+"BGD","Bangladesh",2004,0,1,0,372,51.8,37.3,68.3
+"BGD","Bangladesh",2005,1,NA,NA,343,49.4,35.9,64.6
+"BGD","Bangladesh",2006,1,NA,NA,315,47,34.5,61
+"BGD","Bangladesh",2007,1,NA,NA,297,44.8,33.1,57.8
+"BGD","Bangladesh",2008,0,NA,NA,280,42.7,31.8,54.7
+"BGD","Bangladesh",2009,0,0,1,269,40.7,30.6,51.8
+"BGD","Bangladesh",2010,0,NA,NA,258,38.9,29.4,49.1
+"BGD","Bangladesh",2011,0,NA,NA,248,37.2,28.2,46.7
+"BGD","Bangladesh",2012,0,NA,NA,238,35.6,27.1,44.4
+"BGD","Bangladesh",2013,0,NA,NA,227,34,25.9,42.2
+"BGD","Bangladesh",2014,1,NA,NA,214,32.5,24.8,40.1
+"BGD","Bangladesh",2015,0,1,0,200,31,23.6,38.1
+"BGD","Bangladesh",2016,0,1,0,186,29.6,22.4,36.1
+"BGD","Bangladesh",2017,1,NA,NA,173,28.2,20.9,34.2
+"BGD","Bangladesh",2018,1,NA,NA,NA,26.8,19.7,32.4
+"BGR","Bulgaria",1999,NA,NA,NA,NA,NA,NA,NA
+"BGR","Bulgaria",2000,0,0,1,19,14.4,7.9,17.5
+"BGR","Bulgaria",2001,0,NA,NA,18,13.8,7.6,16.7
+"BGR","Bulgaria",2002,0,NA,NA,17,13.2,7.3,15.9
+"BGR","Bulgaria",2003,0,NA,NA,16,12.5,6.9,15.1
+"BGR","Bulgaria",2004,0,NA,NA,16,11.8,6.4,14.2
+"BGR","Bulgaria",2005,0,NA,NA,15,11,6,13.3
+"BGR","Bulgaria",2006,0,1,0,14,10.3,5.6,12.4
+"BGR","Bulgaria",2007,0,NA,NA,13,9.9,5.3,11.8
+"BGR","Bulgaria",2008,0,NA,NA,13,9.5,5.2,11.4
+"BGR","Bulgaria",2009,0,NA,NA,12,9.3,5.2,11.1
+"BGR","Bulgaria",2010,0,NA,NA,12,9,5.1,10.8
+"BGR","Bulgaria",2011,0,NA,NA,12,8.7,5,10.4
+"BGR","Bulgaria",2012,0,1,0,11,8.2,4.8,9.8
+"BGR","Bulgaria",2013,0,NA,NA,10,7.8,4.5,9.3
+"BGR","Bulgaria",2014,0,NA,NA,11,7.3,4.3,8.7
+"BGR","Bulgaria",2015,0,NA,NA,10,6.9,4.1,8.2
+"BGR","Bulgaria",2016,0,NA,NA,10,6.5,3.9,7.7
+"BGR","Bulgaria",2017,0,NA,NA,10,6.1,3.7,7.3
+"BGR","Bulgaria",2018,0,NA,NA,NA,5.8,3.4,7
+"BHR","Bahrain",1999,NA,NA,NA,NA,NA,NA,NA
+"BHR","Bahrain",2000,0,NA,NA,27,10.7,4.7,12.5
+"BHR","Bahrain",2001,0,NA,NA,19,10.3,4.4,12
+"BHR","Bahrain",2002,0,NA,NA,25,10,4.1,11.6
+"BHR","Bahrain",2003,0,NA,NA,21,9.7,3.9,11.3
+"BHR","Bahrain",2004,0,NA,NA,21,9.4,3.7,11
+"BHR","Bahrain",2005,0,NA,NA,19,9.1,3.6,10.6
+"BHR","Bahrain",2006,0,NA,NA,24,8.8,3.4,10.2
+"BHR","Bahrain",2007,0,NA,NA,16,8.4,3.3,9.8
+"BHR","Bahrain",2008,0,NA,NA,18,8,3.2,9.3
+"BHR","Bahrain",2009,0,NA,NA,19,7.6,3.2,8.9
+"BHR","Bahrain",2010,0,NA,NA,18,7.3,3.2,8.5
+"BHR","Bahrain",2011,0,NA,NA,15,7,3.2,8.2
+"BHR","Bahrain",2012,1,NA,NA,18,6.8,3.2,8
+"BHR","Bahrain",2013,0,NA,NA,17,6.7,3.2,7.8
+"BHR","Bahrain",2014,0,NA,NA,15,6.6,3.2,7.7
+"BHR","Bahrain",2015,0,NA,NA,15,6.5,3.2,7.6
+"BHR","Bahrain",2016,0,NA,NA,15,6.4,3.2,7.5
+"BHR","Bahrain",2017,0,NA,NA,14,6.3,3.1,7.3
+"BHR","Bahrain",2018,0,NA,NA,NA,6.1,3.1,7.1
+"BHS","Bahamas",1999,NA,NA,NA,NA,NA,NA,NA
+"BHS","Bahamas",2000,0,NA,NA,75,13.9,8,16.3
+"BHS","Bahamas",2001,0,NA,NA,76,14,8.2,16.4
+"BHS","Bahamas",2002,0,NA,NA,78,14.1,8.3,16.5
+"BHS","Bahamas",2003,0,NA,NA,79,14.3,8.5,16.7
+"BHS","Bahamas",2004,0,NA,NA,78,14.4,8.6,16.8
+"BHS","Bahamas",2005,0,NA,NA,77,14.4,8.7,16.8
+"BHS","Bahamas",2006,0,NA,NA,78,14.3,8.7,16.7
+"BHS","Bahamas",2007,0,NA,NA,77,14.1,8.6,16.5
+"BHS","Bahamas",2008,0,NA,NA,77,13.9,8.5,16.2
+"BHS","Bahamas",2009,0,NA,NA,78,13.6,8.3,15.9
+"BHS","Bahamas",2010,0,NA,NA,78,13.3,8.1,15.6
+"BHS","Bahamas",2011,0,NA,NA,78,13,7.9,15.2
+"BHS","Bahamas",2012,0,NA,NA,78,12.8,7.8,14.9
+"BHS","Bahamas",2013,0,NA,NA,78,12.5,7.7,14.6
+"BHS","Bahamas",2014,0,NA,NA,77,12.2,7.5,14.3
+"BHS","Bahamas",2015,0,NA,NA,74,12,7.4,14
+"BHS","Bahamas",2016,0,NA,NA,72,11.7,7.3,13.7
+"BHS","Bahamas",2017,0,NA,NA,70,11.4,7.2,13.3
+"BHS","Bahamas",2018,0,NA,NA,NA,11.2,7,13
+"BIH","Bosnia & Herzegovina",1999,NA,NA,NA,NA,NA,NA,NA
+"BIH","Bosnia & Herzegovina",2000,0,0,1,17,8.7,6.9,9.9
+"BIH","Bosnia & Herzegovina",2001,0,NA,NA,16,8.4,6.5,9.6
+"BIH","Bosnia & Herzegovina",2002,0,NA,NA,14,8.2,6.2,9.3
+"BIH","Bosnia & Herzegovina",2003,0,0,1,14,8.1,5.9,9.2
+"BIH","Bosnia & Herzegovina",2004,0,NA,NA,14,7.9,5.7,9.1
+"BIH","Bosnia & Herzegovina",2005,0,NA,NA,13,7.8,5.5,8.9
+"BIH","Bosnia & Herzegovina",2006,0,NA,NA,13,7.5,5.4,8.6
+"BIH","Bosnia & Herzegovina",2007,0,NA,NA,13,7.2,5.3,8.3
+"BIH","Bosnia & Herzegovina",2008,0,NA,NA,11,6.9,5.3,7.9
+"BIH","Bosnia & Herzegovina",2009,0,NA,NA,11,6.6,5.2,7.5
+"BIH","Bosnia & Herzegovina",2010,0,NA,NA,11,6.3,5.1,7.2
+"BIH","Bosnia & Herzegovina",2011,0,NA,NA,10,6,5,6.9
+"BIH","Bosnia & Herzegovina",2012,0,NA,NA,10,5.8,4.9,6.7
+"BIH","Bosnia & Herzegovina",2013,0,NA,NA,10,5.6,4.8,6.5
+"BIH","Bosnia & Herzegovina",2014,0,NA,NA,10,5.5,4.7,6.4
+"BIH","Bosnia & Herzegovina",2015,0,NA,NA,10,5.4,4.6,6.3
+"BIH","Bosnia & Herzegovina",2016,0,NA,NA,10,5.3,4.5,6.2
+"BIH","Bosnia & Herzegovina",2017,0,NA,NA,10,5.3,4.4,6.1
+"BIH","Bosnia & Herzegovina",2018,0,NA,NA,NA,5.2,4.3,6
+"BLR","Belarus",1999,NA,NA,NA,NA,NA,NA,NA
+"BLR","Belarus",2000,0,NA,NA,22,9.9,6,12.7
+"BLR","Belarus",2001,0,NA,NA,19,9.2,5.5,11.8
+"BLR","Belarus",2002,0,NA,NA,18,8.5,5,10.9
+"BLR","Belarus",2003,0,NA,NA,15,7.8,4.5,10.1
+"BLR","Belarus",2004,0,NA,NA,13,7.3,4,9.4
+"BLR","Belarus",2005,0,NA,NA,11,6.7,3.5,8.7
+"BLR","Belarus",2006,0,NA,NA,9,6.2,3,8
+"BLR","Belarus",2007,0,NA,NA,7,5.6,2.6,7.3
+"BLR","Belarus",2008,0,NA,NA,6,5.1,2.2,6.6
+"BLR","Belarus",2009,0,NA,NA,6,4.6,2,6.1
+"BLR","Belarus",2010,0,NA,NA,5,4.3,1.8,5.6
+"BLR","Belarus",2011,0,NA,NA,5,3.9,1.7,5.2
+"BLR","Belarus",2012,0,NA,NA,4,3.7,1.7,4.9
+"BLR","Belarus",2013,0,NA,NA,3,3.5,1.7,4.6
+"BLR","Belarus",2014,0,NA,NA,3,3.3,1.6,4.3
+"BLR","Belarus",2015,0,NA,NA,3,3.1,1.6,4.1
+"BLR","Belarus",2016,0,NA,NA,3,2.9,1.5,3.9
+"BLR","Belarus",2017,0,NA,NA,2,2.7,1.4,3.6
+"BLR","Belarus",2018,0,NA,NA,NA,2.5,1.2,3.4
+"BLZ","Belize",1999,NA,NA,NA,NA,NA,NA,NA
+"BLZ","Belize",2000,0,NA,NA,89,20,12,23.6
+"BLZ","Belize",2001,0,NA,NA,88,19.4,11.6,22.8
+"BLZ","Belize",2002,0,NA,NA,82,18.9,11.1,22.2
+"BLZ","Belize",2003,0,NA,NA,80,18.5,10.6,21.7
+"BLZ","Belize",2004,0,NA,NA,75,18.2,10,21.3
+"BLZ","Belize",2005,0,NA,NA,70,17.9,9.4,20.9
+"BLZ","Belize",2006,0,NA,NA,65,17.6,8.7,20.6
+"BLZ","Belize",2007,0,NA,NA,61,17.3,8.4,20.3
+"BLZ","Belize",2008,0,NA,NA,59,17,8.4,19.9
+"BLZ","Belize",2009,0,NA,NA,57,16.6,8.7,19.4
+"BLZ","Belize",2010,0,NA,NA,54,16.2,9.3,18.9
+"BLZ","Belize",2011,0,NA,NA,52,15.7,10,18.3
+"BLZ","Belize",2012,0,NA,NA,50,15.2,10.4,17.7
+"BLZ","Belize",2013,0,NA,NA,48,14.6,10.5,16.9
+"BLZ","Belize",2014,0,NA,NA,46,13.9,10.4,16.1
+"BLZ","Belize",2015,0,NA,NA,43,13.2,10.1,15.3
+"BLZ","Belize",2016,0,NA,NA,39,12.5,9.6,14.5
+"BLZ","Belize",2017,0,NA,NA,36,11.8,9.1,13.7
+"BLZ","Belize",2018,0,NA,NA,NA,11.1,8.6,12.9
+"BOL","Bolivia",1999,NA,NA,NA,NA,NA,NA,NA
+"BOL","Bolivia",2000,0,0,1,331,55.9,29.6,75.6
+"BOL","Bolivia",2001,1,NA,NA,320,53.1,28.7,71.3
+"BOL","Bolivia",2002,0,NA,NA,309,50.4,28,67.2
+"BOL","Bolivia",2003,0,NA,NA,297,47.8,27.4,63.3
+"BOL","Bolivia",2004,0,0,1,283,45.4,26.8,59.6
+"BOL","Bolivia",2005,0,NA,NA,271,43.1,26.2,56.2
+"BOL","Bolivia",2006,0,NA,NA,258,40.8,25.5,52.9
+"BOL","Bolivia",2007,0,NA,NA,246,38.7,24.7,49.8
+"BOL","Bolivia",2008,0,0,1,234,36.7,23.7,46.9
+"BOL","Bolivia",2009,0,NA,NA,222,34.8,22.8,44.1
+"BOL","Bolivia",2010,0,0,1,212,33,21.8,41.6
+"BOL","Bolivia",2011,0,NA,NA,202,31.2,20.8,39.2
+"BOL","Bolivia",2012,0,NA,NA,192,29.6,19.9,37
+"BOL","Bolivia",2013,0,0,1,184,28,18.7,34.9
+"BOL","Bolivia",2014,0,0,1,175,26.6,17.6,33
+"BOL","Bolivia",2015,0,NA,NA,168,25.4,16.7,31.3
+"BOL","Bolivia",2016,0,0,1,161,24.3,15.9,29.9
+"BOL","Bolivia",2017,0,NA,NA,155,23.2,15.2,28.6
+"BOL","Bolivia",2018,0,NA,NA,NA,22.3,14.6,27.4
+"BRA","Brazil",1999,NA,NA,NA,NA,NA,NA,NA
+"BRA","Brazil",2000,1,NA,NA,69,30.4,18.5,34.7
+"BRA","Brazil",2001,1,0,1,68,28.5,17.6,32.5
+"BRA","Brazil",2002,1,0,1,69,26.8,16.7,30.4
+"BRA","Brazil",2003,1,NA,NA,70,25.1,15.8,28.4
+"BRA","Brazil",2004,1,0,1,71,23.5,15,26.5
+"BRA","Brazil",2005,1,0,1,71,22,14.2,24.8
+"BRA","Brazil",2006,1,NA,NA,72,20.7,13.5,23.2
+"BRA","Brazil",2007,0,1,0,71,19.5,12.8,21.8
+"BRA","Brazil",2007,0,0,1,71,19.5,12.8,21.8
+"BRA","Brazil",2008,1,NA,NA,70,18.4,12.2,20.6
+"BRA","Brazil",2009,0,NA,NA,69,17.5,11.6,19.5
+"BRA","Brazil",2010,1,0,1,65,16.7,11.1,18.6
+"BRA","Brazil",2011,0,NA,NA,61,16,10.7,17.9
+"BRA","Brazil",2012,1,0,1,60,15.4,10.3,17.2
+"BRA","Brazil",2013,1,NA,NA,61,14.9,10,16.7
+"BRA","Brazil",2014,0,0,1,62,14.6,9.7,16.3
+"BRA","Brazil",2015,0,NA,NA,63,14.2,9.5,15.9
+"BRA","Brazil",2016,0,NA,NA,62,15,10,16.7
+"BRA","Brazil",2017,1,NA,NA,60,13.8,9.3,15.4
+"BRA","Brazil",2018,1,NA,NA,NA,13.6,9.2,15.2
+"BRB","Barbados",1999,NA,NA,NA,NA,NA,NA,NA
+"BRB","Barbados",2000,0,NA,NA,50,13.7,9.3,15.1
+"BRB","Barbados",2001,0,NA,NA,48,14,9.3,15.3
+"BRB","Barbados",2002,0,NA,NA,47,14.2,9.5,15.5
+"BRB","Barbados",2003,0,NA,NA,45,14.3,9.6,15.7
+"BRB","Barbados",2004,0,NA,NA,43,14.4,9.8,15.7
+"BRB","Barbados",2005,0,NA,NA,42,14.4,9.9,15.7
+"BRB","Barbados",2006,0,NA,NA,41,14.3,10,15.6
+"BRB","Barbados",2007,0,1,0,40,14.2,10.1,15.4
+"BRB","Barbados",2008,0,NA,NA,39,14.1,10.1,15.3
+"BRB","Barbados",2009,0,NA,NA,38,13.9,10,15.1
+"BRB","Barbados",2010,0,0,1,36,13.8,10,15
+"BRB","Barbados",2011,0,NA,NA,35,13.7,9.9,14.8
+"BRB","Barbados",2012,0,NA,NA,34,13.6,9.8,14.7
+"BRB","Barbados",2013,0,NA,NA,32,13.5,9.7,14.6
+"BRB","Barbados",2014,0,NA,NA,31,13.3,9.5,14.3
+"BRB","Barbados",2015,0,NA,NA,31,13,9.3,14
+"BRB","Barbados",2016,0,NA,NA,30,12.7,9.1,13.7
+"BRB","Barbados",2017,0,NA,NA,27,12.4,8.9,13.4
+"BRB","Barbados",2018,0,NA,NA,NA,12.1,8.6,13
+"BRN","Brunei",1999,NA,NA,NA,NA,NA,NA,NA
+"BRN","Brunei",2000,0,NA,NA,28,8.2,5,10.3
+"BRN","Brunei",2001,0,NA,NA,28,8,5,10.1
+"BRN","Brunei",2002,0,NA,NA,29,7.9,5,9.8
+"BRN","Brunei",2003,0,NA,NA,30,7.8,5,9.7
+"BRN","Brunei",2004,0,NA,NA,30,7.7,5,9.6
+"BRN","Brunei",2005,0,NA,NA,29,7.7,5,9.5
+"BRN","Brunei",2006,0,NA,NA,28,7.7,4.9,9.5
+"BRN","Brunei",2007,0,NA,NA,27,7.7,4.9,9.5
+"BRN","Brunei",2008,0,NA,NA,27,7.7,4.8,9.5
+"BRN","Brunei",2009,0,NA,NA,27,7.8,4.8,9.6
+"BRN","Brunei",2010,0,NA,NA,28,7.9,4.8,9.7
+"BRN","Brunei",2011,0,NA,NA,28,8.1,4.8,9.8
+"BRN","Brunei",2012,0,NA,NA,29,8.2,4.8,10
+"BRN","Brunei",2013,0,NA,NA,28,8.4,4.9,10.2
+"BRN","Brunei",2014,0,NA,NA,29,8.6,5,10.4
+"BRN","Brunei",2015,0,NA,NA,30,8.8,5.2,10.6
+"BRN","Brunei",2016,0,NA,NA,31,9,5.4,10.8
+"BRN","Brunei",2017,0,NA,NA,31,9.2,5.6,11
+"BRN","Brunei",2018,0,NA,NA,NA,9.4,5.8,11.2
+"BTN","Bhutan",1999,NA,NA,NA,NA,NA,NA,NA
+"BTN","Bhutan",2000,0,NA,NA,423,57.5,31.8,77.2
+"BTN","Bhutan",2001,0,NA,NA,384,54.8,30.9,72.9
+"BTN","Bhutan",2002,0,NA,NA,365,52.2,30,68.9
+"BTN","Bhutan",2003,0,NA,NA,348,49.7,29,65
+"BTN","Bhutan",2004,0,NA,NA,332,47.2,28,61.2
+"BTN","Bhutan",2005,0,NA,NA,310,44.7,27.1,57.5
+"BTN","Bhutan",2006,0,NA,NA,291,42.3,26.2,54.1
+"BTN","Bhutan",2007,0,NA,NA,275,40.1,25.3,50.8
+"BTN","Bhutan",2008,0,NA,NA,264,38,24.4,47.8
+"BTN","Bhutan",2009,0,1,0,255,36,23.4,44.9
+"BTN","Bhutan",2010,0,NA,NA,247,34.1,22.5,42.4
+"BTN","Bhutan",2011,0,1,0,239,32.4,21.6,40
+"BTN","Bhutan",2012,0,NA,NA,231,31,20.8,38
+"BTN","Bhutan",2013,0,NA,NA,223,29.6,20.1,36.2
+"BTN","Bhutan",2014,0,NA,NA,214,28.5,19.3,34.6
+"BTN","Bhutan",2015,0,NA,NA,203,27.4,18.4,33.1
+"BTN","Bhutan",2016,0,NA,NA,193,26.5,17.6,31.9
+"BTN","Bhutan",2017,0,NA,NA,183,25.6,17,30.7
+"BTN","Bhutan",2018,0,NA,NA,NA,24.7,16.3,29.6
+"BWA","Botswana",1999,NA,NA,NA,NA,NA,NA,NA
+"BWA","Botswana",2000,0,NA,NA,262,45.2,16.6,80.5
+"BWA","Botswana",2001,0,NA,NA,271,44.6,17,80
+"BWA","Botswana",2002,0,NA,NA,278,43.9,17.8,78.3
+"BWA","Botswana",2003,0,NA,NA,278,43.1,18.7,76.1
+"BWA","Botswana",2004,0,NA,NA,264,42.1,19.6,72.7
+"BWA","Botswana",2005,0,NA,NA,239,38.9,20.4,67
+"BWA","Botswana",2006,0,NA,NA,221,38.1,21,61.5
+"BWA","Botswana",2007,0,NA,NA,209,39.5,21.6,58.6
+"BWA","Botswana",2008,0,NA,NA,203,40.3,22,57.6
+"BWA","Botswana",2009,0,NA,NA,189,40.1,22.4,55.3
+"BWA","Botswana",2010,0,NA,NA,179,39.5,22.7,51.4
+"BWA","Botswana",2011,0,NA,NA,176,41.1,22.9,51.9
+"BWA","Botswana",2012,0,NA,NA,170,40.2,23.1,50.8
+"BWA","Botswana",2013,0,NA,NA,164,39.4,23.2,49.6
+"BWA","Botswana",2014,0,NA,NA,160,40.1,23.3,50.2
+"BWA","Botswana",2015,0,0,1,156,39.6,23.3,49.7
+"BWA","Botswana",2016,0,NA,NA,151,39.3,23.2,49.2
+"BWA","Botswana",2017,0,NA,NA,144,38.2,23,47.8
+"BWA","Botswana",2018,0,NA,NA,NA,37.6,22.7,47
+"CAF","Central African Republic",1999,NA,NA,NA,NA,NA,NA,NA
+"CAF","Central African Republic",2000,0,NA,NA,1280,109.9,49,168.9
+"CAF","Central African Republic",2001,0,NA,NA,1290,109.2,48.9,167.4
+"CAF","Central African Republic",2002,1,NA,NA,1280,108.5,48.7,165.8
+"CAF","Central African Republic",2003,1,NA,NA,1250,107.7,48.6,164.2
+"CAF","Central African Republic",2004,0,NA,NA,1230,106.9,48.4,162.5
+"CAF","Central African Republic",2005,0,NA,NA,1200,106.1,48.2,160.8
+"CAF","Central African Republic",2006,0,NA,NA,1170,104.8,48,158.3
+"CAF","Central African Republic",2007,1,NA,NA,1130,103.7,47.7,155.6
+"CAF","Central African Republic",2008,1,NA,NA,1090,102.5,47.2,152.8
+"CAF","Central African Republic",2009,0,NA,NA,1050,100.6,46.7,148.9
+"CAF","Central African Republic",2010,1,NA,NA,1000,99,46.1,145
+"CAF","Central African Republic",2011,1,NA,NA,981,96.7,45.5,140.5
+"CAF","Central African Republic",2012,1,NA,NA,963,94.5,44.7,136.2
+"CAF","Central African Republic",2013,1,NA,NA,1030,93,43.9,132.5
+"CAF","Central African Republic",2014,1,NA,NA,961,90.5,43.2,128.2
+"CAF","Central African Republic",2015,1,NA,NA,912,87.9,42.5,123.3
+"CAF","Central African Republic",2016,1,NA,NA,890,85.6,41.7,118.2
+"CAF","Central African Republic",2017,1,NA,NA,829,83.8,41,114.5
+"CAF","Central African Republic",2018,1,NA,NA,NA,81.6,40.2,111.1
+"CAN","Canada",1999,NA,NA,NA,NA,NA,NA,NA
+"CAN","Canada",2000,0,NA,NA,9,5.3,3.8,6.2
+"CAN","Canada",2001,0,NA,NA,10,5.3,3.8,6.2
+"CAN","Canada",2002,0,NA,NA,10,5.3,3.9,6.2
+"CAN","Canada",2003,0,NA,NA,10,5.3,3.9,6.2
+"CAN","Canada",2004,0,NA,NA,10,5.3,3.9,6.1
+"CAN","Canada",2005,0,NA,NA,11,5.2,3.9,6.1
+"CAN","Canada",2006,0,NA,NA,11,5.2,3.9,6
+"CAN","Canada",2007,0,NA,NA,11,5.1,3.8,6
+"CAN","Canada",2008,0,NA,NA,12,5.1,3.8,5.9
+"CAN","Canada",2009,0,NA,NA,12,5,3.8,5.8
+"CAN","Canada",2010,0,NA,NA,11,5,3.8,5.7
+"CAN","Canada",2011,0,NA,NA,11,4.9,3.7,5.7
+"CAN","Canada",2012,0,NA,NA,11,4.9,3.7,5.6
+"CAN","Canada",2013,0,NA,NA,11,4.8,3.6,5.5
+"CAN","Canada",2014,0,NA,NA,11,4.7,3.6,5.4
+"CAN","Canada",2015,0,NA,NA,11,4.7,3.6,5.4
+"CAN","Canada",2016,0,NA,NA,10,4.6,3.5,5.3
+"CAN","Canada",2017,0,NA,NA,10,4.6,3.4,5.2
+"CAN","Canada",2018,0,NA,NA,NA,4.5,3.3,5.1
+"CHE","Switzerland",1999,NA,NA,NA,NA,NA,NA,NA
+"CHE","Switzerland",2000,0,NA,NA,7,4.7,3.5,5.6
+"CHE","Switzerland",2001,0,NA,NA,7,4.6,3.5,5.5
+"CHE","Switzerland",2002,0,NA,NA,7,4.5,3.4,5.4
+"CHE","Switzerland",2003,0,NA,NA,7,4.5,3.4,5.3
+"CHE","Switzerland",2004,0,NA,NA,7,4.4,3.3,5.2
+"CHE","Switzerland",2005,0,NA,NA,7,4.3,3.3,5.1
+"CHE","Switzerland",2006,0,NA,NA,7,4.2,3.3,4.9
+"CHE","Switzerland",2007,0,NA,NA,6,4.1,3.2,4.8
+"CHE","Switzerland",2008,0,NA,NA,6,4,3.2,4.7
+"CHE","Switzerland",2009,0,NA,NA,6,4,3.2,4.6
+"CHE","Switzerland",2010,0,NA,NA,6,3.9,3.2,4.6
+"CHE","Switzerland",2011,0,NA,NA,6,3.9,3.1,4.5
+"CHE","Switzerland",2012,0,NA,NA,6,3.8,3.1,4.4
+"CHE","Switzerland",2013,0,NA,NA,6,3.8,3,4.4
+"CHE","Switzerland",2014,0,NA,NA,5,3.8,3,4.3
+"CHE","Switzerland",2015,0,NA,NA,5,3.7,3,4.3
+"CHE","Switzerland",2016,0,NA,NA,5,3.7,2.9,4.2
+"CHE","Switzerland",2017,0,NA,NA,5,3.6,2.9,4.2
+"CHE","Switzerland",2018,0,NA,NA,NA,3.6,2.9,4.1
+"CHL","Chile",1999,NA,NA,NA,NA,NA,NA,NA
+"CHL","Chile",2000,0,NA,NA,31,9.2,5.7,10.9
+"CHL","Chile",2001,0,NA,NA,32,8.7,5.4,10.3
+"CHL","Chile",2002,0,NA,NA,28,8.3,5.3,9.8
+"CHL","Chile",2003,0,NA,NA,27,8.1,5.3,9.5
+"CHL","Chile",2004,0,NA,NA,27,7.9,5.4,9.3
+"CHL","Chile",2005,0,1,0,25,7.7,5.4,9.1
+"CHL","Chile",2006,0,NA,NA,25,7.6,5.5,9
+"CHL","Chile",2007,0,1,0,23,7.6,5.4,8.9
+"CHL","Chile",2007,0,1,0,23,7.6,5.4,8.9
+"CHL","Chile",2008,0,NA,NA,21,7.6,5.3,8.9
+"CHL","Chile",2009,0,NA,NA,21,7.5,5.3,8.8
+"CHL","Chile",2010,0,1,0,20,7.4,5.3,8.7
+"CHL","Chile",2011,0,NA,NA,18,7.3,5.3,8.5
+"CHL","Chile",2012,0,1,0,17,7.2,5.3,8.4
+"CHL","Chile",2013,0,NA,NA,16,7.1,5.3,8.3
+"CHL","Chile",2014,0,1,0,15,6.9,5.2,8.1
+"CHL","Chile",2015,0,1,0,14,6.7,5.1,7.9
+"CHL","Chile",2016,0,NA,NA,13,6.5,5,7.7
+"CHL","Chile",2017,0,NA,NA,13,6.4,4.9,7.4
+"CHL","Chile",2018,0,NA,NA,NA,6.2,4.7,7.2
+"CHN","China",1999,NA,NA,NA,NA,NA,NA,NA
+"CHN","China",2000,0,1,0,59,29.9,21.4,36.7
+"CHN","China",2000,0,1,0,59,29.9,21.4,36.7
+"CHN","China",2000,0,1,0,59,29.9,21.4,36.7
+"CHN","China",2000,0,1,0,59,29.9,21.4,36.7
+"CHN","China",2000,0,1,0,59,29.9,21.4,36.7
+"CHN","China",2000,0,0,1,59,29.9,21.4,36.7
+"CHN","China",2000,0,0,1,59,29.9,21.4,36.7
+"CHN","China",2000,0,0,1,59,29.9,21.4,36.7
+"CHN","China",2001,0,1,0,55,27.8,19.9,34.1
+"CHN","China",2001,0,1,0,55,27.8,19.9,34.1
+"CHN","China",2001,0,1,0,55,27.8,19.9,34.1
+"CHN","China",2001,0,1,0,55,27.8,19.9,34.1
+"CHN","China",2001,0,1,0,55,27.8,19.9,34.1
+"CHN","China",2001,0,0,1,55,27.8,19.9,34.1
+"CHN","China",2001,0,0,1,55,27.8,19.9,34.1
+"CHN","China",2002,0,1,0,51,25.6,18.4,31.5
+"CHN","China",2002,0,1,0,51,25.6,18.4,31.5
+"CHN","China",2002,0,0,1,51,25.6,18.4,31.5
+"CHN","China",2002,0,0,1,51,25.6,18.4,31.5
+"CHN","China",2002,0,0,1,51,25.6,18.4,31.5
+"CHN","China",2003,0,1,0,48,23.4,16.9,28.8
+"CHN","China",2003,0,0,1,48,23.4,16.9,28.8
+"CHN","China",2003,0,1,0,48,23.4,16.9,28.8
+"CHN","China",2003,0,1,0,48,23.4,16.9,28.8
+"CHN","China",2003,0,1,0,48,23.4,16.9,28.8
+"CHN","China",2003,0,1,0,48,23.4,16.9,28.8
+"CHN","China",2003,0,1,0,48,23.4,16.9,28.8
+"CHN","China",2003,0,1,0,48,23.4,16.9,28.8
+"CHN","China",2003,0,1,0,48,23.4,16.9,28.8
+"CHN","China",2003,0,1,0,48,23.4,16.9,28.8
+"CHN","China",2003,0,1,0,48,23.4,16.9,28.8
+"CHN","China",2003,0,1,0,48,23.4,16.9,28.8
+"CHN","China",2003,0,0,1,48,23.4,16.9,28.8
+"CHN","China",2004,0,1,0,46,21.4,15.3,26.3
+"CHN","China",2004,0,1,0,46,21.4,15.3,26.3
+"CHN","China",2004,0,1,0,46,21.4,15.3,26.3
+"CHN","China",2004,0,1,0,46,21.4,15.3,26.3
+"CHN","China",2004,0,1,0,46,21.4,15.3,26.3
+"CHN","China",2005,0,0,1,44,19.4,13.9,24
+"CHN","China",2005,0,1,0,44,19.4,13.9,24
+"CHN","China",2005,0,1,0,44,19.4,13.9,24
+"CHN","China",2005,0,0,1,44,19.4,13.9,24
+"CHN","China",2006,0,1,0,42,17.7,12.5,21.9
+"CHN","China",2006,0,0,1,42,17.7,12.5,21.9
+"CHN","China",2006,0,1,0,42,17.7,12.5,21.9
+"CHN","China",2006,0,1,0,42,17.7,12.5,21.9
+"CHN","China",2006,0,1,0,42,17.7,12.5,21.9
+"CHN","China",2006,0,1,0,42,17.7,12.5,21.9
+"CHN","China",2006,0,1,0,42,17.7,12.5,21.9
+"CHN","China",2007,0,1,0,40,16.2,11.3,20.1
+"CHN","China",2008,0,1,0,40,14.8,10.2,18.5
+"CHN","China",2008,0,1,0,40,14.8,10.2,18.5
+"CHN","China",2008,0,1,0,40,14.8,10.2,18.5
+"CHN","China",2008,0,1,0,40,14.8,10.2,18.5
+"CHN","China",2008,0,1,0,40,14.8,10.2,18.5
+"CHN","China",2008,0,1,0,40,14.8,10.2,18.5
+"CHN","China",2008,0,1,0,40,14.8,10.2,18.5
+"CHN","China",2008,0,0,1,40,14.8,10.2,18.5
+"CHN","China",2009,1,1,0,37,13.6,9.2,17
+"CHN","China",2009,1,0,1,37,13.6,9.2,17
+"CHN","China",2009,1,1,0,37,13.6,9.2,17
+"CHN","China",2009,1,0,1,37,13.6,9.2,17
+"CHN","China",2010,1,1,0,36,12.5,8.4,15.8
+"CHN","China",2010,1,0,1,36,12.5,8.4,15.8
+"CHN","China",2010,1,1,0,36,12.5,8.4,15.8
+"CHN","China",2010,1,1,0,36,12.5,8.4,15.8
+"CHN","China",2010,1,1,0,36,12.5,8.4,15.8
+"CHN","China",2010,1,1,0,36,12.5,8.4,15.8
+"CHN","China",2011,0,1,0,34,11.5,7.6,14.6
+"CHN","China",2011,0,1,0,34,11.5,7.6,14.6
+"CHN","China",2011,0,1,0,34,11.5,7.6,14.6
+"CHN","China",2011,0,1,0,34,11.5,7.6,14.6
+"CHN","China",2011,0,1,0,34,11.5,7.6,14.6
+"CHN","China",2011,0,1,0,34,11.5,7.6,14.6
+"CHN","China",2011,0,1,0,34,11.5,7.6,14.6
+"CHN","China",2012,0,1,0,33,10.6,7,13.5
+"CHN","China",2012,0,1,0,33,10.6,7,13.5
+"CHN","China",2012,0,1,0,33,10.6,7,13.5
+"CHN","China",2012,0,1,0,33,10.6,7,13.5
+"CHN","China",2012,0,1,0,33,10.6,7,13.5
+"CHN","China",2012,0,1,0,33,10.6,7,13.5
+"CHN","China",2013,0,1,0,32,9.8,6.4,12.5
+"CHN","China",2013,0,1,0,32,9.8,6.4,12.5
+"CHN","China",2013,0,1,0,32,9.8,6.4,12.5
+"CHN","China",2013,0,1,0,32,9.8,6.4,12.5
+"CHN","China",2013,0,1,0,32,9.8,6.4,12.5
+"CHN","China",2013,0,1,0,32,9.8,6.4,12.5
+"CHN","China",2013,0,1,0,32,9.8,6.4,12.5
+"CHN","China",2013,0,1,0,32,9.8,6.4,12.5
+"CHN","China",2013,0,0,1,32,9.8,6.4,12.5
+"CHN","China",2014,0,1,0,31,9,5.8,11.6
+"CHN","China",2014,0,1,0,31,9,5.8,11.6
+"CHN","China",2014,0,1,0,31,9,5.8,11.6
+"CHN","China",2014,0,1,0,31,9,5.8,11.6
+"CHN","China",2014,0,1,0,31,9,5.8,11.6
+"CHN","China",2014,0,1,0,31,9,5.8,11.6
+"CHN","China",2014,0,1,0,31,9,5.8,11.6
+"CHN","China",2014,0,1,0,31,9,5.8,11.6
+"CHN","China",2014,0,0,1,31,9,5.8,11.6
+"CHN","China",2014,0,0,1,31,9,5.8,11.6
+"CHN","China",2015,0,1,0,30,8.3,5.3,10.7
+"CHN","China",2015,0,1,0,30,8.3,5.3,10.7
+"CHN","China",2015,0,1,0,30,8.3,5.3,10.7
+"CHN","China",2015,0,1,0,30,8.3,5.3,10.7
+"CHN","China",2015,0,1,0,30,8.3,5.3,10.7
+"CHN","China",2015,0,0,1,30,8.3,5.3,10.7
+"CHN","China",2016,0,0,1,29,7.6,4.9,9.9
+"CHN","China",2016,0,1,0,29,7.6,4.9,9.9
+"CHN","China",2016,0,1,0,29,7.6,4.9,9.9
+"CHN","China",2016,0,1,0,29,7.6,4.9,9.9
+"CHN","China",2017,0,1,0,29,7,4.5,9.2
+"CHN","China",2017,0,1,0,29,7,4.5,9.2
+"CHN","China",2017,0,1,0,29,7,4.5,9.2
+"CHN","China",2017,0,1,0,29,7,4.5,9.2
+"CHN","China",2017,0,0,1,29,7,4.5,9.2
+"CHN","China",2018,0,1,0,NA,6.4,4.1,8.5
+"CHN","China",2018,0,1,0,NA,6.4,4.1,8.5
+"CIV","Côte d’Ivoire",1999,NA,NA,NA,NA,NA,NA,NA
+"CIV","Côte d’Ivoire",2000,0,NA,NA,704,95.6,45.8,143.3
+"CIV","Côte d’Ivoire",2001,1,NA,NA,706,93.7,45.2,140.1
+"CIV","Côte d’Ivoire",2002,0,NA,NA,713,91.6,44.6,136.7
+"CIV","Côte d’Ivoire",2003,1,NA,NA,711,89.6,44,133.1
+"CIV","Côte d’Ivoire",2004,1,NA,NA,709,87.5,43.4,129.5
+"CIV","Côte d’Ivoire",2005,1,NA,NA,704,85.2,42.7,125.6
+"CIV","Côte d’Ivoire",2006,1,NA,NA,699,83.4,42,122
+"CIV","Côte d’Ivoire",2007,0,NA,NA,698,81.1,41.3,118.2
+"CIV","Côte d’Ivoire",2008,0,NA,NA,694,78.7,40.6,114.2
+"CIV","Côte d’Ivoire",2009,0,NA,NA,700,76.6,40,109.9
+"CIV","Côte d’Ivoire",2010,0,NA,NA,701,74.7,39.3,106.3
+"CIV","Côte d’Ivoire",2011,1,NA,NA,703,72.9,38.7,103.1
+"CIV","Côte d’Ivoire",2012,1,NA,NA,702,71,38,100.1
+"CIV","Côte d’Ivoire",2013,0,NA,NA,691,69.1,37.4,97
+"CIV","Côte d’Ivoire",2014,0,NA,NA,676,67.3,36.8,93.6
+"CIV","Côte d’Ivoire",2015,0,NA,NA,658,65.7,36.2,90.8
+"CIV","Côte d’Ivoire",2016,0,NA,NA,636,64.4,35.6,88.4
+"CIV","Côte d’Ivoire",2017,1,NA,NA,617,62.9,35,86
+"CIV","Côte d’Ivoire",2018,0,NA,NA,NA,61.3,34.5,83.2
+"CMR","Cameroon",1999,NA,NA,NA,NA,NA,NA,NA
+"CMR","Cameroon",2000,0,NA,NA,886,87.6,35.6,143.9
+"CMR","Cameroon",2001,0,0,1,844,85.8,34.8,140.9
+"CMR","Cameroon",2002,0,NA,NA,803,83.7,34.1,137.5
+"CMR","Cameroon",2003,0,NA,NA,771,81.7,33.7,134
+"CMR","Cameroon",2004,0,NA,NA,732,79.7,33.5,130.6
+"CMR","Cameroon",2005,0,0,1,692,78.1,33.2,127.5
+"CMR","Cameroon",2006,0,NA,NA,658,76.2,33,124.2
+"CMR","Cameroon",2007,0,NA,NA,635,74.6,32.7,121
+"CMR","Cameroon",2008,0,NA,NA,618,72.7,32.4,117.6
+"CMR","Cameroon",2009,0,NA,NA,606,71.1,32,114.3
+"CMR","Cameroon",2010,0,NA,NA,597,68.6,31.7,110.1
+"CMR","Cameroon",2011,0,NA,NA,589,66.6,31.3,105.8
+"CMR","Cameroon",2012,0,0,1,580,64.2,30.9,101.3
+"CMR","Cameroon",2013,0,NA,NA,567,61.6,30.4,96.7
+"CMR","Cameroon",2014,0,NA,NA,564,59.5,29.9,92.4
+"CMR","Cameroon",2015,1,NA,NA,554,57,29.3,88
+"CMR","Cameroon",2016,1,NA,NA,538,55.2,28.7,84.2
+"CMR","Cameroon",2017,1,NA,NA,529,53.2,28,80.6
+"CMR","Cameroon",2018,1,NA,NA,NA,51.3,27.4,77.3
+"COD","Congo - Kinshasa",1999,NA,NA,NA,NA,NA,NA,NA
+"COD","Congo - Kinshasa",2000,1,NA,NA,760,106.5,38.4,159.3
+"COD","Congo - Kinshasa",2001,1,NA,NA,740,104.4,38,154.9
+"COD","Congo - Kinshasa",2002,1,NA,NA,734,102.2,37.6,150.4
+"COD","Congo - Kinshasa",2003,1,NA,NA,699,99.9,37.2,145.7
+"COD","Congo - Kinshasa",2004,1,NA,NA,661,97.5,36.6,140.9
+"COD","Congo - Kinshasa",2005,1,1,0,627,95.2,36,136.1
+"COD","Congo - Kinshasa",2006,1,NA,NA,598,92.8,35.3,131.4
+"COD","Congo - Kinshasa",2007,1,NA,NA,578,90.4,34.5,126.7
+"COD","Congo - Kinshasa",2008,1,1,0,565,88.1,33.8,122.3
+"COD","Congo - Kinshasa",2009,1,NA,NA,555,85.8,33,118
+"COD","Congo - Kinshasa",2010,1,NA,NA,542,83.5,32.3,113.8
+"COD","Congo - Kinshasa",2011,1,NA,NA,532,81.3,31.7,109.9
+"COD","Congo - Kinshasa",2012,1,NA,NA,524,79.1,31.1,106.1
+"COD","Congo - Kinshasa",2013,1,NA,NA,514,77,30.6,102.5
+"COD","Congo - Kinshasa",2014,1,NA,NA,500,75,30,99.2
+"COD","Congo - Kinshasa",2015,1,1,0,490,73,29.5,95.9
+"COD","Congo - Kinshasa",2016,1,NA,NA,481,71.1,29,92.8
+"COD","Congo - Kinshasa",2017,1,NA,NA,473,69.1,28.5,89.6
+"COD","Congo - Kinshasa",2018,1,NA,NA,NA,67.3,27.9,86.6
+"COG","Congo - Brazzaville",1999,NA,NA,NA,NA,NA,NA,NA
+"COG","Congo - Brazzaville",2000,1,NA,NA,739,72.4,30.7,114.1
+"COG","Congo - Brazzaville",2001,0,NA,NA,752,70.7,30.2,111.1
+"COG","Congo - Brazzaville",2002,0,NA,NA,769,68,29.5,106.2
+"COG","Congo - Brazzaville",2003,1,NA,NA,757,64.6,28.6,100.2
+"COG","Congo - Brazzaville",2004,1,NA,NA,724,60.7,27.5,93.3
+"COG","Congo - Brazzaville",2005,0,NA,NA,677,56.8,26.5,86.4
+"COG","Congo - Brazzaville",2006,0,NA,NA,623,53.1,25.4,79.8
+"COG","Congo - Brazzaville",2007,0,NA,NA,580,49.8,24.5,74
+"COG","Congo - Brazzaville",2008,0,NA,NA,552,46.9,23.7,69
+"COG","Congo - Brazzaville",2009,0,NA,NA,526,44.7,23,65
+"COG","Congo - Brazzaville",2010,0,NA,NA,506,43,22.5,62
+"COG","Congo - Brazzaville",2011,0,NA,NA,488,41.7,22.1,59.7
+"COG","Congo - Brazzaville",2012,0,NA,NA,468,40.7,21.8,57.9
+"COG","Congo - Brazzaville",2013,0,NA,NA,449,39.7,21.4,56.2
+"COG","Congo - Brazzaville",2014,0,NA,NA,433,38.7,21.1,54.4
+"COG","Congo - Brazzaville",2015,0,NA,NA,416,37.6,20.7,52.6
+"COG","Congo - Brazzaville",2016,0,NA,NA,397,36.6,20.2,50.8
+"COG","Congo - Brazzaville",2017,1,NA,NA,378,35.6,19.9,49.1
+"COG","Congo - Brazzaville",2018,0,NA,NA,NA,34.7,19.4,47.6
+"COL","Colombia",1999,NA,NA,NA,NA,NA,NA,NA
+"COL","Colombia",2000,1,1,0,94,21.2,13.5,25.1
+"COL","Colombia",2001,1,NA,NA,93,20.6,13.1,24.3
+"COL","Colombia",2002,1,NA,NA,92,19.9,12.7,23.5
+"COL","Colombia",2003,1,NA,NA,88,19.4,12.4,22.8
+"COL","Colombia",2004,1,1,0,85,18.9,12,22.1
+"COL","Colombia",2004,1,1,0,85,18.9,12,22.1
+"COL","Colombia",2005,1,NA,NA,83,18.3,11.7,21.5
+"COL","Colombia",2006,1,NA,NA,82,17.8,11.3,20.8
+"COL","Colombia",2007,1,1,0,83,17.2,11,20.2
+"COL","Colombia",2008,1,1,0,84,16.7,10.6,19.5
+"COL","Colombia",2009,1,NA,NA,87,16.2,10.3,18.9
+"COL","Colombia",2010,1,NA,NA,85,15.7,10,18.3
+"COL","Colombia",2011,1,NA,NA,84,15.2,9.6,17.7
+"COL","Colombia",2012,1,NA,NA,85,14.7,9.3,17.1
+"COL","Colombia",2013,1,1,0,85,14.3,9,16.6
+"COL","Colombia",2014,1,NA,NA,85,13.8,8.7,16
+"COL","Colombia",2015,1,1,0,85,13.4,8.4,15.5
+"COL","Colombia",2015,1,0,1,85,13.4,8.4,15.5
+"COL","Colombia",2016,1,NA,NA,84,12.9,8.2,15
+"COL","Colombia",2017,1,NA,NA,83,12.5,7.9,14.6
+"COL","Colombia",2018,1,NA,NA,NA,12.1,7.7,14.1
+"COM","Comoros",1999,NA,NA,NA,NA,NA,NA,NA
+"COM","Comoros",2000,0,NA,NA,444,72.4,40.8,100.6
+"COM","Comoros",2001,0,NA,NA,437,72.1,40.7,100.2
+"COM","Comoros",2002,0,NA,NA,429,72,40.5,100.1
+"COM","Comoros",2003,0,NA,NA,423,71.7,40.3,99.6
+"COM","Comoros",2004,0,NA,NA,414,71,40.1,98.5
+"COM","Comoros",2005,0,NA,NA,404,69.8,39.7,96.7
+"COM","Comoros",2006,0,NA,NA,393,68.4,39.2,94.4
+"COM","Comoros",2007,0,NA,NA,382,66.8,38.6,91.9
+"COM","Comoros",2008,0,NA,NA,370,65.3,38,89.5
+"COM","Comoros",2009,0,NA,NA,356,63.7,37.3,86.9
+"COM","Comoros",2010,0,NA,NA,341,62.2,36.6,84.6
+"COM","Comoros",2011,0,NA,NA,326,60.5,35.8,82
+"COM","Comoros",2012,0,NA,NA,313,58.9,35.1,79.4
+"COM","Comoros",2013,0,NA,NA,302,57.2,34.5,76.9
+"COM","Comoros",2014,0,1,0,293,55.8,33.6,74.7
+"COM","Comoros",2015,0,NA,NA,285,54.4,32.9,72.3
+"COM","Comoros",2016,0,NA,NA,279,53,32.1,70.1
+"COM","Comoros",2017,0,NA,NA,273,51.5,31.3,67.9
+"COM","Comoros",2018,0,NA,NA,NA,50.1,30.5,65.7
+"CPV","Cape Verde",1999,NA,NA,NA,NA,NA,NA,NA
+"CPV","Cape Verde",2000,0,NA,NA,118,31.1,18.1,38.1
+"CPV","Cape Verde",2001,0,NA,NA,109,28.4,17,34.4
+"CPV","Cape Verde",2002,0,0,1,101,26.3,16,31.6
+"CPV","Cape Verde",2003,0,NA,NA,96,24.8,15.4,29.8
+"CPV","Cape Verde",2004,0,NA,NA,91,24,15.1,28.6
+"CPV","Cape Verde",2005,0,NA,NA,86,23.5,15.1,28.1
+"CPV","Cape Verde",2006,0,NA,NA,82,23.4,15.3,27.9
+"CPV","Cape Verde",2007,0,NA,NA,78,23.3,15.4,27.8
+"CPV","Cape Verde",2008,0,NA,NA,75,23.1,15.6,27.5
+"CPV","Cape Verde",2009,0,NA,NA,72,22.7,15.5,27
+"CPV","Cape Verde",2010,0,NA,NA,70,22.1,15.3,26.3
+"CPV","Cape Verde",2011,0,NA,NA,67,21.3,14.9,25.2
+"CPV","Cape Verde",2012,0,NA,NA,65,20.3,14.3,24
+"CPV","Cape Verde",2013,0,NA,NA,63,19.2,13.5,22.5
+"CPV","Cape Verde",2014,0,NA,NA,62,17.9,12.6,21
+"CPV","Cape Verde",2015,0,NA,NA,61,16.7,11.8,19.5
+"CPV","Cape Verde",2016,0,NA,NA,59,15.5,10.9,18.1
+"CPV","Cape Verde",2017,0,0,1,58,14.5,10.2,16.8
+"CPV","Cape Verde",2018,0,NA,NA,NA,13.6,9.6,15.8
+"CRI","Costa Rica",1999,NA,NA,NA,NA,NA,NA,NA
+"CRI","Costa Rica",2000,0,NA,NA,40,11.1,7.7,13.1
+"CRI","Costa Rica",2001,0,NA,NA,37,10.5,7.5,12.6
+"CRI","Costa Rica",2002,0,NA,NA,38,10.1,7.3,12.1
+"CRI","Costa Rica",2003,0,1,0,37,10,7.2,11.8
+"CRI","Costa Rica",2004,0,1,0,36,9.9,7.1,11.5
+"CRI","Costa Rica",2005,0,NA,NA,33,9.9,7.1,11.3
+"CRI","Costa Rica",2006,0,NA,NA,35,9.8,7,11.2
+"CRI","Costa Rica",2007,0,NA,NA,29,9.7,6.9,11.1
+"CRI","Costa Rica",2008,0,NA,NA,29,9.5,6.8,10.9
+"CRI","Costa Rica",2009,0,1,0,29,9.3,6.7,10.7
+"CRI","Costa Rica",2010,0,NA,NA,32,9.2,6.6,10.5
+"CRI","Costa Rica",2011,0,NA,NA,30,8.9,6.5,10.2
+"CRI","Costa Rica",2012,0,1,0,29,8.6,6.5,9.9
+"CRI","Costa Rica",2013,0,NA,NA,29,8.2,6.4,9.6
+"CRI","Costa Rica",2014,0,0,1,29,7.9,6.3,9.3
+"CRI","Costa Rica",2015,0,NA,NA,28,7.7,6.3,9.1
+"CRI","Costa Rica",2016,0,NA,NA,28,7.6,6.2,8.9
+"CRI","Costa Rica",2017,0,NA,NA,27,7.5,6.1,8.7
+"CRI","Costa Rica",2018,0,0,1,NA,7.4,5.9,8.4
+"CUB","Cuba",1999,NA,NA,NA,NA,NA,NA,NA
+"CUB","Cuba",2000,0,0,1,46,7,4.3,8.8
+"CUB","Cuba",2001,0,NA,NA,44,6.8,4.2,8.5
+"CUB","Cuba",2002,0,NA,NA,41,6.5,4,8.2
+"CUB","Cuba",2003,0,NA,NA,41,6.3,3.8,7.9
+"CUB","Cuba",2004,0,0,1,40,6.1,3.6,7.6
+"CUB","Cuba",2005,0,NA,NA,41,5.9,3.4,7.4
+"CUB","Cuba",2006,0,NA,NA,38,5.7,3.3,7.2
+"CUB","Cuba",2007,0,NA,NA,38,5.5,3.2,6.9
+"CUB","Cuba",2008,0,NA,NA,40,5.4,3.1,6.7
+"CUB","Cuba",2009,0,NA,NA,40,5.2,3,6.5
+"CUB","Cuba",2010,0,NA,NA,41,5.1,2.9,6.4
+"CUB","Cuba",2011,0,NA,NA,38,5,2.8,6.2
+"CUB","Cuba",2012,0,NA,NA,39,4.8,2.7,6.1
+"CUB","Cuba",2013,0,NA,NA,40,4.7,2.6,5.9
+"CUB","Cuba",2014,0,NA,NA,39,4.6,2.5,5.8
+"CUB","Cuba",2015,0,0,1,38,4.5,2.4,5.7
+"CUB","Cuba",2016,0,NA,NA,37,4.4,2.3,5.5
+"CUB","Cuba",2017,0,NA,NA,36,4.3,2.3,5.4
+"CUB","Cuba",2018,0,NA,NA,NA,4.3,2.3,5.3
+"CYP","Cyprus",1999,NA,NA,NA,NA,NA,NA,NA
+"CYP","Cyprus",2000,0,0,1,14,5.6,3.7,6.5
+"CYP","Cyprus",2001,0,NA,NA,9,5.2,3.4,6
+"CYP","Cyprus",2002,0,NA,NA,10,4.8,3.2,5.6
+"CYP","Cyprus",2003,0,NA,NA,9,4.5,3,5.2
+"CYP","Cyprus",2004,0,NA,NA,9,4.1,2.8,4.8
+"CYP","Cyprus",2005,0,NA,NA,12,3.8,2.6,4.5
+"CYP","Cyprus",2006,0,NA,NA,9,3.6,2.4,4.2
+"CYP","Cyprus",2007,0,NA,NA,8,3.3,2.3,3.9
+"CYP","Cyprus",2008,0,NA,NA,9,3.1,2.1,3.7
+"CYP","Cyprus",2009,0,NA,NA,8,3,2,3.5
+"CYP","Cyprus",2010,0,NA,NA,8,2.8,1.9,3.4
+"CYP","Cyprus",2011,0,NA,NA,8,2.7,1.9,3.2
+"CYP","Cyprus",2012,0,NA,NA,7,2.6,1.8,3.1
+"CYP","Cyprus",2013,0,NA,NA,6,2.5,1.8,3
+"CYP","Cyprus",2014,0,NA,NA,8,2.4,1.7,2.9
+"CYP","Cyprus",2015,0,NA,NA,7,2.4,1.7,2.9
+"CYP","Cyprus",2016,0,NA,NA,6,2.4,1.7,2.9
+"CYP","Cyprus",2017,0,NA,NA,6,2.3,1.7,2.8
+"CYP","Cyprus",2018,0,NA,NA,NA,2.3,1.7,2.8
+"CZE","Czechia",1999,NA,NA,NA,NA,NA,NA,NA
+"CZE","Czechia",2000,0,NA,NA,7,4.5,2.7,5.5
+"CZE","Czechia",2001,0,NA,NA,7,4.3,2.5,5.2
+"CZE","Czechia",2002,0,NA,NA,6,4.1,2.4,5
+"CZE","Czechia",2003,0,NA,NA,6,3.9,2.4,4.8
+"CZE","Czechia",2004,0,NA,NA,5,3.7,2.3,4.6
+"CZE","Czechia",2005,0,NA,NA,5,3.6,2.2,4.4
+"CZE","Czechia",2006,0,NA,NA,5,3.4,2.1,4.1
+"CZE","Czechia",2007,0,NA,NA,5,3.2,2,3.9
+"CZE","Czechia",2008,0,NA,NA,5,3,1.9,3.7
+"CZE","Czechia",2009,0,NA,NA,4,2.9,1.8,3.5
+"CZE","Czechia",2010,0,NA,NA,4,2.7,1.7,3.4
+"CZE","Czechia",2011,0,NA,NA,4,2.6,1.6,3.3
+"CZE","Czechia",2012,0,NA,NA,4,2.6,1.6,3.2
+"CZE","Czechia",2013,0,NA,NA,4,2.5,1.6,3.1
+"CZE","Czechia",2014,0,NA,NA,4,2.5,1.6,3.1
+"CZE","Czechia",2015,0,NA,NA,4,2.5,1.6,3.2
+"CZE","Czechia",2016,0,NA,NA,4,2.6,1.6,3.2
+"CZE","Czechia",2017,0,NA,NA,3,2.6,1.6,3.2
+"CZE","Czechia",2018,0,NA,NA,NA,2.5,1.6,3.1
+"DEU","Germany",1999,NA,NA,NA,NA,NA,NA,NA
+"DEU","Germany",2000,0,NA,NA,7,4.4,2.8,5.4
+"DEU","Germany",2001,0,NA,NA,7,4.3,2.7,5.2
+"DEU","Germany",2002,0,NA,NA,7,4.2,2.7,5.1
+"DEU","Germany",2003,0,NA,NA,6,4.1,2.7,5
+"DEU","Germany",2004,0,1,0,6,4,2.6,4.9
+"DEU","Germany",2005,0,NA,NA,6,3.9,2.6,4.7
+"DEU","Germany",2006,0,NA,NA,6,3.8,2.6,4.6
+"DEU","Germany",2007,0,NA,NA,6,3.7,2.5,4.5
+"DEU","Germany",2008,0,NA,NA,6,3.6,2.4,4.4
+"DEU","Germany",2009,0,NA,NA,6,3.5,2.4,4.3
+"DEU","Germany",2010,0,NA,NA,6,3.5,2.3,4.2
+"DEU","Germany",2011,0,NA,NA,6,3.4,2.3,4.1
+"DEU","Germany",2012,0,NA,NA,5,3.4,2.3,4
+"DEU","Germany",2013,0,NA,NA,5,3.3,2.3,4
+"DEU","Germany",2014,0,NA,NA,5,3.3,2.3,4
+"DEU","Germany",2015,0,NA,NA,5,3.3,2.3,3.9
+"DEU","Germany",2016,0,NA,NA,5,3.3,2.3,3.9
+"DEU","Germany",2017,0,NA,NA,7,3.3,2.3,3.9
+"DEU","Germany",2018,0,NA,NA,NA,3.2,2.3,3.8
+"DJI","Djibouti",1999,NA,NA,NA,NA,NA,NA,NA
+"DJI","Djibouti",2000,1,NA,NA,507,79.9,43.9,101
+"DJI","Djibouti",2001,0,NA,NA,490,78.2,43.4,98.6
+"DJI","Djibouti",2002,0,NA,NA,470,76.5,42.7,96.1
+"DJI","Djibouti",2003,0,NA,NA,449,74.7,42.1,93.6
+"DJI","Djibouti",2004,0,NA,NA,426,72.9,41.6,91.1
+"DJI","Djibouti",2005,0,0,1,393,71.2,40.9,88.7
+"DJI","Djibouti",2006,0,NA,NA,361,69.4,40.3,86.1
+"DJI","Djibouti",2007,0,0,1,335,67.6,39.7,83.6
+"DJI","Djibouti",2008,0,0,1,320,65.9,39,81.2
+"DJI","Djibouti",2009,1,NA,NA,299,64.2,38.4,78.8
+"DJI","Djibouti",2010,0,0,1,283,62.5,37.6,76.6
+"DJI","Djibouti",2011,0,NA,NA,272,60.9,37,74.4
+"DJI","Djibouti",2012,0,NA,NA,262,59.3,36.3,72.2
+"DJI","Djibouti",2013,0,NA,NA,256,57.8,35.4,70.1
+"DJI","Djibouti",2014,0,NA,NA,256,56.2,34.7,68
+"DJI","Djibouti",2015,0,NA,NA,247,54.6,34,65.8
+"DJI","Djibouti",2016,0,NA,NA,246,53.1,33.2,63.8
+"DJI","Djibouti",2017,0,NA,NA,248,51.6,32.5,61.8
+"DJI","Djibouti",2018,0,NA,NA,NA,50.1,31.8,59.7
+"DMA","Dominica",1999,NA,NA,NA,NA,NA,NA,NA
+"DMA","Dominica",2000,0,NA,NA,NA,14.1,12.9,16.9
+"DMA","Dominica",2001,0,NA,NA,NA,14.5,13.3,17.3
+"DMA","Dominica",2002,0,NA,NA,NA,14.9,13.8,17.8
+"DMA","Dominica",2003,0,NA,NA,NA,15.5,14.4,18.4
+"DMA","Dominica",2004,0,1,0,NA,16.1,14.9,19
+"DMA","Dominica",2005,0,NA,NA,NA,16.8,15.6,19.7
+"DMA","Dominica",2006,0,NA,NA,NA,17.5,16.2,20.5
+"DMA","Dominica",2007,0,NA,NA,NA,18.3,17,21.4
+"DMA","Dominica",2008,0,NA,NA,NA,19.2,17.8,22.3
+"DMA","Dominica",2009,0,NA,NA,NA,20.2,18.7,23.4
+"DMA","Dominica",2010,0,NA,NA,NA,21.3,19.6,24.6
+"DMA","Dominica",2011,0,NA,NA,NA,22.5,20.7,25.8
+"DMA","Dominica",2012,0,NA,NA,NA,23.7,21.7,27.1
+"DMA","Dominica",2013,0,NA,NA,NA,25,22.8,28.4
+"DMA","Dominica",2014,0,NA,NA,NA,26.2,23.9,29.8
+"DMA","Dominica",2015,0,NA,NA,NA,27.5,25,31.1
+"DMA","Dominica",2016,0,NA,NA,NA,28.7,26.1,32.4
+"DMA","Dominica",2017,0,NA,NA,NA,29.7,27.2,33.5
+"DMA","Dominica",2018,0,NA,NA,NA,30.6,28.3,34.4
+"DNK","Denmark",1999,NA,NA,NA,NA,NA,NA,NA
+"DNK","Denmark",2000,0,NA,NA,8,4.7,3.5,5.7
+"DNK","Denmark",2001,0,NA,NA,8,4.7,3.4,5.6
+"DNK","Denmark",2002,0,NA,NA,8,4.6,3.2,5.5
+"DNK","Denmark",2003,0,NA,NA,7,4.5,3.2,5.4
+"DNK","Denmark",2004,0,NA,NA,7,4.3,3.1,5.2
+"DNK","Denmark",2005,0,NA,NA,6,4.2,3.1,5
+"DNK","Denmark",2006,0,NA,NA,6,4,3,4.8
+"DNK","Denmark",2007,0,NA,NA,6,3.8,2.9,4.5
+"DNK","Denmark",2008,0,NA,NA,6,3.7,2.8,4.4
+"DNK","Denmark",2009,0,NA,NA,6,3.6,2.8,4.2
+"DNK","Denmark",2010,0,NA,NA,5,3.5,2.8,4.1
+"DNK","Denmark",2011,0,NA,NA,5,3.4,2.9,4.1
+"DNK","Denmark",2012,0,NA,NA,5,3.5,3,4.1
+"DNK","Denmark",2013,0,NA,NA,4,3.5,3,4.1
+"DNK","Denmark",2014,0,NA,NA,4,3.5,3,4.1
+"DNK","Denmark",2015,0,NA,NA,4,3.5,3,4.1
+"DNK","Denmark",2016,0,NA,NA,4,3.5,2.9,4.1
+"DNK","Denmark",2017,0,NA,NA,4,3.4,2.8,4
+"DNK","Denmark",2018,0,NA,NA,NA,3.3,2.7,3.9
+"DOM","Dominican Republic",1999,NA,NA,NA,NA,NA,NA,NA
+"DOM","Dominican Republic",2000,0,NA,NA,80,32.4,23.3,40
+"DOM","Dominican Republic",2001,0,NA,NA,75,31.7,23.2,39
+"DOM","Dominican Republic",2002,0,NA,NA,75,31.1,23.1,38.1
+"DOM","Dominican Republic",2003,0,1,0,76,30.6,23.1,37.4
+"DOM","Dominican Republic",2004,0,NA,NA,81,30.1,23.2,36.9
+"DOM","Dominican Republic",2005,0,NA,NA,83,29.8,23.4,36.4
+"DOM","Dominican Republic",2006,0,NA,NA,86,29.5,23.6,36
+"DOM","Dominican Republic",2007,0,NA,NA,90,29.3,23.8,35.7
+"DOM","Dominican Republic",2008,0,NA,NA,92,29.1,24,35.5
+"DOM","Dominican Republic",2009,0,NA,NA,95,29,24.1,35.3
+"DOM","Dominican Republic",2010,0,NA,NA,96,28.9,24.2,35.1
+"DOM","Dominican Republic",2011,0,NA,NA,95,28.8,24.3,35
+"DOM","Dominican Republic",2012,0,NA,NA,94,28.8,24.3,35
+"DOM","Dominican Republic",2013,0,NA,NA,94,28.8,24.3,35
+"DOM","Dominican Republic",2014,0,NA,NA,94,28.8,24.4,35
+"DOM","Dominican Republic",2015,0,NA,NA,94,28.8,24.4,35
+"DOM","Dominican Republic",2016,0,NA,NA,94,28.8,24.5,35
+"DOM","Dominican Republic",2017,0,NA,NA,95,28.7,24.4,34.9
+"DOM","Dominican Republic",2018,0,NA,NA,NA,28.6,24.2,34.8
+"DZA","Algeria",1999,NA,NA,NA,NA,NA,NA,NA
+"DZA","Algeria",2000,1,NA,NA,161,33.9,21.1,39.7
+"DZA","Algeria",2001,1,NA,NA,155,33.3,21.1,38.9
+"DZA","Algeria",2002,1,NA,NA,148,32.4,20.9,37.8
+"DZA","Algeria",2003,1,1,0,145,31.3,20.8,36.5
+"DZA","Algeria",2003,1,1,0,145,31.3,20.8,36.5
+"DZA","Algeria",2004,1,1,0,134,30.1,20.4,35.1
+"DZA","Algeria",2004,1,1,0,134,30.1,20.4,35.1
+"DZA","Algeria",2005,1,NA,NA,127,28.8,20.1,33.6
+"DZA","Algeria",2006,1,1,0,122,27.6,19.8,32.1
+"DZA","Algeria",2007,1,NA,NA,119,26.4,19.4,30.7
+"DZA","Algeria",2008,1,NA,NA,117,25.3,18.9,29.5
+"DZA","Algeria",2009,1,NA,NA,117,24.4,18.2,28.4
+"DZA","Algeria",2010,1,NA,NA,115,23.6,17.5,27.4
+"DZA","Algeria",2011,1,NA,NA,116,22.9,17.1,26.7
+"DZA","Algeria",2012,1,NA,NA,116,22.5,16.9,26.2
+"DZA","Algeria",2013,1,NA,NA,115,22.1,16.4,25.8
+"DZA","Algeria",2014,1,1,0,114,21.9,15.7,25.5
+"DZA","Algeria",2015,1,NA,NA,114,21.6,15.1,25.2
+"DZA","Algeria",2016,1,NA,NA,113,21.3,15.1,24.8
+"DZA","Algeria",2017,1,NA,NA,112,20.9,15.6,24.3
+"DZA","Algeria",2018,1,NA,NA,NA,20.4,16,23.8
+"ECU","Ecuador",1999,NA,NA,NA,NA,NA,NA,NA
+"ECU","Ecuador",2000,0,NA,NA,122,24.7,14.1,29.5
+"ECU","Ecuador",2001,0,NA,NA,117,23.4,13.4,28
+"ECU","Ecuador",2002,0,NA,NA,110,22.4,12.7,26.6
+"ECU","Ecuador",2003,0,NA,NA,100,21.5,12.1,25.4
+"ECU","Ecuador",2004,1,NA,NA,94,20.7,11.6,24.4
+"ECU","Ecuador",2005,0,NA,NA,94,19.9,11.1,23.5
+"ECU","Ecuador",2006,0,NA,NA,90,19.2,10.6,22.6
+"ECU","Ecuador",2007,0,NA,NA,85,18.5,10.2,21.7
+"ECU","Ecuador",2008,0,NA,NA,82,17.7,9.7,20.8
+"ECU","Ecuador",2009,1,0,1,80,17,9.3,19.9
+"ECU","Ecuador",2010,0,NA,NA,78,16.3,8.9,19
+"ECU","Ecuador",2011,0,NA,NA,76,15.6,8.5,18.1
+"ECU","Ecuador",2012,0,NA,NA,71,14.9,8.1,17.3
+"ECU","Ecuador",2013,0,0,1,67,14.3,7.8,16.6
+"ECU","Ecuador",2014,0,1,0,65,13.7,7.5,15.9
+"ECU","Ecuador",2015,0,NA,NA,63,13.2,7.3,15.4
+"ECU","Ecuador",2016,0,1,0,61,12.8,7.1,14.8
+"ECU","Ecuador",2016,0,1,0,61,12.8,7.1,14.8
+"ECU","Ecuador",2017,0,NA,NA,59,12.4,6.9,14.4
+"ECU","Ecuador",2018,0,NA,NA,NA,12,6.9,13.9
+"EGY","Egypt",1999,NA,NA,NA,NA,NA,NA,NA
+"EGY","Egypt",2000,0,NA,NA,64,37.1,22.4,46.6
+"EGY","Egypt",2001,0,NA,NA,63,35.2,21.7,43.9
+"EGY","Egypt",2002,0,1,0,60,33.5,21,41.5
+"EGY","Egypt",2003,0,NA,NA,57,32,20.3,39.4
+"EGY","Egypt",2004,0,NA,NA,54,30.6,19.7,37.5
+"EGY","Egypt",2005,1,NA,NA,52,29.3,19,35.7
+"EGY","Egypt",2006,1,NA,NA,50,28.2,18.2,34.2
+"EGY","Egypt",2007,0,NA,NA,47,27.1,17.5,32.7
+"EGY","Egypt",2008,0,NA,NA,45,26,16.7,31.3
+"EGY","Egypt",2009,0,NA,NA,45,25,16,29.9
+"EGY","Egypt",2010,0,NA,NA,45,24,15.2,28.7
+"EGY","Egypt",2011,0,NA,NA,42,23.1,14.6,27.5
+"EGY","Egypt",2012,1,NA,NA,42,22.2,13.9,26.3
+"EGY","Egypt",2013,1,NA,NA,40,21.3,13.4,25.3
+"EGY","Egypt",2014,1,NA,NA,39,20.5,12.8,24.3
+"EGY","Egypt",2015,1,NA,NA,39,19.8,12.3,23.3
+"EGY","Egypt",2016,1,NA,NA,38,19.1,11.9,22.5
+"EGY","Egypt",2017,1,NA,NA,37,18.5,11.5,21.7
+"EGY","Egypt",2018,1,NA,NA,NA,17.8,11.1,20.9
+"ERI","Eritrea",1999,NA,NA,NA,NA,NA,NA,NA
+"ERI","Eritrea",2000,1,NA,NA,1280,56.1,27,85.2
+"ERI","Eritrea",2001,1,NA,NA,1180,53.8,26.5,81.1
+"ERI","Eritrea",2002,0,NA,NA,1130,51.6,26.1,77.3
+"ERI","Eritrea",2003,0,NA,NA,1060,49.6,25.6,73.8
+"ERI","Eritrea",2004,1,NA,NA,938,47.8,25.2,70.5
+"ERI","Eritrea",2005,0,NA,NA,804,46.1,24.7,67.5
+"ERI","Eritrea",2006,0,NA,NA,705,44.5,24.2,64.6
+"ERI","Eritrea",2007,0,NA,NA,635,43,23.7,61.9
+"ERI","Eritrea",2008,0,0,1,605,41.5,23.2,59.4
+"ERI","Eritrea",2009,0,NA,NA,583,40.2,22.6,57.1
+"ERI","Eritrea",2010,0,NA,NA,567,39,22.1,55.1
+"ERI","Eritrea",2011,0,NA,NA,558,37.9,21.5,53.1
+"ERI","Eritrea",2012,0,NA,NA,549,36.8,21.1,51.2
+"ERI","Eritrea",2013,0,NA,NA,540,35.8,20.6,49.5
+"ERI","Eritrea",2014,0,NA,NA,530,34.9,20.2,47.9
+"ERI","Eritrea",2015,0,NA,NA,518,34,19.7,46.3
+"ERI","Eritrea",2016,0,NA,NA,498,33.1,19.3,44.8
+"ERI","Eritrea",2017,1,NA,NA,480,32.2,18.9,43.3
+"ERI","Eritrea",2018,0,NA,NA,NA,31.3,18.5,41.9
+"ESP","Spain",1999,NA,NA,NA,NA,NA,NA,NA
+"ESP","Spain",2000,0,NA,NA,5,4.4,2.8,5.4
+"ESP","Spain",2001,0,NA,NA,5,4.3,2.7,5.3
+"ESP","Spain",2002,0,NA,NA,5,4.2,2.7,5.1
+"ESP","Spain",2003,0,NA,NA,5,4.1,2.6,5
+"ESP","Spain",2004,0,NA,NA,5,3.9,2.5,4.9
+"ESP","Spain",2005,1,NA,NA,5,3.8,2.4,4.7
+"ESP","Spain",2006,0,NA,NA,4,3.7,2.3,4.5
+"ESP","Spain",2007,0,NA,NA,4,3.6,2.2,4.4
+"ESP","Spain",2008,0,NA,NA,4,3.4,2.2,4.2
+"ESP","Spain",2009,0,NA,NA,4,3.3,2.1,4
+"ESP","Spain",2010,0,NA,NA,4,3.1,2.1,3.8
+"ESP","Spain",2011,0,1,0,4,3,2.1,3.7
+"ESP","Spain",2012,0,NA,NA,4,2.9,2.1,3.6
+"ESP","Spain",2013,0,NA,NA,4,2.8,2,3.5
+"ESP","Spain",2014,0,NA,NA,4,2.8,2,3.4
+"ESP","Spain",2015,0,NA,NA,4,2.7,1.9,3.3
+"ESP","Spain",2016,0,NA,NA,4,2.7,1.9,3.3
+"ESP","Spain",2017,0,NA,NA,4,2.7,1.9,3.3
+"ESP","Spain",2018,0,NA,NA,NA,2.7,1.8,3.3
+"EST","Estonia",1999,NA,NA,NA,NA,NA,NA,NA
+"EST","Estonia",2000,0,NA,NA,29,8.7,5.3,10.9
+"EST","Estonia",2001,0,NA,NA,27,8,4.8,10.1
+"EST","Estonia",2002,0,NA,NA,25,7.3,4.4,9.3
+"EST","Estonia",2003,0,NA,NA,20,6.7,4,8.5
+"EST","Estonia",2004,0,NA,NA,18,6.2,3.7,7.8
+"EST","Estonia",2005,0,NA,NA,18,5.7,3.4,7.2
+"EST","Estonia",2006,0,NA,NA,16,5.2,3.1,6.6
+"EST","Estonia",2007,0,NA,NA,17,4.7,2.8,6
+"EST","Estonia",2008,0,NA,NA,14,4.3,2.5,5.5
+"EST","Estonia",2009,0,NA,NA,14,4,2.3,5
+"EST","Estonia",2010,0,NA,NA,11,3.6,2.1,4.6
+"EST","Estonia",2011,0,NA,NA,13,3.3,1.9,4.2
+"EST","Estonia",2012,0,NA,NA,12,3,1.7,3.9
+"EST","Estonia",2013,0,NA,NA,10,2.8,1.6,3.6
+"EST","Estonia",2014,0,NA,NA,11,2.6,1.5,3.3
+"EST","Estonia",2015,0,NA,NA,10,2.4,1.4,3.1
+"EST","Estonia",2016,0,NA,NA,11,2.2,1.3,2.8
+"EST","Estonia",2017,0,NA,NA,9,2.1,1.2,2.6
+"EST","Estonia",2018,0,NA,NA,NA,1.9,1.1,2.4
+"ETH","Ethiopia",1999,NA,NA,NA,NA,NA,NA,NA
+"ETH","Ethiopia",2000,1,NA,NA,1030,87.2,48.6,140.7
+"ETH","Ethiopia",2001,1,NA,NA,988,83.8,47.8,134.6
+"ETH","Ethiopia",2002,1,NA,NA,985,80.3,46.8,128.3
+"ETH","Ethiopia",2003,1,0,1,972,76.7,45.8,121.8
+"ETH","Ethiopia",2004,1,NA,NA,929,73.1,44.8,115.3
+"ETH","Ethiopia",2005,1,0,1,865,69.5,43.7,108.9
+"ETH","Ethiopia",2006,1,NA,NA,795,66.1,42.6,102.8
+"ETH","Ethiopia",2007,1,NA,NA,731,62.8,41.4,97
+"ETH","Ethiopia",2008,1,0,1,681,59.8,40.2,91.6
+"ETH","Ethiopia",2009,1,0,1,638,57,39.1,86.7
+"ETH","Ethiopia",2010,1,0,1,597,54.3,37.9,82
+"ETH","Ethiopia",2011,1,0,1,558,51.9,36.7,77.7
+"ETH","Ethiopia",2012,1,NA,NA,527,49.5,35.5,73.5
+"ETH","Ethiopia",2013,1,NA,NA,498,47.3,34.3,69.6
+"ETH","Ethiopia",2014,1,NA,NA,472,45.2,33.1,65.9
+"ETH","Ethiopia",2015,1,0,1,446,43.2,31.9,62.4
+"ETH","Ethiopia",2016,1,NA,NA,422,41.3,30.7,59
+"ETH","Ethiopia",2017,1,NA,NA,401,39.5,29.7,55.9
+"ETH","Ethiopia",2018,1,NA,NA,NA,38,28.7,53.2
+"FIN","Finland",1999,NA,NA,NA,NA,NA,NA,NA
+"FIN","Finland",2000,0,NA,NA,6,3.5,2.5,4.3
+"FIN","Finland",2001,0,NA,NA,5,3.4,2.4,4.2
+"FIN","Finland",2002,0,NA,NA,5,3.3,2.3,4.1
+"FIN","Finland",2003,0,NA,NA,5,3.3,2.2,4
+"FIN","Finland",2004,0,NA,NA,5,3.2,2.1,3.9
+"FIN","Finland",2005,0,NA,NA,5,3.1,2.1,3.7
+"FIN","Finland",2006,0,NA,NA,4,3,2,3.6
+"FIN","Finland",2007,0,NA,NA,4,2.8,1.9,3.5
+"FIN","Finland",2008,0,NA,NA,4,2.7,1.8,3.3
+"FIN","Finland",2009,0,NA,NA,4,2.6,1.8,3.2
+"FIN","Finland",2010,0,NA,NA,4,2.5,1.7,3
+"FIN","Finland",2011,0,NA,NA,4,2.4,1.6,2.9
+"FIN","Finland",2012,0,NA,NA,4,2.3,1.5,2.8
+"FIN","Finland",2013,0,NA,NA,4,2.2,1.4,2.7
+"FIN","Finland",2014,0,NA,NA,3,2.1,1.4,2.6
+"FIN","Finland",2015,0,NA,NA,3,2,1.4,2.5
+"FIN","Finland",2016,0,NA,NA,3,2,1.4,2.4
+"FIN","Finland",2017,0,NA,NA,3,2,1.4,2.4
+"FIN","Finland",2018,0,NA,NA,NA,1.9,1.4,2.4
+"FJI","Fiji",1999,NA,NA,NA,NA,NA,NA,NA
+"FJI","Fiji",2000,0,NA,NA,51,19.1,10.1,22.4
+"FJI","Fiji",2001,0,NA,NA,49,19,10.2,22.3
+"FJI","Fiji",2002,0,NA,NA,48,19,10.5,22.4
+"FJI","Fiji",2003,0,NA,NA,48,19.2,11,22.5
+"FJI","Fiji",2004,0,NA,NA,47,19.4,11.4,22.8
+"FJI","Fiji",2005,0,NA,NA,46,19.7,11.6,23.1
+"FJI","Fiji",2006,0,NA,NA,44,19.9,11.5,23.4
+"FJI","Fiji",2007,0,NA,NA,43,20.1,11,23.7
+"FJI","Fiji",2008,0,NA,NA,42,20.2,10.3,23.8
+"FJI","Fiji",2009,0,NA,NA,40,20.1,9.7,23.7
+"FJI","Fiji",2010,0,NA,NA,39,20,9.3,23.6
+"FJI","Fiji",2011,0,NA,NA,38,20,9,23.6
+"FJI","Fiji",2012,0,NA,NA,38,20,9,23.5
+"FJI","Fiji",2013,0,NA,NA,37,20.1,9.1,23.7
+"FJI","Fiji",2014,0,NA,NA,36,20.3,9.4,23.9
+"FJI","Fiji",2015,0,0,1,35,20.6,9.8,24.4
+"FJI","Fiji",2016,0,NA,NA,34,21.1,10.2,24.9
+"FJI","Fiji",2017,0,NA,NA,34,21.5,10.6,25.5
+"FJI","Fiji",2018,0,NA,NA,NA,22.1,11,26.2
+"FRA","France",1999,NA,NA,NA,NA,NA,NA,NA
+"FRA","France",2000,0,NA,NA,10,4.1,2.8,5.4
+"FRA","France",2001,0,NA,NA,10,3.9,2.7,5.3
+"FRA","France",2002,0,NA,NA,10,3.7,2.7,5.1
+"FRA","France",2003,0,NA,NA,9,3.6,2.6,4.9
+"FRA","France",2004,0,NA,NA,9,3.4,2.5,4.8
+"FRA","France",2005,0,NA,NA,9,3.3,2.4,4.6
+"FRA","France",2006,0,NA,NA,9,3.3,2.4,4.5
+"FRA","France",2007,0,NA,NA,9,3.2,2.4,4.4
+"FRA","France",2008,0,NA,NA,9,3.2,2.4,4.4
+"FRA","France",2009,0,NA,NA,9,3.1,2.4,4.3
+"FRA","France",2010,0,NA,NA,9,3.1,2.3,4.2
+"FRA","France",2011,0,NA,NA,9,3.1,2.3,4.2
+"FRA","France",2012,0,NA,NA,9,3.1,2.3,4.1
+"FRA","France",2013,0,NA,NA,9,3.1,2.3,4.1
+"FRA","France",2014,0,NA,NA,8,3.1,2.4,4.1
+"FRA","France",2015,0,NA,NA,8,3.2,2.4,4.2
+"FRA","France",2016,1,NA,NA,8,3.2,2.5,4.2
+"FRA","France",2017,1,NA,NA,8,3.3,2.6,4.3
+"FRA","France",2018,0,NA,NA,NA,3.4,2.6,4.3
+"FSM","Micronesia (Federated States of)",1999,NA,NA,NA,NA,NA,NA,NA
+"FSM","Micronesia (Federated States of)",2000,0,NA,NA,154,30.8,20,37.8
+"FSM","Micronesia (Federated States of)",2001,0,NA,NA,150,30,19.6,36.7
+"FSM","Micronesia (Federated States of)",2002,0,NA,NA,163,29.4,19.2,35.9
+"FSM","Micronesia (Federated States of)",2003,0,NA,NA,141,29,18.8,35.2
+"FSM","Micronesia (Federated States of)",2004,0,NA,NA,137,28.7,18.6,34.8
+"FSM","Micronesia (Federated States of)",2005,0,NA,NA,133,28.6,18.5,34.7
+"FSM","Micronesia (Federated States of)",2006,0,NA,NA,128,28.5,18.4,34.6
+"FSM","Micronesia (Federated States of)",2007,0,NA,NA,123,28.4,18.3,34.5
+"FSM","Micronesia (Federated States of)",2008,0,NA,NA,118,28.2,18.2,34.2
+"FSM","Micronesia (Federated States of)",2009,0,NA,NA,114,27.8,17.9,33.7
+"FSM","Micronesia (Federated States of)",2010,0,NA,NA,110,27.4,17.5,33.1
+"FSM","Micronesia (Federated States of)",2011,0,NA,NA,106,26.8,17.1,32.3
+"FSM","Micronesia (Federated States of)",2012,0,NA,NA,103,26.2,16.7,31.6
+"FSM","Micronesia (Federated States of)",2013,0,NA,NA,99,25.6,16.2,30.7
+"FSM","Micronesia (Federated States of)",2014,0,NA,NA,96,24.9,15.6,29.9
+"FSM","Micronesia (Federated States of)",2015,0,NA,NA,95,24.2,15.2,28.9
+"FSM","Micronesia (Federated States of)",2016,0,0,1,90,23.5,14.7,28
+"FSM","Micronesia (Federated States of)",2017,0,NA,NA,88,22.7,14.2,27
+"FSM","Micronesia (Federated States of)",2018,0,NA,NA,NA,22.1,13.7,26.2
+"GAB","Gabon",1999,NA,NA,NA,NA,NA,NA,NA
+"GAB","Gabon",2000,0,NA,NA,380,53.3,26.9,82.9
+"GAB","Gabon",2001,0,NA,NA,370,52.3,26.6,81.4
+"GAB","Gabon",2002,0,NA,NA,361,51.2,26.3,79.6
+"GAB","Gabon",2003,0,NA,NA,356,50.2,26,77.8
+"GAB","Gabon",2004,0,NA,NA,354,49,25.7,75.8
+"GAB","Gabon",2005,0,NA,NA,348,47.7,25.4,73.6
+"GAB","Gabon",2006,0,NA,NA,340,46.6,25.1,71.6
+"GAB","Gabon",2007,0,NA,NA,336,45.2,24.8,69.2
+"GAB","Gabon",2008,0,NA,NA,332,43.9,24.5,66.7
+"GAB","Gabon",2009,0,NA,NA,324,42.9,24.2,64.2
+"GAB","Gabon",2010,0,NA,NA,314,41.6,23.8,61.7
+"GAB","Gabon",2011,0,NA,NA,304,40.4,23.5,59.3
+"GAB","Gabon",2012,0,NA,NA,292,39.1,23.1,57.1
+"GAB","Gabon",2013,0,NA,NA,277,37.9,22.7,54.9
+"GAB","Gabon",2014,0,NA,NA,267,37.2,22.2,52.8
+"GAB","Gabon",2015,0,NA,NA,261,36.1,21.8,50.3
+"GAB","Gabon",2016,0,NA,NA,256,34.6,21.3,47.4
+"GAB","Gabon",2017,0,NA,NA,252,33.7,20.9,45.5
+"GAB","Gabon",2018,0,NA,NA,NA,32.5,20.5,44.1
+"GBR","United Kingdom",1999,NA,NA,NA,NA,NA,NA,NA
+"GBR","United Kingdom",2000,0,NA,NA,10,5.6,3.8,6.5
+"GBR","United Kingdom",2001,0,NA,NA,11,5.5,3.7,6.4
+"GBR","United Kingdom",2002,0,NA,NA,11,5.4,3.6,6.3
+"GBR","United Kingdom",2003,0,NA,NA,11,5.3,3.6,6.2
+"GBR","United Kingdom",2004,0,NA,NA,11,5.2,3.5,6.1
+"GBR","United Kingdom",2005,0,NA,NA,11,5.1,3.5,6
+"GBR","United Kingdom",2006,1,NA,NA,11,5,3.4,5.9
+"GBR","United Kingdom",2007,0,1,0,11,4.9,3.3,5.8
+"GBR","United Kingdom",2008,0,NA,NA,11,4.8,3.2,5.6
+"GBR","United Kingdom",2009,0,NA,NA,10,4.6,3.1,5.4
+"GBR","United Kingdom",2010,0,NA,NA,10,4.4,3,5.2
+"GBR","United Kingdom",2011,0,NA,NA,9,4.3,3,5
+"GBR","United Kingdom",2012,0,NA,NA,8,4.1,2.9,4.8
+"GBR","United Kingdom",2013,0,NA,NA,8,4,2.8,4.7
+"GBR","United Kingdom",2014,0,NA,NA,8,3.9,2.7,4.5
+"GBR","United Kingdom",2015,0,NA,NA,8,3.8,2.7,4.5
+"GBR","United Kingdom",2016,0,NA,NA,7,3.8,2.7,4.4
+"GBR","United Kingdom",2017,0,NA,NA,7,3.8,2.8,4.4
+"GBR","United Kingdom",2018,0,NA,NA,NA,3.7,2.8,4.3
+"GEO","Georgia",1999,NA,NA,NA,NA,NA,NA,NA
+"GEO","Georgia",2000,0,0,1,31,31.9,22.8,36.6
+"GEO","Georgia",2001,0,NA,NA,33,29.9,21.7,34.1
+"GEO","Georgia",2002,0,1,0,42,27.7,20.3,31.5
+"GEO","Georgia",2003,0,NA,NA,37,25.5,18.9,28.8
+"GEO","Georgia",2004,0,NA,NA,38,23.2,17.4,26.2
+"GEO","Georgia",2005,1,NA,NA,39,21,15.9,23.6
+"GEO","Georgia",2006,0,NA,NA,33,19,14.5,21.3
+"GEO","Georgia",2007,0,NA,NA,36,17.1,13.2,19.1
+"GEO","Georgia",2008,0,NA,NA,39,15.4,12,17.2
+"GEO","Georgia",2009,1,1,0,43,13.9,11,15.6
+"GEO","Georgia",2010,0,NA,NA,32,12.7,10.1,14.2
+"GEO","Georgia",2011,0,NA,NA,32,11.6,9.3,13
+"GEO","Georgia",2012,0,NA,NA,30,10.8,8.6,12.1
+"GEO","Georgia",2013,0,NA,NA,30,10.2,8,11.4
+"GEO","Georgia",2014,0,NA,NA,29,9.7,7.3,10.9
+"GEO","Georgia",2015,0,NA,NA,27,9.4,6.7,10.5
+"GEO","Georgia",2016,0,NA,NA,26,9.1,6.2,10.2
+"GEO","Georgia",2017,0,NA,NA,25,8.8,5.8,9.9
+"GEO","Georgia",2018,0,NA,NA,NA,8.7,5.4,9.7
+"GHA","Ghana",1999,NA,NA,NA,NA,NA,NA,NA
+"GHA","Ghana",2000,0,NA,NA,484,64.3,35.8,99.7
+"GHA","Ghana",2001,1,NA,NA,445,62.1,34.9,95.7
+"GHA","Ghana",2002,1,NA,NA,415,59.9,34.2,91.9
+"GHA","Ghana",2003,1,NA,NA,398,58,33.5,88.5
+"GHA","Ghana",2004,0,NA,NA,384,56.4,33,85.6
+"GHA","Ghana",2005,0,NA,NA,371,54.9,32.6,83
+"GHA","Ghana",2006,0,NA,NA,359,53.5,32.2,80.6
+"GHA","Ghana",2007,0,NA,NA,349,52.1,31.7,78
+"GHA","Ghana",2008,0,NA,NA,342,50.5,31.2,75.3
+"GHA","Ghana",2009,1,NA,NA,339,48.8,30.5,72.3
+"GHA","Ghana",2010,0,NA,NA,339,47,29.8,69.1
+"GHA","Ghana",2011,0,NA,NA,339,45.2,29,65.9
+"GHA","Ghana",2012,0,NA,NA,336,43.4,28.2,62.7
+"GHA","Ghana",2013,0,NA,NA,331,41.8,27.5,59.8
+"GHA","Ghana",2014,0,NA,NA,325,40.2,26.8,57.1
+"GHA","Ghana",2015,0,NA,NA,320,38.8,26,54.6
+"GHA","Ghana",2016,0,NA,NA,314,37.4,25.4,52.2
+"GHA","Ghana",2017,0,NA,NA,308,36.2,24.7,50.1
+"GHA","Ghana",2018,0,NA,NA,NA,35,24.1,48.1
+"GIN","Guinea",1999,NA,NA,NA,NA,NA,NA,NA
+"GIN","Guinea",2000,0,NA,NA,1020,99.9,45.5,164.2
+"GIN","Guinea",2001,1,NA,NA,1070,96.2,43.4,157.4
+"GIN","Guinea",2002,1,NA,NA,1090,92.7,41.9,150.9
+"GIN","Guinea",2003,0,NA,NA,1080,89.5,40.7,144.9
+"GIN","Guinea",2004,0,NA,NA,1020,86.5,39.6,139.5
+"GIN","Guinea",2005,0,NA,NA,920,83.9,38.5,134.7
+"GIN","Guinea",2006,0,NA,NA,831,81.5,37.4,130.4
+"GIN","Guinea",2007,0,NA,NA,772,79.4,36.5,126.6
+"GIN","Guinea",2008,1,NA,NA,754,77.6,35.8,123.3
+"GIN","Guinea",2009,0,NA,NA,750,75.9,35.3,120.3
+"GIN","Guinea",2010,1,NA,NA,747,74.4,34.7,117.7
+"GIN","Guinea",2011,0,NA,NA,748,73.1,34.2,115.3
+"GIN","Guinea",2012,1,NA,NA,744,71.8,33.6,113
+"GIN","Guinea",2013,0,NA,NA,731,70.5,33,110.7
+"GIN","Guinea",2014,1,NA,NA,767,69.5,32.4,109.2
+"GIN","Guinea",2015,0,NA,NA,699,68.4,31.9,107.3
+"GIN","Guinea",2016,0,NA,NA,621,67.1,31.4,104.6
+"GIN","Guinea",2017,0,NA,NA,576,66,31.1,102.6
+"GIN","Guinea",2018,0,NA,NA,NA,64.7,30.7,100.4
+"GMB","Gambia",1999,NA,NA,NA,NA,NA,NA,NA
+"GMB","Gambia",2000,0,NA,NA,932,61.6,40.6,113.4
+"GMB","Gambia",2001,0,NA,NA,905,59.8,39.8,108.7
+"GMB","Gambia",2002,0,0,1,876,58.1,39.1,104.2
+"GMB","Gambia",2003,0,NA,NA,843,56.4,38.4,99.8
+"GMB","Gambia",2004,0,NA,NA,802,54.7,37.7,95.6
+"GMB","Gambia",2005,0,NA,NA,756,53.1,37,91.5
+"GMB","Gambia",2006,0,NA,NA,716,51.5,36.3,87.6
+"GMB","Gambia",2007,0,NA,NA,690,50,35.5,83.8
+"GMB","Gambia",2008,0,NA,NA,675,48.6,34.7,80.3
+"GMB","Gambia",2009,0,NA,NA,668,47.1,33.9,76.8
+"GMB","Gambia",2010,0,NA,NA,661,45.8,33.1,73.6
+"GMB","Gambia",2011,0,NA,NA,656,44.5,32.4,70.6
+"GMB","Gambia",2012,0,0,1,650,43.2,31.7,67.7
+"GMB","Gambia",2013,0,NA,NA,644,42,30.9,65
+"GMB","Gambia",2014,0,NA,NA,637,40.9,30.1,62.4
+"GMB","Gambia",2015,0,0,1,625,39.7,29.4,59.8
+"GMB","Gambia",2016,0,NA,NA,611,38.6,28.5,57.4
+"GMB","Gambia",2017,0,NA,NA,597,37.5,27.8,55.1
+"GMB","Gambia",2018,0,NA,NA,NA,36.5,27.1,53.1
+"GNB","Guinea-Bissau",1999,NA,NA,NA,NA,NA,NA,NA
+"GNB","Guinea-Bissau",2000,1,NA,NA,1210,105,55.3,173.8
+"GNB","Guinea-Bissau",2001,0,NA,NA,1180,102.1,54.2,168.4
+"GNB","Guinea-Bissau",2002,0,0,1,1150,99.1,53.3,162.8
+"GNB","Guinea-Bissau",2003,0,NA,NA,1110,95.9,52.5,156.8
+"GNB","Guinea-Bissau",2004,0,NA,NA,1050,92.6,51.7,150.7
+"GNB","Guinea-Bissau",2005,0,NA,NA,979,89.2,50.9,144.5
+"GNB","Guinea-Bissau",2006,0,0,1,912,85.9,49.8,138.3
+"GNB","Guinea-Bissau",2007,0,NA,NA,860,82.5,48.7,132.2
+"GNB","Guinea-Bissau",2008,0,NA,NA,827,79.1,47.5,126.1
+"GNB","Guinea-Bissau",2009,0,NA,NA,800,75.9,46.2,120.2
+"GNB","Guinea-Bissau",2010,0,NA,NA,779,72.6,44.8,114.5
+"GNB","Guinea-Bissau",2011,0,NA,NA,762,69.6,43.6,109.1
+"GNB","Guinea-Bissau",2012,0,NA,NA,744,66.8,42.3,104.2
+"GNB","Guinea-Bissau",2013,0,NA,NA,726,64.3,41.2,99.7
+"GNB","Guinea-Bissau",2014,0,NA,NA,711,62.1,40.2,95.7
+"GNB","Guinea-Bissau",2015,0,NA,NA,694,60,39.2,92.1
+"GNB","Guinea-Bissau",2016,0,NA,NA,679,58.1,38.4,88.7
+"GNB","Guinea-Bissau",2017,0,NA,NA,667,56.3,37.5,85.5
+"GNB","Guinea-Bissau",2018,0,NA,NA,NA,54.6,36.7,82.5
+"GNQ","Equatorial Guinea",1999,NA,NA,NA,NA,NA,NA,NA
+"GNQ","Equatorial Guinea",2000,0,NA,NA,454,107.1,44.3,155.7
+"GNQ","Equatorial Guinea",2001,0,NA,NA,421,104.4,43.7,151.4
+"GNQ","Equatorial Guinea",2002,0,NA,NA,392,101.7,42.9,147.1
+"GNQ","Equatorial Guinea",2003,0,NA,NA,370,99,42.1,142.8
+"GNQ","Equatorial Guinea",2004,0,NA,NA,357,96.1,41.2,138.2
+"GNQ","Equatorial Guinea",2005,0,NA,NA,344,93.2,40.2,133.5
+"GNQ","Equatorial Guinea",2006,0,NA,NA,331,90.3,39.1,129
+"GNQ","Equatorial Guinea",2007,0,NA,NA,322,87.4,37.9,124.4
+"GNQ","Equatorial Guinea",2008,0,NA,NA,314,84.5,36.9,119.7
+"GNQ","Equatorial Guinea",2009,0,NA,NA,310,81.7,35.9,115.3
+"GNQ","Equatorial Guinea",2010,0,NA,NA,308,79.1,35.1,111.2
+"GNQ","Equatorial Guinea",2011,0,NA,NA,308,76.7,34.3,107.4
+"GNQ","Equatorial Guinea",2012,0,NA,NA,305,74.3,33.7,103.6
+"GNQ","Equatorial Guinea",2013,0,NA,NA,300,72.1,33,100.2
+"GNQ","Equatorial Guinea",2014,0,NA,NA,295,69.9,32.5,96.8
+"GNQ","Equatorial Guinea",2015,0,NA,NA,296,67.6,31.8,93.2
+"GNQ","Equatorial Guinea",2016,0,NA,NA,301,65.6,31.2,90
+"GNQ","Equatorial Guinea",2017,0,NA,NA,301,63.6,30.5,86.9
+"GNQ","Equatorial Guinea",2018,0,NA,NA,NA,61.7,29.9,83.9
+"GRC","Greece",1999,NA,NA,NA,NA,NA,NA,NA
+"GRC","Greece",2000,0,1,0,3,5.6,3.9,6.4
+"GRC","Greece",2001,0,1,0,3,5.2,3.6,6
+"GRC","Greece",2002,0,1,0,3,4.9,3.3,5.6
+"GRC","Greece",2003,0,1,0,3,4.6,3,5.2
+"GRC","Greece",2004,0,NA,NA,3,4.3,2.7,4.9
+"GRC","Greece",2005,0,NA,NA,3,4,2.5,4.6
+"GRC","Greece",2006,0,NA,NA,3,3.8,2.4,4.3
+"GRC","Greece",2007,0,NA,NA,3,3.6,2.2,4.1
+"GRC","Greece",2008,0,1,0,3,3.5,2.1,4
+"GRC","Greece",2009,0,NA,NA,3,3.4,2.1,3.9
+"GRC","Greece",2010,0,NA,NA,3,3.4,2.1,3.9
+"GRC","Greece",2011,0,NA,NA,3,3.5,2.2,4
+"GRC","Greece",2012,0,NA,NA,3,3.5,2.3,4
+"GRC","Greece",2013,0,NA,NA,3,3.6,2.4,4.1
+"GRC","Greece",2014,0,1,0,3,3.7,2.6,4.3
+"GRC","Greece",2014,0,1,0,3,3.7,2.6,4.3
+"GRC","Greece",2015,0,NA,NA,3,3.8,2.6,4.4
+"GRC","Greece",2016,0,NA,NA,3,3.9,2.6,4.4
+"GRC","Greece",2017,0,1,0,3,3.8,2.6,4.3
+"GRC","Greece",2017,0,1,0,3,3.8,2.6,4.3
+"GRC","Greece",2018,0,NA,NA,NA,3.7,2.5,4.2
+"GRD","Grenada",1999,NA,NA,NA,NA,NA,NA,NA
+"GRD","Grenada",2000,0,NA,NA,38,12.9,8,15.5
+"GRD","Grenada",2001,0,NA,NA,36,12.8,8,15.2
+"GRD","Grenada",2002,0,NA,NA,34,12.6,8,15
+"GRD","Grenada",2003,0,NA,NA,34,12.5,8,14.8
+"GRD","Grenada",2004,0,NA,NA,38,12.5,8,14.7
+"GRD","Grenada",2005,0,NA,NA,33,12.4,8,14.6
+"GRD","Grenada",2006,0,NA,NA,31,12.5,8,14.6
+"GRD","Grenada",2007,0,NA,NA,31,12.5,8.1,14.6
+"GRD","Grenada",2008,0,NA,NA,30,12.7,8.3,14.7
+"GRD","Grenada",2009,0,NA,NA,30,12.8,8.6,14.9
+"GRD","Grenada",2010,0,0,1,29,13,8.9,15.1
+"GRD","Grenada",2011,0,NA,NA,28,13.3,9.3,15.3
+"GRD","Grenada",2012,0,NA,NA,28,13.5,9.7,15.5
+"GRD","Grenada",2013,0,NA,NA,27,13.8,10.1,15.8
+"GRD","Grenada",2014,0,NA,NA,26,14,10.5,16
+"GRD","Grenada",2015,0,NA,NA,25,14.3,10.7,16.2
+"GRD","Grenada",2016,0,NA,NA,25,14.5,10.9,16.4
+"GRD","Grenada",2017,0,NA,NA,25,14.6,11.1,16.6
+"GRD","Grenada",2018,0,NA,NA,NA,14.7,11.1,16.6
+"GTM","Guatemala",1999,NA,NA,NA,NA,NA,NA,NA
+"GTM","Guatemala",2000,0,NA,NA,161,41,21.3,52.1
+"GTM","Guatemala",2001,0,1,0,147,39.5,20.7,50.1
+"GTM","Guatemala",2001,0,0,1,147,39.5,20.7,50.1
+"GTM","Guatemala",2002,0,NA,NA,145,38.1,20.2,48.1
+"GTM","Guatemala",2003,0,NA,NA,137,36.8,19.7,46.2
+"GTM","Guatemala",2004,0,NA,NA,137,35.6,19.1,44.4
+"GTM","Guatemala",2005,0,NA,NA,142,34.3,18.6,42.7
+"GTM","Guatemala",2006,1,NA,NA,137,33.1,18.2,41
+"GTM","Guatemala",2007,0,NA,NA,132,32,17.7,39.4
+"GTM","Guatemala",2008,0,NA,NA,125,30.8,17.3,37.8
+"GTM","Guatemala",2009,1,0,1,131,29.7,16.8,36.3
+"GTM","Guatemala",2010,0,NA,NA,129,28.6,16.2,34.8
+"GTM","Guatemala",2011,0,1,0,122,27.6,15.6,33.4
+"GTM","Guatemala",2012,1,0,1,118,26.5,15,32
+"GTM","Guatemala",2012,1,1,0,118,26.5,15,32
+"GTM","Guatemala",2013,0,1,0,113,25.6,14.4,30.7
+"GTM","Guatemala",2014,0,1,0,107,24.6,13.9,29.5
+"GTM","Guatemala",2014,0,0,1,107,24.6,13.9,29.5
+"GTM","Guatemala",2015,0,NA,NA,103,23.7,13.4,28.3
+"GTM","Guatemala",2016,0,NA,NA,98,22.9,12.9,27.3
+"GTM","Guatemala",2017,0,1,0,95,22.2,12.4,26.4
+"GTM","Guatemala",2018,0,0,1,NA,21.4,12,25.4
+"GUY","Guyana",1999,NA,NA,NA,NA,NA,NA,NA
+"GUY","Guyana",2000,0,NA,NA,231,37,27,46.4
+"GUY","Guyana",2001,0,NA,NA,216,36.2,26.4,45.2
+"GUY","Guyana",2002,0,NA,NA,227,35.4,26,44.2
+"GUY","Guyana",2003,0,NA,NA,226,34.7,25.5,43.2
+"GUY","Guyana",2004,0,NA,NA,220,34,25.2,42.2
+"GUY","Guyana",2005,0,NA,NA,223,33.4,24.8,41.4
+"GUY","Guyana",2006,0,NA,NA,221,32.8,24.3,40.5
+"GUY","Guyana",2007,0,NA,NA,208,32.2,23.9,39.7
+"GUY","Guyana",2008,0,NA,NA,192,31.7,23.6,39
+"GUY","Guyana",2009,1,NA,NA,185,31.1,23.2,38.2
+"GUY","Guyana",2010,0,0,1,179,30.6,22.8,37.4
+"GUY","Guyana",2011,0,NA,NA,180,30,22.4,36.7
+"GUY","Guyana",2012,0,NA,NA,185,29.4,21.9,35.9
+"GUY","Guyana",2013,0,NA,NA,175,28.8,21.4,35
+"GUY","Guyana",2014,0,NA,NA,174,28.1,20.8,34.1
+"GUY","Guyana",2015,0,NA,NA,172,27.4,20.2,33.1
+"GUY","Guyana",2016,0,NA,NA,170,26.6,19.6,32.1
+"GUY","Guyana",2017,0,NA,NA,169,25.9,19.1,31.2
+"GUY","Guyana",2018,0,NA,NA,NA,25.2,18.4,30.2
+"HND","Honduras",1999,NA,NA,NA,NA,NA,NA,NA
+"HND","Honduras",2000,0,0,1,85,30.3,17.7,37
+"HND","Honduras",2001,0,0,1,83,29,17.1,35.3
+"HND","Honduras",2002,0,0,1,80,27.8,16.6,33.7
+"HND","Honduras",2003,0,NA,NA,78,26.6,16.1,32.1
+"HND","Honduras",2004,1,0,1,77,25.5,15.6,30.6
+"HND","Honduras",2005,1,NA,NA,77,24.4,15.2,29.2
+"HND","Honduras",2006,0,NA,NA,77,23.4,14.7,27.9
+"HND","Honduras",2007,0,1,0,77,22.4,14.2,26.7
+"HND","Honduras",2008,0,NA,NA,76,21.5,13.7,25.5
+"HND","Honduras",2009,0,1,0,75,20.6,13.2,24.4
+"HND","Honduras",2009,0,0,1,75,20.6,13.2,24.4
+"HND","Honduras",2010,0,NA,NA,74,19.8,12.7,23.3
+"HND","Honduras",2011,1,NA,NA,72,19.1,12.2,22.4
+"HND","Honduras",2012,0,0,1,70,18.4,11.7,21.5
+"HND","Honduras",2013,0,NA,NA,69,17.7,11.3,20.7
+"HND","Honduras",2014,0,0,1,68,17.1,10.9,20
+"HND","Honduras",2015,0,NA,NA,67,16.5,10.5,19.2
+"HND","Honduras",2016,0,NA,NA,65,16,10.1,18.6
+"HND","Honduras",2017,0,NA,NA,65,15.4,9.8,18
+"HND","Honduras",2018,0,0,1,NA,14.9,9.4,17.4
+"HRV","Croatia",1999,NA,NA,NA,NA,NA,NA,NA
+"HRV","Croatia",2000,0,NA,NA,11,7.2,5.5,8.3
+"HRV","Croatia",2001,0,NA,NA,10,6.9,5.3,8
+"HRV","Croatia",2002,0,NA,NA,10,6.6,5,7.7
+"HRV","Croatia",2003,0,0,1,10,6.3,4.7,7.3
+"HRV","Croatia",2004,0,NA,NA,10,6.1,4.4,7
+"HRV","Croatia",2005,0,NA,NA,10,5.8,4.2,6.7
+"HRV","Croatia",2006,0,NA,NA,9,5.5,4,6.4
+"HRV","Croatia",2007,0,NA,NA,9,5.3,3.9,6.2
+"HRV","Croatia",2008,0,NA,NA,9,5.1,3.8,5.9
+"HRV","Croatia",2009,0,NA,NA,9,4.9,3.7,5.7
+"HRV","Croatia",2010,0,NA,NA,9,4.7,3.6,5.5
+"HRV","Croatia",2011,0,NA,NA,9,4.5,3.4,5.3
+"HRV","Croatia",2012,0,NA,NA,8,4.4,3.3,5.2
+"HRV","Croatia",2013,0,NA,NA,9,4.3,3.2,5.1
+"HRV","Croatia",2014,0,NA,NA,8,4.3,3.1,5
+"HRV","Croatia",2015,0,NA,NA,8,4.2,3.1,4.9
+"HRV","Croatia",2016,0,NA,NA,7,4.1,3,4.8
+"HRV","Croatia",2017,0,NA,NA,8,4.1,3,4.8
+"HRV","Croatia",2018,0,NA,NA,NA,4,3,4.7
+"HTI","Haiti",1999,NA,NA,NA,NA,NA,NA,NA
+"HTI","Haiti",2000,0,NA,NA,437,74.5,29.8,103.9
+"HTI","Haiti",2001,0,NA,NA,437,72.3,29.5,100.5
+"HTI","Haiti",2002,0,NA,NA,441,70.3,29.3,97.3
+"HTI","Haiti",2003,0,0,1,446,68.4,29.3,94.4
+"HTI","Haiti",2004,0,NA,NA,513,66.7,29.4,91.8
+"HTI","Haiti",2005,1,NA,NA,459,65.3,29.4,89.4
+"HTI","Haiti",2006,1,NA,NA,467,63.8,29.3,87.2
+"HTI","Haiti",2007,0,NA,NA,473,62.5,29.2,85.2
+"HTI","Haiti",2008,0,NA,NA,484,61.3,29,83.2
+"HTI","Haiti",2009,0,NA,NA,484,60,28.7,81.2
+"HTI","Haiti",2010,0,1,0,506,102.6,30.6,203.6
+"HTI","Haiti",2011,0,NA,NA,496,57.6,28.3,77.4
+"HTI","Haiti",2012,0,NA,NA,500,56.4,28.1,75.6
+"HTI","Haiti",2013,0,NA,NA,496,55.3,27.8,73.7
+"HTI","Haiti",2014,0,0,1,492,54.1,27.5,71.9
+"HTI","Haiti",2015,0,NA,NA,488,52.8,27.1,69.9
+"HTI","Haiti",2016,0,0,1,489,51.5,26.6,67.9
+"HTI","Haiti",2017,0,NA,NA,480,50.3,26.2,66
+"HTI","Haiti",2018,0,1,0,NA,49,25.7,64.1
+"HUN","Hungary",1999,NA,NA,NA,NA,NA,NA,NA
+"HUN","Hungary",2000,0,NA,NA,16,8.7,5.8,10.1
+"HUN","Hungary",2001,0,NA,NA,15,8.2,5.5,9.6
+"HUN","Hungary",2002,0,NA,NA,16,7.6,5.1,9
+"HUN","Hungary",2003,0,0,1,15,7.1,4.8,8.4
+"HUN","Hungary",2004,0,NA,NA,15,6.7,4.4,7.9
+"HUN","Hungary",2005,0,NA,NA,15,6.4,4.1,7.5
+"HUN","Hungary",2006,0,NA,NA,14,6.1,3.9,7.2
+"HUN","Hungary",2007,0,NA,NA,15,5.8,3.8,6.8
+"HUN","Hungary",2008,0,NA,NA,14,5.5,3.6,6.5
+"HUN","Hungary",2009,0,NA,NA,13,5.2,3.5,6.2
+"HUN","Hungary",2010,0,NA,NA,13,5.1,3.4,6
+"HUN","Hungary",2011,0,NA,NA,13,4.9,3.3,5.9
+"HUN","Hungary",2012,0,NA,NA,12,4.8,3.2,5.7
+"HUN","Hungary",2013,0,1,0,12,4.7,3,5.6
+"HUN","Hungary",2014,0,NA,NA,12,4.5,2.9,5.4
+"HUN","Hungary",2015,0,NA,NA,12,4.2,2.7,5.1
+"HUN","Hungary",2016,0,NA,NA,12,4,2.5,4.7
+"HUN","Hungary",2017,0,NA,NA,12,3.7,2.4,4.4
+"HUN","Hungary",2018,0,NA,NA,NA,3.5,2.3,4.2
+"IDN","Indonesia",1999,NA,NA,NA,NA,NA,NA,NA
+"IDN","Indonesia",2000,1,1,0,272,41,22.8,52.2
+"IDN","Indonesia",2000,1,1,0,272,41,22.8,52.2
+"IDN","Indonesia",2000,1,1,0,272,41,22.8,52.2
+"IDN","Indonesia",2000,1,1,0,272,41,22.8,52.2
+"IDN","Indonesia",2000,1,1,0,272,41,22.8,52.2
+"IDN","Indonesia",2001,1,1,0,269,39.4,22.1,49.8
+"IDN","Indonesia",2001,1,1,0,269,39.4,22.1,49.8
+"IDN","Indonesia",2002,1,1,0,265,37.8,21.4,47.6
+"IDN","Indonesia",2002,1,1,0,265,37.8,21.4,47.6
+"IDN","Indonesia",2002,1,1,0,265,37.8,21.4,47.6
+"IDN","Indonesia",2002,1,1,0,265,37.8,21.4,47.6
+"IDN","Indonesia",2003,1,1,0,261,36.4,20.9,45.5
+"IDN","Indonesia",2003,1,1,0,261,36.4,20.9,45.5
+"IDN","Indonesia",2003,1,1,0,261,36.4,20.9,45.5
+"IDN","Indonesia",2003,1,0,1,261,36.4,20.9,45.5
+"IDN","Indonesia",2004,1,1,0,264,37.1,20.5,49.6
+"IDN","Indonesia",2004,1,1,0,264,37.1,20.5,49.6
+"IDN","Indonesia",2004,1,1,0,264,37.1,20.5,49.6
+"IDN","Indonesia",2004,1,1,0,264,37.1,20.5,49.6
+"IDN","Indonesia",2004,1,1,0,264,37.1,20.5,49.6
+"IDN","Indonesia",2004,1,1,0,264,37.1,20.5,49.6
+"IDN","Indonesia",2005,1,1,0,252,33.6,19.9,41.7
+"IDN","Indonesia",2005,1,1,0,252,33.6,19.9,41.7
+"IDN","Indonesia",2006,1,1,0,249,32.4,19.5,39.9
+"IDN","Indonesia",2006,1,1,0,249,32.4,19.5,39.9
+"IDN","Indonesia",2006,1,1,0,249,32.4,19.5,39.9
+"IDN","Indonesia",2006,1,1,0,249,32.4,19.5,39.9
+"IDN","Indonesia",2006,1,1,0,249,32.4,19.5,39.9
+"IDN","Indonesia",2007,0,1,0,243,31.2,19.1,38.3
+"IDN","Indonesia",2007,0,1,0,243,31.2,19.1,38.3
+"IDN","Indonesia",2007,0,1,0,243,31.2,19.1,38.3
+"IDN","Indonesia",2007,0,1,0,243,31.2,19.1,38.3
+"IDN","Indonesia",2008,0,1,0,239,30,18.7,36.7
+"IDN","Indonesia",2008,0,1,0,239,30,18.7,36.7
+"IDN","Indonesia",2008,0,1,0,239,30,18.7,36.7
+"IDN","Indonesia",2009,0,1,0,234,29,18.1,35.2
+"IDN","Indonesia",2009,0,1,0,234,29,18.1,35.2
+"IDN","Indonesia",2009,0,1,0,234,29,18.1,35.2
+"IDN","Indonesia",2009,0,1,0,234,29,18.1,35.2
+"IDN","Indonesia",2009,0,1,0,234,29,18.1,35.2
+"IDN","Indonesia",2010,0,1,0,228,27.9,17.5,33.8
+"IDN","Indonesia",2010,0,1,0,228,27.9,17.5,33.8
+"IDN","Indonesia",2011,0,1,0,221,26.9,16.8,32.5
+"IDN","Indonesia",2011,0,1,0,221,26.9,16.8,32.5
+"IDN","Indonesia",2012,0,1,0,214,25.9,16.1,31.2
+"IDN","Indonesia",2012,0,1,0,214,25.9,16.1,31.2
+"IDN","Indonesia",2013,0,1,0,207,25,15.4,30
+"IDN","Indonesia",2013,0,1,0,207,25,15.4,30
+"IDN","Indonesia",2013,0,1,0,207,25,15.4,30
+"IDN","Indonesia",2014,0,NA,NA,199,24.1,14.8,28.8
+"IDN","Indonesia",2015,0,0,1,192,23.2,14.2,27.7
+"IDN","Indonesia",2015,0,1,0,192,23.2,14.2,27.7
+"IDN","Indonesia",2016,0,1,0,184,22.4,13.6,26.6
+"IDN","Indonesia",2016,0,1,0,184,22.4,13.6,26.6
+"IDN","Indonesia",2016,0,1,0,184,22.4,13.6,26.6
+"IDN","Indonesia",2017,0,1,0,177,21.6,13.1,25.6
+"IDN","Indonesia",2018,0,1,0,NA,20.8,12.6,24.6
+"IDN","Indonesia",2018,0,1,0,NA,20.8,12.6,24.6
+"IDN","Indonesia",2018,0,1,0,NA,20.8,12.6,24.6
+"IDN","Indonesia",2018,0,1,0,NA,20.8,12.6,24.6
+"IDN","Indonesia",2018,0,1,0,NA,20.8,12.6,24.6
+"IND","India",1999,NA,NA,NA,NA,NA,NA,NA
+"IND","India",2000,1,0,1,370,66.7,44.7,91.7
+"IND","India",2001,1,1,0,354,64.4,43.3,88.1
+"IND","India",2002,1,1,0,336,62.1,41.9,84.5
+"IND","India",2002,1,0,1,336,62.1,41.9,84.5
+"IND","India",2003,1,NA,NA,319,60,40.5,81.1
+"IND","India",2004,1,1,0,303,57.8,39.1,77.8
+"IND","India",2005,1,1,0,286,55.7,37.9,74.4
+"IND","India",2006,1,NA,NA,270,53.6,36.6,71.1
+"IND","India",2007,1,NA,NA,255,51.5,35.4,67.9
+"IND","India",2008,1,NA,NA,240,49.4,34.3,64.6
+"IND","India",2009,1,0,1,225,47.2,33.1,61.4
+"IND","India",2010,1,NA,NA,210,45.1,31.8,58.2
+"IND","India",2011,1,1,0,197,43,30.6,55
+"IND","India",2012,1,NA,NA,185,40.9,29.4,52
+"IND","India",2013,1,1,0,175,38.8,28.2,49
+"IND","India",2014,1,NA,NA,166,36.9,27,46.2
+"IND","India",2015,1,1,0,158,34.9,25.9,43.5
+"IND","India",2015,1,1,0,158,34.9,25.9,43.5
+"IND","India",2015,1,1,0,158,34.9,25.9,43.5
+"IND","India",2015,1,0,1,158,34.9,25.9,43.5
+"IND","India",2016,1,1,0,150,33.1,24.8,41
+"IND","India",2017,1,NA,NA,145,31.4,23.7,38.6
+"IND","India",2018,1,0,1,NA,29.8,22.7,36.3
+"IRL","Ireland",1999,NA,NA,NA,NA,NA,NA,NA
+"IRL","Ireland",2000,0,NA,NA,7,6,4,7.1
+"IRL","Ireland",2001,0,NA,NA,7,5.8,3.9,6.9
+"IRL","Ireland",2002,0,NA,NA,6,5.5,3.7,6.5
+"IRL","Ireland",2003,0,NA,NA,6,5.1,3.5,6
+"IRL","Ireland",2004,0,NA,NA,6,4.7,3.3,5.6
+"IRL","Ireland",2005,0,NA,NA,7,4.4,3,5.2
+"IRL","Ireland",2006,0,NA,NA,6,4.1,2.8,4.9
+"IRL","Ireland",2007,0,NA,NA,6,3.9,2.6,4.6
+"IRL","Ireland",2008,0,NA,NA,7,3.8,2.5,4.4
+"IRL","Ireland",2009,0,NA,NA,7,3.6,2.5,4.3
+"IRL","Ireland",2010,0,NA,NA,6,3.5,2.5,4.2
+"IRL","Ireland",2011,0,NA,NA,7,3.5,2.5,4.1
+"IRL","Ireland",2012,0,NA,NA,6,3.4,2.5,4
+"IRL","Ireland",2013,0,NA,NA,6,3.3,2.5,3.9
+"IRL","Ireland",2014,0,NA,NA,6,3.3,2.5,3.8
+"IRL","Ireland",2015,0,NA,NA,6,3.2,2.4,3.7
+"IRL","Ireland",2016,0,NA,NA,6,3.1,2.3,3.6
+"IRL","Ireland",2017,0,NA,NA,5,3,2.2,3.4
+"IRL","Ireland",2018,0,NA,NA,NA,2.8,2.2,3.3
+"IRN","Iran",1999,NA,NA,NA,NA,NA,NA,NA
+"IRN","Iran",2000,0,1,0,48,29.7,19.5,36.2
+"IRN","Iran",2000,0,1,0,48,29.7,19.5,36.2
+"IRN","Iran",2001,1,1,0,44,28.2,18.8,34.2
+"IRN","Iran",2002,1,1,0,41,26.7,18.1,32.2
+"IRN","Iran",2002,1,1,0,41,26.7,18.1,32.2
+"IRN","Iran",2002,1,1,0,41,26.7,18.1,32.2
+"IRN","Iran",2002,1,1,0,41,26.7,18.1,32.2
+"IRN","Iran",2002,1,1,0,41,26.7,18.1,32.2
+"IRN","Iran",2003,0,1,0,39,25.1,17.4,30.2
+"IRN","Iran",2003,0,1,0,39,25.1,17.4,30.2
+"IRN","Iran",2003,0,1,0,39,25.1,17.4,30.2
+"IRN","Iran",2003,0,1,0,39,25.1,17.4,30.2
+"IRN","Iran",2003,0,1,0,39,25.1,17.4,30.2
+"IRN","Iran",2004,0,1,0,36,23.6,16.7,28.2
+"IRN","Iran",2005,0,1,0,34,22.2,16,26.4
+"IRN","Iran",2005,0,1,0,34,22.2,16,26.4
+"IRN","Iran",2005,0,1,0,34,22.2,16,26.4
+"IRN","Iran",2005,0,1,0,34,22.2,16,26.4
+"IRN","Iran",2006,1,1,0,32,20.9,15.4,24.7
+"IRN","Iran",2006,1,1,0,32,20.9,15.4,24.7
+"IRN","Iran",2006,1,1,0,32,20.9,15.4,24.7
+"IRN","Iran",2007,1,NA,NA,30,19.7,14.7,23.1
+"IRN","Iran",2008,1,1,0,28,18.5,14,21.7
+"IRN","Iran",2008,1,1,0,28,18.5,14,21.7
+"IRN","Iran",2009,1,1,0,25,17.4,13.3,20.4
+"IRN","Iran",2010,1,1,0,22,16.5,12.6,19.3
+"IRN","Iran",2010,1,1,0,22,16.5,12.6,19.3
+"IRN","Iran",2010,1,1,0,22,16.5,12.6,19.3
+"IRN","Iran",2010,1,1,0,22,16.5,12.6,19.3
+"IRN","Iran",2010,1,1,0,22,16.5,12.6,19.3
+"IRN","Iran",2010,1,1,0,22,16.5,12.6,19.3
+"IRN","Iran",2011,1,NA,NA,19,15.7,11.9,18.3
+"IRN","Iran",2012,1,1,0,18,15,11.3,17.5
+"IRN","Iran",2012,1,1,0,18,15,11.3,17.5
+"IRN","Iran",2012,1,1,0,18,15,11.3,17.5
+"IRN","Iran",2013,0,1,0,17,14.4,10.8,16.8
+"IRN","Iran",2013,0,1,0,17,14.4,10.8,16.8
+"IRN","Iran",2013,0,1,0,17,14.4,10.8,16.8
+"IRN","Iran",2014,0,1,0,17,13.8,10.4,16.1
+"IRN","Iran",2014,0,1,0,17,13.8,10.4,16.1
+"IRN","Iran",2015,0,NA,NA,17,13.3,10,15.5
+"IRN","Iran",2016,1,NA,NA,16,12.8,9.6,14.9
+"IRN","Iran",2017,1,1,0,16,12.4,9.2,14.4
+"IRN","Iran",2017,1,1,0,16,12.4,9.2,14.4
+"IRN","Iran",2017,1,1,0,16,12.4,9.2,14.4
+"IRN","Iran",2018,1,1,0,NA,11.9,8.9,13.9
+"IRN","Iran",2018,1,1,0,NA,11.9,8.9,13.9
+"IRN","Iran",2018,1,1,0,NA,11.9,8.9,13.9
+"IRQ","Iraq",1999,NA,NA,NA,NA,NA,NA,NA
+"IRQ","Iraq",2000,1,NA,NA,79,35.6,23.9,44.5
+"IRQ","Iraq",2001,1,NA,NA,76,34.9,23.6,43.5
+"IRQ","Iraq",2002,1,NA,NA,74,34.3,23.3,42.6
+"IRQ","Iraq",2003,1,NA,NA,136,33.7,23,41.8
+"IRQ","Iraq",2004,1,NA,NA,122,33.1,22.6,40.9
+"IRQ","Iraq",2005,1,NA,NA,127,32.4,22.2,40
+"IRQ","Iraq",2006,1,NA,NA,158,31.8,21.8,39.1
+"IRQ","Iraq",2007,1,NA,NA,138,31.1,21.4,38.1
+"IRQ","Iraq",2008,1,NA,NA,90,30.3,21,37.1
+"IRQ","Iraq",2009,1,NA,NA,75,29.5,20.5,36
+"IRQ","Iraq",2010,1,NA,NA,70,28.7,19.9,34.9
+"IRQ","Iraq",2011,1,NA,NA,67,27.9,19.3,33.8
+"IRQ","Iraq",2012,1,NA,NA,66,27.1,18.7,32.8
+"IRQ","Iraq",2013,1,NA,NA,75,26.3,18.1,31.7
+"IRQ","Iraq",2014,1,NA,NA,92,25.5,17.5,30.7
+"IRQ","Iraq",2015,1,NA,NA,83,24.8,17,29.7
+"IRQ","Iraq",2016,1,NA,NA,78,24.1,16.4,28.8
+"IRQ","Iraq",2017,1,1,0,79,23.4,15.9,27.9
+"IRQ","Iraq",2018,1,NA,NA,NA,22.7,15.4,27
+"ISL","Iceland",1999,NA,NA,NA,NA,NA,NA,NA
+"ISL","Iceland",2000,0,1,0,6,3.2,2.1,4.1
+"ISL","Iceland",2000,0,1,0,6,3.2,2.1,4.1
+"ISL","Iceland",2001,0,NA,NA,6,3.1,2,3.9
+"ISL","Iceland",2002,0,NA,NA,6,2.9,1.9,3.7
+"ISL","Iceland",2003,0,NA,NA,6,2.8,1.8,3.5
+"ISL","Iceland",2004,0,NA,NA,6,2.7,1.7,3.4
+"ISL","Iceland",2005,0,NA,NA,5,2.6,1.6,3.2
+"ISL","Iceland",2006,0,NA,NA,5,2.5,1.6,3.1
+"ISL","Iceland",2007,0,NA,NA,5,2.4,1.5,3
+"ISL","Iceland",2008,0,NA,NA,5,2.3,1.4,2.9
+"ISL","Iceland",2009,0,NA,NA,5,2.2,1.4,2.8
+"ISL","Iceland",2010,0,NA,NA,5,2.2,1.3,2.7
+"ISL","Iceland",2011,0,NA,NA,5,2.1,1.3,2.6
+"ISL","Iceland",2012,0,NA,NA,4,2,1.3,2.5
+"ISL","Iceland",2013,0,NA,NA,4,1.9,1.2,2.4
+"ISL","Iceland",2014,0,NA,NA,5,1.9,1.2,2.4
+"ISL","Iceland",2015,0,NA,NA,4,1.8,1.2,2.3
+"ISL","Iceland",2016,0,NA,NA,4,1.8,1.1,2.2
+"ISL","Iceland",2017,0,NA,NA,4,1.7,1.1,2.1
+"ISL","Iceland",2018,0,NA,NA,NA,1.6,1.1,2.1
+"ITA","Italy",1999,NA,NA,NA,NA,NA,NA,NA
+"ITA","Italy",2000,0,NA,NA,4,4.7,3.5,5.6
+"ITA","Italy",2001,0,NA,NA,3,4.5,3.2,5.3
+"ITA","Italy",2002,0,1,0,3,4.3,3.1,5
+"ITA","Italy",2002,0,1,0,3,4.3,3.1,5
+"ITA","Italy",2002,0,1,0,3,4.3,3.1,5
+"ITA","Italy",2002,0,0,1,3,4.3,3.1,5
+"ITA","Italy",2003,0,1,0,3,4.1,2.9,4.8
+"ITA","Italy",2004,0,NA,NA,3,3.9,2.8,4.6
+"ITA","Italy",2005,0,NA,NA,3,3.8,2.7,4.5
+"ITA","Italy",2006,0,NA,NA,2,3.7,2.6,4.3
+"ITA","Italy",2007,0,NA,NA,2,3.6,2.5,4.2
+"ITA","Italy",2008,0,NA,NA,2,3.5,2.5,4.1
+"ITA","Italy",2009,0,1,0,2,3.4,2.5,4.1
+"ITA","Italy",2010,0,NA,NA,2,3.4,2.4,4
+"ITA","Italy",2011,0,NA,NA,2,3.3,2.4,3.9
+"ITA","Italy",2012,0,0,1,2,3.2,2.3,3.8
+"ITA","Italy",2012,0,1,0,2,3.2,2.3,3.8
+"ITA","Italy",2012,0,1,0,2,3.2,2.3,3.8
+"ITA","Italy",2013,0,NA,NA,2,3.1,2.2,3.7
+"ITA","Italy",2014,0,NA,NA,2,3,2.2,3.6
+"ITA","Italy",2015,0,NA,NA,2,3,2.1,3.5
+"ITA","Italy",2016,0,1,0,2,2.9,2.1,3.4
+"ITA","Italy",2016,0,1,0,2,2.9,2.1,3.4
+"ITA","Italy",2016,0,1,0,2,2.9,2.1,3.4
+"ITA","Italy",2017,0,1,0,2,2.8,2,3.3
+"ITA","Italy",2017,0,1,0,2,2.8,2,3.3
+"ITA","Italy",2017,0,0,1,2,2.8,2,3.3
+"ITA","Italy",2018,0,NA,NA,NA,2.7,1.9,3.2
+"JAM","Jamaica",1999,NA,NA,NA,NA,NA,NA,NA
+"JAM","Jamaica",2000,0,0,1,77,18.9,17,22.2
+"JAM","Jamaica",2001,0,NA,NA,79,18.4,16.5,21.6
+"JAM","Jamaica",2002,1,NA,NA,78,18,16.1,21.1
+"JAM","Jamaica",2003,0,NA,NA,79,17.6,15.6,20.7
+"JAM","Jamaica",2004,0,NA,NA,80,17.3,15.1,20.3
+"JAM","Jamaica",2005,0,NA,NA,80,17,14.7,19.9
+"JAM","Jamaica",2006,0,NA,NA,79,16.7,14.2,19.6
+"JAM","Jamaica",2007,0,NA,NA,79,16.5,13.9,19.2
+"JAM","Jamaica",2008,0,NA,NA,79,16.2,13.6,18.9
+"JAM","Jamaica",2009,0,NA,NA,79,15.8,13.2,18.5
+"JAM","Jamaica",2010,0,NA,NA,79,15.4,12.9,18
+"JAM","Jamaica",2011,0,NA,NA,79,15.1,12.5,17.5
+"JAM","Jamaica",2012,0,NA,NA,79,14.6,12.2,17
+"JAM","Jamaica",2013,0,NA,NA,79,14.2,11.8,16.5
+"JAM","Jamaica",2014,0,0,1,78,13.8,11.4,16
+"JAM","Jamaica",2015,0,NA,NA,78,13.4,11,15.5
+"JAM","Jamaica",2016,0,NA,NA,80,13,10.7,15.1
+"JAM","Jamaica",2017,0,NA,NA,80,12.6,10.3,14.6
+"JAM","Jamaica",2018,0,NA,NA,NA,12.2,10,14.2
+"JOR","Jordan",1999,NA,NA,NA,NA,NA,NA,NA
+"JOR","Jordan",2000,0,0,1,70,22.5,16,26.8
+"JOR","Jordan",2001,0,NA,NA,68,22,15.6,26.1
+"JOR","Jordan",2002,0,NA,NA,65,21.4,15.2,25.3
+"JOR","Jordan",2003,0,NA,NA,63,20.8,14.7,24.6
+"JOR","Jordan",2004,0,NA,NA,62,20.2,14.2,23.9
+"JOR","Jordan",2005,0,NA,NA,62,19.7,13.8,23.2
+"JOR","Jordan",2006,1,NA,NA,58,19.2,13.3,22.5
+"JOR","Jordan",2007,0,NA,NA,56,18.7,12.9,21.9
+"JOR","Jordan",2008,0,NA,NA,55,18.1,12.5,21.3
+"JOR","Jordan",2009,0,NA,NA,54,17.6,12.2,20.7
+"JOR","Jordan",2010,0,NA,NA,53,17.2,11.8,20.1
+"JOR","Jordan",2011,0,NA,NA,52,16.7,11.5,19.5
+"JOR","Jordan",2012,0,NA,NA,52,16.2,11.2,19
+"JOR","Jordan",2013,0,NA,NA,51,15.8,10.9,18.4
+"JOR","Jordan",2014,0,NA,NA,49,15.4,10.6,17.9
+"JOR","Jordan",2015,0,NA,NA,48,15,10.2,17.5
+"JOR","Jordan",2016,0,NA,NA,47,14.6,10,17
+"JOR","Jordan",2017,1,NA,NA,46,14.1,9.7,16.4
+"JOR","Jordan",2018,0,NA,NA,NA,13.7,9.4,16
+"JPN","Japan",1999,NA,NA,NA,NA,NA,NA,NA
+"JPN","Japan",2000,0,1,0,9,3.3,1.8,4.5
+"JPN","Japan",2000,0,1,0,9,3.3,1.8,4.5
+"JPN","Japan",2001,0,1,0,8,3.1,1.7,4.3
+"JPN","Japan",2002,0,NA,NA,8,3,1.7,4.1
+"JPN","Japan",2003,0,1,0,7,2.9,1.6,4
+"JPN","Japan",2003,0,1,0,7,2.9,1.6,4
+"JPN","Japan",2003,0,1,0,7,2.9,1.6,4
+"JPN","Japan",2004,0,1,0,7,2.8,1.5,3.9
+"JPN","Japan",2005,0,1,0,7,2.8,1.4,3.7
+"JPN","Japan",2005,0,1,0,7,2.8,1.4,3.7
+"JPN","Japan",2006,0,NA,NA,7,2.7,1.3,3.6
+"JPN","Japan",2007,0,1,0,6,2.6,1.3,3.5
+"JPN","Japan",2007,0,1,0,6,2.6,1.3,3.5
+"JPN","Japan",2007,0,1,0,6,2.6,1.3,3.5
+"JPN","Japan",2008,0,1,0,6,2.5,1.2,3.4
+"JPN","Japan",2008,0,1,0,6,2.5,1.2,3.4
+"JPN","Japan",2009,0,1,0,6,2.4,1.2,3.3
+"JPN","Japan",2010,0,NA,NA,6,2.4,1.1,3.2
+"JPN","Japan",2011,0,1,0,6,2.3,1,3.2
+"JPN","Japan",2011,0,1,0,6,2.3,1,3.2
+"JPN","Japan",2012,0,NA,NA,5,2.2,1,3
+"JPN","Japan",2013,0,1,0,5,2.1,1,2.9
+"JPN","Japan",2014,0,1,0,5,2.1,0.9,2.8
+"JPN","Japan",2015,0,NA,NA,5,2,0.9,2.7
+"JPN","Japan",2016,0,1,0,5,2,0.9,2.7
+"JPN","Japan",2016,0,1,0,5,2,0.9,2.7
+"JPN","Japan",2016,0,1,0,5,2,0.9,2.7
+"JPN","Japan",2017,0,NA,NA,5,1.9,0.9,2.6
+"JPN","Japan",2018,0,1,0,NA,1.9,0.9,2.6
+"JPN","Japan",2018,0,1,0,NA,1.9,0.9,2.6
+"KAZ","Kazakhstan",1999,NA,NA,NA,NA,NA,NA,NA
+"KAZ","Kazakhstan",2000,0,NA,NA,61,36.7,23.9,42.5
+"KAZ","Kazakhstan",2001,0,NA,NA,57,34.6,23.3,39.9
+"KAZ","Kazakhstan",2002,0,NA,NA,52,32.6,22.7,37.5
+"KAZ","Kazakhstan",2003,0,1,0,49,30.8,21.8,35.2
+"KAZ","Kazakhstan",2004,0,NA,NA,46,29,20.8,33.1
+"KAZ","Kazakhstan",2005,0,NA,NA,43,27.3,19.7,31
+"KAZ","Kazakhstan",2006,0,NA,NA,40,25.6,18.5,29
+"KAZ","Kazakhstan",2007,0,NA,NA,36,23.8,17,26.8
+"KAZ","Kazakhstan",2008,0,NA,NA,30,21.9,15.3,24.7
+"KAZ","Kazakhstan",2009,0,NA,NA,24,20,13.5,22.5
+"KAZ","Kazakhstan",2010,0,NA,NA,22,18.2,11.8,20.4
+"KAZ","Kazakhstan",2011,0,NA,NA,19,16.4,10.2,18.3
+"KAZ","Kazakhstan",2012,0,NA,NA,17,14.6,8.6,16.3
+"KAZ","Kazakhstan",2013,0,NA,NA,14,13,7.3,14.6
+"KAZ","Kazakhstan",2014,0,NA,NA,13,11.6,6.2,13
+"KAZ","Kazakhstan",2015,0,NA,NA,12,10.6,5.6,11.9
+"KAZ","Kazakhstan",2016,0,NA,NA,10,9.8,5.1,11
+"KAZ","Kazakhstan",2017,0,NA,NA,10,9.4,4.9,10.5
+"KAZ","Kazakhstan",2018,0,NA,NA,NA,9.2,4.7,10.3
+"KEN","Kenya",1999,NA,NA,NA,NA,NA,NA,NA
+"KEN","Kenya",2000,1,NA,NA,708,59.9,28.2,98.5
+"KEN","Kenya",2001,1,NA,NA,702,57.8,28,94.2
+"KEN","Kenya",2002,1,NA,NA,692,55.5,27.8,89.8
+"KEN","Kenya",2003,1,NA,NA,678,53.2,27.5,85.4
+"KEN","Kenya",2004,0,0,1,653,50.8,27.1,81
+"KEN","Kenya",2004,0,1,0,653,50.8,27.1,81
+"KEN","Kenya",2005,0,0,1,618,48,26.6,76.3
+"KEN","Kenya",2006,1,NA,NA,583,45.7,26.1,72
+"KEN","Kenya",2007,1,NA,NA,545,43.7,25.6,68
+"KEN","Kenya",2008,1,0,1,513,41.4,25.1,63.5
+"KEN","Kenya",2009,1,NA,NA,472,40.4,24.6,59.9
+"KEN","Kenya",2010,1,0,1,432,39.3,24.2,57.4
+"KEN","Kenya",2011,1,0,1,398,38.5,23.9,55.5
+"KEN","Kenya",2012,1,NA,NA,373,38.2,23.5,54.1
+"KEN","Kenya",2013,1,NA,NA,364,37.4,23.2,52.3
+"KEN","Kenya",2014,1,0,1,358,36.4,22.9,50.6
+"KEN","Kenya",2015,1,NA,NA,353,35.2,22.6,48.9
+"KEN","Kenya",2016,1,0,1,346,34.4,22.2,47.2
+"KEN","Kenya",2017,1,NA,NA,342,33.7,21.8,45.9
+"KEN","Kenya",2018,1,NA,NA,NA,32.7,21.4,44.3
+"KGZ","Kyrgyzstan",1999,NA,NA,NA,NA,NA,NA,NA
+"KGZ","Kyrgyzstan",2000,0,NA,NA,79,42.5,20.6,49.8
+"KGZ","Kyrgyzstan",2001,1,NA,NA,76,40.6,20.2,47.4
+"KGZ","Kyrgyzstan",2002,0,NA,NA,83,38.8,20,45.2
+"KGZ","Kyrgyzstan",2003,0,NA,NA,82,37.1,19.9,43.1
+"KGZ","Kyrgyzstan",2004,0,NA,NA,79,35.6,19.7,41.1
+"KGZ","Kyrgyzstan",2005,0,NA,NA,82,34.1,19.6,39.2
+"KGZ","Kyrgyzstan",2006,0,1,0,85,32.7,19.5,37.5
+"KGZ","Kyrgyzstan",2007,0,NA,NA,84,31.2,19.1,35.7
+"KGZ","Kyrgyzstan",2008,0,1,0,81,29.6,18.5,33.7
+"KGZ","Kyrgyzstan",2008,0,1,0,81,29.6,18.5,33.7
+"KGZ","Kyrgyzstan",2009,0,0,1,80,27.8,17.7,31.6
+"KGZ","Kyrgyzstan",2010,0,NA,NA,79,26.1,16.9,29.5
+"KGZ","Kyrgyzstan",2011,1,1,0,79,24.5,16.3,27.7
+"KGZ","Kyrgyzstan",2012,0,NA,NA,74,23.2,15.9,26.1
+"KGZ","Kyrgyzstan",2013,0,NA,NA,70,22,15.5,24.7
+"KGZ","Kyrgyzstan",2014,0,NA,NA,69,20.9,15.1,23.5
+"KGZ","Kyrgyzstan",2015,0,1,0,66,19.9,14.6,22.3
+"KGZ","Kyrgyzstan",2016,0,NA,NA,63,18.9,14,21.2
+"KGZ","Kyrgyzstan",2017,0,1,0,60,18,13.4,20.1
+"KGZ","Kyrgyzstan",2018,0,NA,NA,NA,17.1,12.8,19.2
+"KHM","Cambodia",1999,NA,NA,NA,NA,NA,NA,NA
+"KHM","Cambodia",2000,0,NA,NA,488,79.2,35.2,106.3
+"KHM","Cambodia",2001,0,0,1,456,73.4,33.4,96.6
+"KHM","Cambodia",2002,0,0,1,430,67.3,31.5,86.7
+"KHM","Cambodia",2003,0,NA,NA,404,61.8,29.7,78
+"KHM","Cambodia",2004,0,NA,NA,378,56.9,28.2,70.7
+"KHM","Cambodia",2005,0,0,1,351,52.8,26.8,64.7
+"KHM","Cambodia",2006,0,NA,NA,326,49.3,25.6,59.7
+"KHM","Cambodia",2007,0,NA,NA,303,46.2,24.5,55.4
+"KHM","Cambodia",2008,0,NA,NA,284,43.2,23.5,51.3
+"KHM","Cambodia",2009,0,NA,NA,265,40.2,22.4,47.5
+"KHM","Cambodia",2010,0,NA,NA,248,37.3,21.3,43.8
+"KHM","Cambodia",2011,0,NA,NA,232,34.6,20.3,40.5
+"KHM","Cambodia",2012,0,NA,NA,215,32.3,19.3,37.7
+"KHM","Cambodia",2013,0,NA,NA,202,30.3,18.3,35.3
+"KHM","Cambodia",2014,0,NA,NA,189,28.7,17.2,33.4
+"KHM","Cambodia",2015,0,NA,NA,178,27.3,16.4,31.8
+"KHM","Cambodia",2016,0,0,1,168,26,15.6,30.3
+"KHM","Cambodia",2017,0,NA,NA,160,24.9,14.9,29
+"KHM","Cambodia",2018,0,NA,NA,NA,23.8,14.3,27.7
+"KIR","Kiribati",1999,NA,NA,NA,NA,NA,NA,NA
+"KIR","Kiribati",2000,0,NA,NA,136,51.7,28,68.1
+"KIR","Kiribati",2001,0,NA,NA,131,50.7,27.4,66.6
+"KIR","Kiribati",2002,0,NA,NA,127,50,26.9,65.5
+"KIR","Kiribati",2003,0,NA,NA,124,49.5,26.5,64.8
+"KIR","Kiribati",2004,0,NA,NA,121,49.4,26.2,64.6
+"KIR","Kiribati",2005,0,NA,NA,119,49.4,26,64.7
+"KIR","Kiribati",2006,0,NA,NA,117,49.7,25.8,65.1
+"KIR","Kiribati",2007,0,NA,NA,115,50,25.8,65.5
+"KIR","Kiribati",2008,0,NA,NA,115,50,25.7,65.6
+"KIR","Kiribati",2009,0,NA,NA,113,49.8,25.6,65.2
+"KIR","Kiribati",2010,0,NA,NA,112,49.3,25.4,64.4
+"KIR","Kiribati",2011,0,NA,NA,110,48.6,25.2,63.3
+"KIR","Kiribati",2012,0,NA,NA,107,47.8,24.8,62.1
+"KIR","Kiribati",2013,0,NA,NA,104,46.8,24.4,60.8
+"KIR","Kiribati",2014,0,NA,NA,100,45.8,24,59.2
+"KIR","Kiribati",2015,0,NA,NA,97,44.7,23.6,57.6
+"KIR","Kiribati",2016,0,NA,NA,94,43.6,23.2,56
+"KIR","Kiribati",2017,0,NA,NA,92,42.6,22.8,54.5
+"KIR","Kiribati",2018,0,NA,NA,NA,41.4,22.3,52.8
+"KOR","South Korea",1999,NA,NA,NA,NA,NA,NA,NA
+"KOR","South Korea",2000,0,NA,NA,17,6.5,3.4,7.5
+"KOR","South Korea",2001,0,0,1,15,6.1,3.2,7.1
+"KOR","South Korea",2002,0,NA,NA,15,5.8,3,6.8
+"KOR","South Korea",2003,0,NA,NA,16,5.5,2.8,6.4
+"KOR","South Korea",2004,0,NA,NA,15,5.1,2.6,6
+"KOR","South Korea",2005,0,NA,NA,15,4.8,2.4,5.6
+"KOR","South Korea",2006,0,NA,NA,14,4.4,2.2,5.2
+"KOR","South Korea",2007,0,NA,NA,15,4.1,2,4.8
+"KOR","South Korea",2008,0,NA,NA,15,3.9,1.9,4.5
+"KOR","South Korea",2009,0,NA,NA,16,3.7,1.8,4.3
+"KOR","South Korea",2010,0,NA,NA,15,3.5,1.8,4.1
+"KOR","South Korea",2011,0,NA,NA,14,3.4,1.7,4
+"KOR","South Korea",2012,0,NA,NA,13,3.3,1.7,3.8
+"KOR","South Korea",2013,0,NA,NA,13,3.2,1.7,3.7
+"KOR","South Korea",2014,0,NA,NA,12,3.1,1.7,3.6
+"KOR","South Korea",2015,0,NA,NA,12,3,1.6,3.5
+"KOR","South Korea",2016,0,1,0,11,2.9,1.6,3.4
+"KOR","South Korea",2017,0,1,0,11,2.8,1.6,3.3
+"KOR","South Korea",2018,0,NA,NA,NA,2.8,1.5,3.2
+"KWT","Kuwait",1999,NA,NA,NA,NA,NA,NA,NA
+"KWT","Kuwait",2000,0,NA,NA,10,10.7,6.6,12.4
+"KWT","Kuwait",2001,0,NA,NA,10,10.5,6.4,12.2
+"KWT","Kuwait",2002,0,NA,NA,10,10.3,6.2,12
+"KWT","Kuwait",2003,0,NA,NA,10,10.1,6.1,11.8
+"KWT","Kuwait",2004,0,NA,NA,10,10,5.9,11.6
+"KWT","Kuwait",2005,0,NA,NA,10,9.8,5.8,11.4
+"KWT","Kuwait",2006,0,NA,NA,10,9.7,5.8,11.2
+"KWT","Kuwait",2007,0,NA,NA,10,9.5,5.7,11.1
+"KWT","Kuwait",2008,0,NA,NA,10,9.4,5.7,10.9
+"KWT","Kuwait",2009,0,NA,NA,10,9.2,5.6,10.7
+"KWT","Kuwait",2010,0,NA,NA,10,8.9,5.5,10.4
+"KWT","Kuwait",2011,0,NA,NA,10,8.5,5.3,10
+"KWT","Kuwait",2012,0,NA,NA,11,8.2,5.2,9.6
+"KWT","Kuwait",2013,0,NA,NA,11,7.9,5.1,9.2
+"KWT","Kuwait",2014,0,NA,NA,11,7.7,5,8.9
+"KWT","Kuwait",2015,0,NA,NA,11,7.5,4.9,8.8
+"KWT","Kuwait",2016,1,NA,NA,12,7.4,4.9,8.7
+"KWT","Kuwait",2017,0,NA,NA,12,7.4,4.9,8.7
+"KWT","Kuwait",2018,0,NA,NA,NA,7.5,4.9,8.7
+"LAO","Laos",1999,NA,NA,NA,NA,NA,NA,NA
+"LAO","Laos",2000,0,NA,NA,544,76.5,38.2,107.2
+"LAO","Laos",2001,0,NA,NA,517,73.9,37.3,103.1
+"LAO","Laos",2002,0,NA,NA,491,71.3,36.4,98.9
+"LAO","Laos",2003,0,NA,NA,465,68.7,35.5,94.8
+"LAO","Laos",2004,0,NA,NA,437,66.1,34.6,90.8
+"LAO","Laos",2005,0,NA,NA,410,63.6,33.6,86.8
+"LAO","Laos",2006,0,NA,NA,385,61.1,32.7,82.9
+"LAO","Laos",2007,1,NA,NA,360,58.7,31.7,79.1
+"LAO","Laos",2008,0,NA,NA,336,56.3,30.7,75.4
+"LAO","Laos",2009,0,NA,NA,314,54,29.8,71.7
+"LAO","Laos",2010,0,NA,NA,292,51.8,28.9,68.3
+"LAO","Laos",2011,0,NA,NA,272,49.7,28,65.1
+"LAO","Laos",2012,0,NA,NA,254,47.6,27.2,61.9
+"LAO","Laos",2013,0,NA,NA,238,45.7,26.3,59
+"LAO","Laos",2014,0,NA,NA,223,43.8,25.5,56.3
+"LAO","Laos",2015,0,NA,NA,209,42.1,24.8,53.8
+"LAO","Laos",2016,0,NA,NA,196,40.5,24.1,51.5
+"LAO","Laos",2017,0,NA,NA,185,39.1,23.5,49.4
+"LAO","Laos",2018,0,NA,NA,NA,37.8,22.8,47.5
+"LBN","Lebanon",1999,NA,NA,NA,NA,NA,NA,NA
+"LBN","Lebanon",2000,1,NA,NA,28,17,11.7,19.9
+"LBN","Lebanon",2001,1,NA,NA,27,16,10.9,18.7
+"LBN","Lebanon",2002,0,NA,NA,26,15.1,10.2,17.5
+"LBN","Lebanon",2003,0,NA,NA,25,14.1,9.6,16.4
+"LBN","Lebanon",2004,0,NA,NA,24,13.1,8.9,15.2
+"LBN","Lebanon",2005,0,NA,NA,24,12.1,8.2,14.1
+"LBN","Lebanon",2006,0,NA,NA,24,11.2,7.6,13
+"LBN","Lebanon",2007,1,NA,NA,23,10.4,7,12.1
+"LBN","Lebanon",2008,0,NA,NA,23,9.8,6.6,11.4
+"LBN","Lebanon",2009,1,NA,NA,23,9.2,6.2,10.7
+"LBN","Lebanon",2010,0,NA,NA,23,8.7,5.9,10.2
+"LBN","Lebanon",2011,0,NA,NA,25,8.3,5.6,9.7
+"LBN","Lebanon",2012,0,NA,NA,25,8,5.4,9.3
+"LBN","Lebanon",2013,1,NA,NA,27,7.7,5.2,9
+"LBN","Lebanon",2014,1,NA,NA,28,7.4,5,8.6
+"LBN","Lebanon",2015,1,NA,NA,29,7.1,4.8,8.3
+"LBN","Lebanon",2016,1,NA,NA,29,6.8,4.6,8
+"LBN","Lebanon",2017,1,NA,NA,29,6.6,4.4,7.7
+"LBN","Lebanon",2018,1,NA,NA,NA,6.4,4.3,7.4
+"LBR","Liberia",1999,NA,NA,NA,NA,NA,NA,NA
+"LBR","Liberia",2000,1,NA,NA,894,127.9,48.1,189.7
+"LBR","Liberia",2001,1,NA,NA,913,119.7,46,176.6
+"LBR","Liberia",2002,1,NA,NA,1010,111.9,43.9,163.7
+"LBR","Liberia",2003,1,NA,NA,878,104.3,41.9,151.3
+"LBR","Liberia",2004,1,NA,NA,837,97.2,40,139.8
+"LBR","Liberia",2005,0,NA,NA,816,90.7,38.4,129.6
+"LBR","Liberia",2006,0,NA,NA,782,85.3,36.9,121
+"LBR","Liberia",2007,0,NA,NA,754,80.8,35.6,114
+"LBR","Liberia",2008,0,NA,NA,738,77.2,34.5,108.2
+"LBR","Liberia",2009,0,NA,NA,724,74.2,33.5,103.6
+"LBR","Liberia",2010,0,NA,NA,708,71.8,32.9,99.8
+"LBR","Liberia",2011,0,NA,NA,694,69.9,32.5,96.7
+"LBR","Liberia",2012,0,NA,NA,683,68.3,32.3,94.2
+"LBR","Liberia",2013,0,NA,NA,674,66.9,32.3,92
+"LBR","Liberia",2014,0,NA,NA,688,66,32.3,92.1
+"LBR","Liberia",2015,0,NA,NA,691,64.4,32.2,88.3
+"LBR","Liberia",2016,0,NA,NA,661,63.1,32,86.1
+"LBR","Liberia",2017,0,NA,NA,661,62,31.8,84.3
+"LBR","Liberia",2018,0,NA,NA,NA,60.8,31.4,82.5
+"LBY","Libya",1999,NA,NA,NA,NA,NA,NA,NA
+"LBY","Libya",2000,0,NA,NA,70,24.1,15.1,28.1
+"LBY","Libya",2001,0,NA,NA,68,23.4,14.7,27.3
+"LBY","Libya",2002,0,NA,NA,66,22.7,14.3,26.5
+"LBY","Libya",2003,0,NA,NA,64,21.9,13.8,25.5
+"LBY","Libya",2004,0,NA,NA,61,21,13.2,24.4
+"LBY","Libya",2005,0,NA,NA,57,19.8,12.5,23.1
+"LBY","Libya",2006,0,NA,NA,55,18.6,11.7,21.7
+"LBY","Libya",2007,0,NA,NA,53,17.3,10.9,20.2
+"LBY","Libya",2008,0,NA,NA,52,16.1,10.1,18.8
+"LBY","Libya",2009,0,NA,NA,53,15.1,9.5,17.6
+"LBY","Libya",2010,0,NA,NA,53,14.2,9,16.6
+"LBY","Libya",2011,0,NA,NA,56,14.9,8.6,19.4
+"LBY","Libya",2012,1,NA,NA,55,12.9,8.1,15
+"LBY","Libya",2013,1,NA,NA,58,12.3,7.7,14.4
+"LBY","Libya",2014,1,NA,NA,63,11.8,7.4,13.8
+"LBY","Libya",2015,1,NA,NA,70,11.4,7.1,13.3
+"LBY","Libya",2016,1,NA,NA,73,11,6.9,12.8
+"LBY","Libya",2017,1,NA,NA,72,10.6,6.6,12.3
+"LBY","Libya",2018,1,NA,NA,NA,10.2,6.4,11.9
+"LCA","St. Lucia",1999,NA,NA,NA,NA,NA,NA,NA
+"LCA","St. Lucia",2000,0,NA,NA,86,15.6,11.4,18.4
+"LCA","St. Lucia",2001,0,NA,NA,86,15.6,11.6,18.3
+"LCA","St. Lucia",2002,0,NA,NA,90,15.6,11.8,18.2
+"LCA","St. Lucia",2003,0,NA,NA,92,15.7,12,18.3
+"LCA","St. Lucia",2004,0,NA,NA,89,15.8,12.2,18.3
+"LCA","St. Lucia",2005,0,NA,NA,83,16,12.3,18.4
+"LCA","St. Lucia",2006,0,NA,NA,82,16.1,12.3,18.6
+"LCA","St. Lucia",2007,0,1,0,87,16.4,12.4,18.8
+"LCA","St. Lucia",2008,0,NA,NA,93,16.6,12.5,19
+"LCA","St. Lucia",2009,0,NA,NA,100,16.9,12.6,19.3
+"LCA","St. Lucia",2010,0,0,1,109,17.3,12.7,19.7
+"LCA","St. Lucia",2011,0,NA,NA,116,17.7,12.8,20
+"LCA","St. Lucia",2012,0,NA,NA,116,18.1,12.8,20.4
+"LCA","St. Lucia",2013,0,NA,NA,108,18.5,12.7,20.9
+"LCA","St. Lucia",2014,0,NA,NA,104,19,12.6,21.4
+"LCA","St. Lucia",2015,0,NA,NA,115,19.5,12.4,21.9
+"LCA","St. Lucia",2016,0,NA,NA,117,20,12.4,22.4
+"LCA","St. Lucia",2017,0,NA,NA,117,20.6,12.4,23
+"LCA","St. Lucia",2018,0,NA,NA,NA,21.1,12.5,23.5
+"LKA","Sri Lanka",1999,NA,NA,NA,NA,NA,NA,NA
+"LKA","Sri Lanka",2000,1,NA,NA,56,14.2,9.7,16.5
+"LKA","Sri Lanka",2001,1,0,1,53,13.7,9.1,16
+"LKA","Sri Lanka",2002,1,NA,NA,50,13.4,8.5,15.5
+"LKA","Sri Lanka",2003,0,NA,NA,50,13,7.9,15.1
+"LKA","Sri Lanka",2004,1,1,0,48,17.7,7.6,28.9
+"LKA","Sri Lanka",2005,1,NA,NA,45,12.2,7,14.2
+"LKA","Sri Lanka",2006,1,NA,NA,47,11.6,6.9,13.5
+"LKA","Sri Lanka",2007,1,NA,NA,43,11,6.9,12.8
+"LKA","Sri Lanka",2008,1,NA,NA,42,10.5,6.8,12.2
+"LKA","Sri Lanka",2009,1,NA,NA,41,13.9,6.8,21.3
+"LKA","Sri Lanka",2010,1,NA,NA,38,9.8,6.4,11.4
+"LKA","Sri Lanka",2011,0,NA,NA,38,9.4,6.3,10.9
+"LKA","Sri Lanka",2012,0,0,1,37,8.9,6.1,10.4
+"LKA","Sri Lanka",2013,0,NA,NA,37,8.4,5.9,9.8
+"LKA","Sri Lanka",2014,0,0,1,36,7.9,5.5,9.3
+"LKA","Sri Lanka",2015,0,NA,NA,36,7.5,5.1,8.7
+"LKA","Sri Lanka",2016,0,0,1,36,7.1,4.8,8.2
+"LKA","Sri Lanka",2017,0,NA,NA,36,6.7,4.6,7.8
+"LKA","Sri Lanka",2018,0,NA,NA,NA,6.4,4.4,7.5
+"LSO","Lesotho",1999,NA,NA,NA,NA,NA,NA,NA
+"LSO","Lesotho",2000,0,NA,NA,614,70,39.6,106.9
+"LSO","Lesotho",2001,0,NA,NA,633,70.5,39.9,108.8
+"LSO","Lesotho",2002,0,0,1,653,71.2,40.1,110.7
+"LSO","Lesotho",2003,0,NA,NA,671,72.2,40.2,112.7
+"LSO","Lesotho",2004,0,NA,NA,680,73,40.3,114.5
+"LSO","Lesotho",2005,0,NA,NA,679,74,40.5,116.1
+"LSO","Lesotho",2006,0,NA,NA,668,74.5,40.8,116.5
+"LSO","Lesotho",2007,0,0,1,652,73.8,41.1,114.3
+"LSO","Lesotho",2008,0,NA,NA,623,77.1,41.4,113
+"LSO","Lesotho",2009,0,NA,NA,607,73.6,41.7,104.2
+"LSO","Lesotho",2010,0,NA,NA,594,70.9,42,96.4
+"LSO","Lesotho",2011,0,0,1,585,69,42.4,93.9
+"LSO","Lesotho",2012,0,NA,NA,586,70.2,42.8,92.7
+"LSO","Lesotho",2013,0,NA,NA,583,71,43.5,92.6
+"LSO","Lesotho",2014,0,NA,NA,579,71.9,44.1,94.2
+"LSO","Lesotho",2015,0,NA,NA,574,72.6,44.7,94.6
+"LSO","Lesotho",2016,0,0,1,559,72.9,45.1,91.5
+"LSO","Lesotho",2017,0,NA,NA,544,73.1,45.2,91
+"LSO","Lesotho",2018,0,NA,NA,NA,72.1,45.1,90.6
+"LTU","Lithuania",1999,NA,NA,NA,NA,NA,NA,NA
+"LTU","Lithuania",2000,0,NA,NA,17,8.6,4.5,10.7
+"LTU","Lithuania",2001,0,NA,NA,16,8.2,4.4,10.3
+"LTU","Lithuania",2002,0,NA,NA,14,7.9,4.4,9.9
+"LTU","Lithuania",2003,0,NA,NA,14,7.6,4.5,9.5
+"LTU","Lithuania",2004,0,NA,NA,13,7.4,4.5,9.3
+"LTU","Lithuania",2005,0,NA,NA,14,7.3,4.4,9
+"LTU","Lithuania",2006,0,0,1,14,6.9,4.1,8.6
+"LTU","Lithuania",2007,0,NA,NA,14,6.5,3.8,8
+"LTU","Lithuania",2008,0,NA,NA,13,5.9,3.4,7.3
+"LTU","Lithuania",2009,0,NA,NA,11,5.4,3.2,6.7
+"LTU","Lithuania",2010,0,NA,NA,10,4.9,2.9,6
+"LTU","Lithuania",2011,0,NA,NA,10,4.5,2.8,5.5
+"LTU","Lithuania",2012,0,NA,NA,10,4.2,2.6,5.2
+"LTU","Lithuania",2013,0,NA,NA,10,4.1,2.5,5
+"LTU","Lithuania",2014,0,NA,NA,9,4,2.4,4.9
+"LTU","Lithuania",2015,0,NA,NA,9,4,2.4,4.9
+"LTU","Lithuania",2016,0,NA,NA,8,3.9,2.4,4.8
+"LTU","Lithuania",2017,0,NA,NA,8,3.6,2.3,4.4
+"LTU","Lithuania",2018,0,0,1,NA,3.3,2.2,4
+"LUX","Luxembourg",1999,NA,NA,NA,NA,NA,NA,NA
+"LUX","Luxembourg",2000,0,NA,NA,10,3.7,2.3,4.5
+"LUX","Luxembourg",2001,0,NA,NA,10,3.5,2.2,4.2
+"LUX","Luxembourg",2002,0,NA,NA,9,3.3,2,4
+"LUX","Luxembourg",2003,0,NA,NA,8,3.1,1.9,3.8
+"LUX","Luxembourg",2004,0,NA,NA,8,2.9,1.8,3.5
+"LUX","Luxembourg",2005,0,NA,NA,9,2.8,1.7,3.4
+"LUX","Luxembourg",2006,0,NA,NA,9,2.6,1.7,3.2
+"LUX","Luxembourg",2007,0,NA,NA,8,2.5,1.6,3.1
+"LUX","Luxembourg",2008,0,NA,NA,6,2.4,1.6,3
+"LUX","Luxembourg",2009,0,NA,NA,7,2.4,1.6,2.9
+"LUX","Luxembourg",2010,0,NA,NA,8,2.3,1.5,2.8
+"LUX","Luxembourg",2011,0,NA,NA,8,2.3,1.5,2.8
+"LUX","Luxembourg",2012,0,NA,NA,7,2.3,1.5,2.8
+"LUX","Luxembourg",2013,0,NA,NA,6,2.3,1.6,2.8
+"LUX","Luxembourg",2014,0,NA,NA,6,2.3,1.6,2.8
+"LUX","Luxembourg",2015,0,NA,NA,5,2.3,1.6,2.8
+"LUX","Luxembourg",2016,0,NA,NA,5,2.3,1.6,2.8
+"LUX","Luxembourg",2017,0,NA,NA,5,2.3,1.7,2.8
+"LUX","Luxembourg",2018,0,NA,NA,NA,2.3,1.7,2.8
+"LVA","Latvia",1999,NA,NA,NA,NA,NA,NA,NA
+"LVA","Latvia",2000,0,NA,NA,34,11.5,7.1,14.2
+"LVA","Latvia",2001,0,NA,NA,35,10.8,6.6,13.3
+"LVA","Latvia",2002,0,NA,NA,33,10.2,6.2,12.6
+"LVA","Latvia",2003,0,NA,NA,34,9.7,5.9,11.9
+"LVA","Latvia",2004,0,NA,NA,32,9.2,5.6,11.2
+"LVA","Latvia",2005,0,NA,NA,30,8.6,5.4,10.5
+"LVA","Latvia",2006,0,NA,NA,32,8.1,5.2,9.8
+"LVA","Latvia",2007,0,NA,NA,32,7.7,5,9.3
+"LVA","Latvia",2008,0,NA,NA,29,7.3,4.8,8.8
+"LVA","Latvia",2009,0,NA,NA,28,6.9,4.5,8.3
+"LVA","Latvia",2010,0,NA,NA,26,6.5,4.2,7.8
+"LVA","Latvia",2011,0,NA,NA,26,6.1,3.9,7.2
+"LVA","Latvia",2012,0,NA,NA,23,5.6,3.5,6.6
+"LVA","Latvia",2013,0,NA,NA,27,5.1,3.2,6
+"LVA","Latvia",2014,0,NA,NA,24,4.6,2.9,5.5
+"LVA","Latvia",2015,0,NA,NA,23,4.3,2.7,5
+"LVA","Latvia",2016,0,NA,NA,26,4,2.6,4.7
+"LVA","Latvia",2017,0,NA,NA,19,3.8,2.4,4.4
+"LVA","Latvia",2018,0,NA,NA,NA,3.6,2.4,4.2
+"MAR","Morocco",1999,NA,NA,NA,NA,NA,NA,NA
+"MAR","Morocco",2000,0,NA,NA,188,43.9,28.4,52.3
+"MAR","Morocco",2001,0,NA,NA,174,42.3,27.7,50.1
+"MAR","Morocco",2002,0,NA,NA,162,40.6,27,48
+"MAR","Morocco",2003,0,NA,NA,152,39,26.2,45.9
+"MAR","Morocco",2004,1,1,0,142,37.2,25.5,43.7
+"MAR","Morocco",2005,0,NA,NA,131,35.5,24.6,41.5
+"MAR","Morocco",2006,0,NA,NA,121,33.6,23.7,39.3
+"MAR","Morocco",2007,0,NA,NA,113,31.8,22.8,37.1
+"MAR","Morocco",2008,0,NA,NA,106,30.1,21.7,35
+"MAR","Morocco",2009,0,NA,NA,99,28.4,20.5,33
+"MAR","Morocco",2010,0,NA,NA,92,26.8,19.3,31.2
+"MAR","Morocco",2011,0,NA,NA,86,25.3,18.2,29.5
+"MAR","Morocco",2012,0,NA,NA,81,23.9,17.2,27.8
+"MAR","Morocco",2013,0,NA,NA,78,22.6,16.2,26.3
+"MAR","Morocco",2014,0,NA,NA,76,21.3,15.3,24.9
+"MAR","Morocco",2015,0,NA,NA,74,20.2,14.5,23.5
+"MAR","Morocco",2016,0,NA,NA,72,19.1,13.8,22.3
+"MAR","Morocco",2017,0,NA,NA,70,18.2,13.1,21.2
+"MAR","Morocco",2018,0,NA,NA,NA,17.4,12.5,20.3
+"MDA","Moldova",1999,NA,NA,NA,NA,NA,NA,NA
+"MDA","Moldova",2000,0,0,1,44,26.2,20.4,31.5
+"MDA","Moldova",2001,0,NA,NA,39,23.9,18.7,28.6
+"MDA","Moldova",2002,0,NA,NA,38,21.7,17.1,25.8
+"MDA","Moldova",2003,0,NA,NA,36,19.8,15.6,23.3
+"MDA","Moldova",2004,0,NA,NA,32,18.3,14.5,21.5
+"MDA","Moldova",2005,0,NA,NA,34,17.1,13.8,20.1
+"MDA","Moldova",2006,0,NA,NA,31,16.3,13.3,19
+"MDA","Moldova",2007,0,0,1,31,15.7,13,18.3
+"MDA","Moldova",2008,0,NA,NA,29,15.3,12.8,17.8
+"MDA","Moldova",2009,0,NA,NA,28,15,12.7,17.4
+"MDA","Moldova",2010,0,NA,NA,29,14.7,12.6,17.1
+"MDA","Moldova",2011,0,NA,NA,21,14.5,12.4,16.8
+"MDA","Moldova",2012,0,0,1,22,14.2,12.2,16.5
+"MDA","Moldova",2013,0,NA,NA,21,14,12,16.3
+"MDA","Moldova",2014,0,NA,NA,23,13.7,11.7,16
+"MDA","Moldova",2015,0,NA,NA,22,13.6,11.5,15.8
+"MDA","Moldova",2016,0,NA,NA,20,13.3,11.3,15.5
+"MDA","Moldova",2017,0,NA,NA,19,13.1,11.2,15.3
+"MDA","Moldova",2018,0,NA,NA,NA,12.9,11,15
+"MDG","Madagascar",1999,NA,NA,NA,NA,NA,NA,NA
+"MDG","Madagascar",2000,0,0,1,559,67.5,30.7,105.4
+"MDG","Madagascar",2001,0,NA,NA,552,64.9,29.9,100.8
+"MDG","Madagascar",2002,0,0,1,547,62.5,29.2,96.5
+"MDG","Madagascar",2003,1,NA,NA,543,60.2,28.5,92.4
+"MDG","Madagascar",2004,0,NA,NA,539,58,27.9,88.5
+"MDG","Madagascar",2005,0,0,1,526,55.9,27.3,84.8
+"MDG","Madagascar",2006,0,NA,NA,513,53.9,26.7,81.3
+"MDG","Madagascar",2007,0,NA,NA,503,52,26,77.9
+"MDG","Madagascar",2008,0,0,1,491,50.3,25.5,74.8
+"MDG","Madagascar",2009,0,NA,NA,474,48.6,24.9,72
+"MDG","Madagascar",2010,1,NA,NA,453,47.1,24.4,69.3
+"MDG","Madagascar",2011,0,NA,NA,432,45.8,24,67
+"MDG","Madagascar",2012,0,NA,NA,413,44.6,23.6,64.8
+"MDG","Madagascar",2013,0,NA,NA,394,43.4,23.1,62.7
+"MDG","Madagascar",2014,0,0,1,378,42.3,22.7,60.8
+"MDG","Madagascar",2015,0,NA,NA,363,41.3,22.3,59
+"MDG","Madagascar",2016,0,0,1,348,40.3,21.9,57.2
+"MDG","Madagascar",2017,0,0,1,335,39.3,21.5,55.5
+"MDG","Madagascar",2018,0,NA,NA,NA,38.2,21.1,53.7
+"MDV","Maldives",1999,NA,NA,NA,NA,NA,NA,NA
+"MDV","Maldives",2000,0,NA,NA,125,31.7,22.4,39
+"MDV","Maldives",2001,0,NA,NA,111,28.5,20,34.6
+"MDV","Maldives",2002,0,NA,NA,105,25.5,17.5,30.7
+"MDV","Maldives",2003,0,NA,NA,97,22.8,15.3,27.1
+"MDV","Maldives",2004,0,1,0,89,21.4,13.6,26.9
+"MDV","Maldives",2005,0,NA,NA,75,18.3,12.1,21.5
+"MDV","Maldives",2006,0,NA,NA,71,16.5,10.9,19.3
+"MDV","Maldives",2007,0,NA,NA,71,15.1,9.9,17.6
+"MDV","Maldives",2008,0,NA,NA,72,13.8,9,16.1
+"MDV","Maldives",2009,0,NA,NA,71,12.8,8.3,14.9
+"MDV","Maldives",2010,0,NA,NA,67,11.9,7.7,13.9
+"MDV","Maldives",2011,0,NA,NA,62,11.1,7,12.9
+"MDV","Maldives",2012,0,NA,NA,60,10.4,6.5,12.1
+"MDV","Maldives",2013,0,NA,NA,58,9.7,6.2,11.3
+"MDV","Maldives",2014,0,NA,NA,56,9.1,5.9,10.5
+"MDV","Maldives",2015,0,NA,NA,54,8.4,5.7,9.8
+"MDV","Maldives",2016,0,NA,NA,54,7.7,5.5,9
+"MDV","Maldives",2017,0,NA,NA,53,7.1,5.2,8.3
+"MDV","Maldives",2018,0,NA,NA,NA,6.5,4.9,7.6
+"MEX","Mexico",1999,NA,NA,NA,NA,NA,NA,NA
+"MEX","Mexico",2000,0,1,0,55,23.8,14.4,28.4
+"MEX","Mexico",2001,0,NA,NA,55,22.8,13.4,27.1
+"MEX","Mexico",2002,0,0,1,56,21.9,12.4,26
+"MEX","Mexico",2003,1,1,0,55,21,11.4,24.9
+"MEX","Mexico",2004,0,NA,NA,54,20.2,10.5,23.9
+"MEX","Mexico",2005,1,NA,NA,54,19.5,9.9,22.9
+"MEX","Mexico",2006,1,NA,NA,51,18.8,9.4,22.1
+"MEX","Mexico",2007,1,NA,NA,49,18.2,9.3,21.3
+"MEX","Mexico",2008,1,NA,NA,49,17.6,9.2,20.6
+"MEX","Mexico",2009,1,NA,NA,51,17,9.1,19.9
+"MEX","Mexico",2010,1,1,0,46,16.4,9,19.2
+"MEX","Mexico",2011,1,1,0,43,15.9,8.9,18.5
+"MEX","Mexico",2011,1,0,1,43,15.9,8.9,18.5
+"MEX","Mexico",2012,1,1,0,41,15.4,8.7,17.9
+"MEX","Mexico",2013,1,NA,NA,39,14.9,8.5,17.3
+"MEX","Mexico",2014,1,1,0,38,14.4,8.3,16.8
+"MEX","Mexico",2014,1,1,0,38,14.4,8.3,16.8
+"MEX","Mexico",2015,1,NA,NA,36,13.9,8.3,16.2
+"MEX","Mexico",2016,1,NA,NA,34,13.5,8.4,15.7
+"MEX","Mexico",2017,1,1,0,33,13,8.6,15.2
+"MEX","Mexico",2017,1,1,0,33,13,8.6,15.2
+"MEX","Mexico",2018,1,1,0,NA,12.6,8.7,14.6
+"MHL","Marshall Islands",1999,NA,NA,NA,NA,NA,NA,NA
+"MHL","Marshall Islands",2000,0,NA,NA,NA,33.9,18.8,42
+"MHL","Marshall Islands",2001,0,NA,NA,NA,33.9,18.9,42.1
+"MHL","Marshall Islands",2002,0,NA,NA,NA,33.8,18.8,41.9
+"MHL","Marshall Islands",2003,0,NA,NA,NA,33.6,18.7,41.7
+"MHL","Marshall Islands",2004,0,NA,NA,NA,33.4,18.6,41.3
+"MHL","Marshall Islands",2005,0,NA,NA,NA,33.2,18.5,41
+"MHL","Marshall Islands",2006,0,NA,NA,NA,32.9,18.3,40.6
+"MHL","Marshall Islands",2007,0,NA,NA,NA,32.6,18.2,40.2
+"MHL","Marshall Islands",2008,0,NA,NA,NA,32.3,18.1,39.8
+"MHL","Marshall Islands",2009,0,NA,NA,NA,32,18,39.4
+"MHL","Marshall Islands",2010,0,NA,NA,NA,31.7,17.8,39
+"MHL","Marshall Islands",2011,0,NA,NA,NA,31.4,17.6,38.6
+"MHL","Marshall Islands",2012,0,NA,NA,NA,30.9,17.4,37.9
+"MHL","Marshall Islands",2013,0,0,1,NA,30.4,17.2,37.2
+"MHL","Marshall Islands",2014,0,NA,NA,NA,29.7,16.9,36.3
+"MHL","Marshall Islands",2015,0,0,1,NA,29.1,16.5,35.4
+"MHL","Marshall Islands",2016,0,NA,NA,NA,28.4,16,34.4
+"MHL","Marshall Islands",2017,0,NA,NA,NA,27.7,15.6,33.5
+"MHL","Marshall Islands",2018,0,NA,NA,NA,26.9,15.1,32.5
+"MKD","North Macedonia",1999,NA,NA,NA,NA,NA,NA,NA
+"MKD","North Macedonia",2000,0,NA,NA,13,14.3,9.6,16
+"MKD","North Macedonia",2001,0,NA,NA,12,13.2,9,14.8
+"MKD","North Macedonia",2002,1,NA,NA,12,12.8,8.9,14.3
+"MKD","North Macedonia",2003,0,NA,NA,10,12.8,9,14.4
+"MKD","North Macedonia",2004,0,NA,NA,11,12.7,9,14.3
+"MKD","North Macedonia",2005,0,NA,NA,10,12.2,8.7,13.7
+"MKD","North Macedonia",2006,0,NA,NA,10,11.5,8.4,13
+"MKD","North Macedonia",2007,0,NA,NA,10,10.9,8.1,12.3
+"MKD","North Macedonia",2008,0,NA,NA,8,10.3,7.8,11.7
+"MKD","North Macedonia",2009,0,NA,NA,8,9.7,7.4,11
+"MKD","North Macedonia",2010,0,NA,NA,8,9.2,7,10.4
+"MKD","North Macedonia",2011,0,NA,NA,8,8.8,6.7,10
+"MKD","North Macedonia",2012,0,NA,NA,8,9,6.9,10.1
+"MKD","North Macedonia",2013,0,NA,NA,8,9.4,7.4,10.6
+"MKD","North Macedonia",2014,0,NA,NA,8,9.9,7.9,11.2
+"MKD","North Macedonia",2015,0,NA,NA,8,10,8.1,11.4
+"MKD","North Macedonia",2016,0,1,0,8,9.6,7.8,10.9
+"MKD","North Macedonia",2017,0,NA,NA,7,8.5,6.8,9.6
+"MKD","North Macedonia",2018,0,NA,NA,NA,7.1,5.5,8.1
+"MLI","Mali",1999,NA,NA,NA,NA,NA,NA,NA
+"MLI","Mali",2000,1,NA,NA,836,101.5,51,187.4
+"MLI","Mali",2001,0,0,1,797,98.8,49.3,181.1
+"MLI","Mali",2002,0,NA,NA,764,96.1,47.6,174.7
+"MLI","Mali",2003,0,NA,NA,739,93.3,46.1,168.3
+"MLI","Mali",2004,0,NA,NA,715,90.7,44.7,162.2
+"MLI","Mali",2005,0,0,1,691,88.1,43.6,156.4
+"MLI","Mali",2006,0,0,1,675,85.7,42.6,150.8
+"MLI","Mali",2007,0,NA,NA,663,83.3,41.7,145.4
+"MLI","Mali",2008,1,NA,NA,661,81.1,40.8,140.2
+"MLI","Mali",2009,1,NA,NA,661,78.8,39.8,135.1
+"MLI","Mali",2010,1,0,1,660,76.7,38.9,130.3
+"MLI","Mali",2011,1,0,1,663,74.6,38,125.6
+"MLI","Mali",2012,0,NA,NA,663,72.6,37.1,121
+"MLI","Mali",2013,1,NA,NA,663,70.6,36.4,116.6
+"MLI","Mali",2014,1,NA,NA,642,68.7,35.6,112.4
+"MLI","Mali",2015,1,NA,NA,620,66.8,34.9,108.3
+"MLI","Mali",2016,1,NA,NA,590,65.1,34.2,104.5
+"MLI","Mali",2017,1,NA,NA,562,63.4,33.6,100.9
+"MLI","Mali",2018,1,NA,NA,NA,61.8,32.9,97.4
+"MLT","Malta",1999,NA,NA,NA,NA,NA,NA,NA
+"MLT","Malta",2000,0,NA,NA,9,6.9,5.2,7.8
+"MLT","Malta",2001,0,NA,NA,10,6.6,5,7.5
+"MLT","Malta",2002,0,NA,NA,9,6.5,4.9,7.3
+"MLT","Malta",2003,0,NA,NA,10,6.3,4.8,7.2
+"MLT","Malta",2004,0,NA,NA,9,6.2,4.7,7.1
+"MLT","Malta",2005,0,NA,NA,8,6.1,4.6,7
+"MLT","Malta",2006,0,NA,NA,8,6,4.5,6.9
+"MLT","Malta",2007,0,NA,NA,8,6,4.5,6.8
+"MLT","Malta",2008,0,NA,NA,8,5.9,4.5,6.8
+"MLT","Malta",2009,0,NA,NA,7,5.9,4.5,6.7
+"MLT","Malta",2010,0,NA,NA,8,5.8,4.4,6.7
+"MLT","Malta",2011,0,NA,NA,7,5.8,4.4,6.6
+"MLT","Malta",2012,0,NA,NA,7,5.8,4.4,6.6
+"MLT","Malta",2013,0,NA,NA,7,5.8,4.4,6.6
+"MLT","Malta",2014,0,NA,NA,6,5.8,4.4,6.6
+"MLT","Malta",2015,0,NA,NA,7,5.7,4.4,6.6
+"MLT","Malta",2016,0,NA,NA,6,5.7,4.4,6.6
+"MLT","Malta",2017,0,NA,NA,6,5.7,4.4,6.6
+"MLT","Malta",2018,0,NA,NA,NA,5.7,4.4,6.5
+"MMR","Myanmar (Burma)",1999,NA,NA,NA,NA,NA,NA,NA
+"MMR","Myanmar (Burma)",2000,1,NA,NA,340,65.4,37.6,89.6
+"MMR","Myanmar (Burma)",2001,1,NA,NA,331,63.8,36.6,87.1
+"MMR","Myanmar (Burma)",2002,1,NA,NA,323,62.3,35.6,84.7
+"MMR","Myanmar (Burma)",2003,1,NA,NA,314,60.7,34.5,82.3
+"MMR","Myanmar (Burma)",2004,1,1,0,307,59.1,33.6,79.7
+"MMR","Myanmar (Burma)",2005,1,NA,NA,299,57.4,32.6,77.2
+"MMR","Myanmar (Burma)",2006,1,NA,NA,293,55.8,31.7,74.5
+"MMR","Myanmar (Burma)",2007,1,NA,NA,287,54.1,30.9,71.8
+"MMR","Myanmar (Burma)",2008,1,NA,NA,289,63.4,30.5,98.4
+"MMR","Myanmar (Burma)",2009,1,NA,NA,274,50.5,29.2,66.3
+"MMR","Myanmar (Burma)",2010,1,NA,NA,265,48.8,28.5,63.7
+"MMR","Myanmar (Burma)",2011,1,1,0,259,47,27.8,61
+"MMR","Myanmar (Burma)",2012,1,1,0,254,45.4,27.1,58.6
+"MMR","Myanmar (Burma)",2013,1,NA,NA,251,43.8,26.5,56.2
+"MMR","Myanmar (Burma)",2014,1,NA,NA,247,42.3,25.9,54.1
+"MMR","Myanmar (Burma)",2015,1,NA,NA,246,41,25.2,52.2
+"MMR","Myanmar (Burma)",2016,1,1,0,245,39.7,24.6,50.3
+"MMR","Myanmar (Burma)",2017,1,NA,NA,250,38.5,24,48.5
+"MMR","Myanmar (Burma)",2018,1,NA,NA,NA,37.2,23.4,46.8
+"MNE","Montenegro",1999,NA,NA,NA,NA,NA,NA,NA
+"MNE","Montenegro",2000,0,NA,NA,12,12.5,8.6,14.2
+"MNE","Montenegro",2001,0,NA,NA,12,12,8.4,13.6
+"MNE","Montenegro",2002,0,NA,NA,11,11.4,8.2,12.9
+"MNE","Montenegro",2003,0,NA,NA,11,10.6,7.9,12.2
+"MNE","Montenegro",2004,0,NA,NA,10,9.9,7.4,11.4
+"MNE","Montenegro",2005,0,NA,NA,9,9.2,6.9,10.5
+"MNE","Montenegro",2006,0,NA,NA,9,8.4,6.4,9.7
+"MNE","Montenegro",2007,0,NA,NA,8,7.7,5.9,8.9
+"MNE","Montenegro",2008,0,NA,NA,8,7,5.4,8.1
+"MNE","Montenegro",2009,0,NA,NA,8,6.3,4.9,7.4
+"MNE","Montenegro",2010,0,NA,NA,7,5.7,4.4,6.7
+"MNE","Montenegro",2011,0,NA,NA,7,5.1,3.9,6.1
+"MNE","Montenegro",2012,0,NA,NA,7,4.6,3.5,5.5
+"MNE","Montenegro",2013,0,NA,NA,6,4.1,3,4.9
+"MNE","Montenegro",2014,0,NA,NA,6,3.7,2.6,4.4
+"MNE","Montenegro",2015,0,NA,NA,6,3.3,2.3,4
+"MNE","Montenegro",2016,0,NA,NA,6,3,1.9,3.6
+"MNE","Montenegro",2017,0,NA,NA,6,2.6,1.7,3.2
+"MNE","Montenegro",2018,0,NA,NA,NA,2.4,1.4,2.9
+"MNG","Mongolia",1999,NA,NA,NA,NA,NA,NA,NA
+"MNG","Mongolia",2000,0,0,1,155,48.6,23.7,63.5
+"MNG","Mongolia",2001,0,NA,NA,138,45.3,22.4,58.5
+"MNG","Mongolia",2002,0,NA,NA,124,42,21.2,53.7
+"MNG","Mongolia",2003,0,NA,NA,114,38.9,19.9,49.1
+"MNG","Mongolia",2004,0,NA,NA,106,35.9,18.7,44.9
+"MNG","Mongolia",2005,0,NA,NA,98,33.1,17.6,40.9
+"MNG","Mongolia",2006,0,NA,NA,91,30.5,16.5,37.4
+"MNG","Mongolia",2007,0,NA,NA,85,28.1,15,34.1
+"MNG","Mongolia",2008,0,NA,NA,80,25.9,13.6,31.2
+"MNG","Mongolia",2009,0,NA,NA,73,23.9,12.4,28.6
+"MNG","Mongolia",2010,0,NA,NA,66,22.1,11.4,26.3
+"MNG","Mongolia",2011,0,NA,NA,59,20.6,10.8,24.4
+"MNG","Mongolia",2012,0,NA,NA,54,19.4,10.3,22.8
+"MNG","Mongolia",2013,0,NA,NA,51,18.3,10,21.5
+"MNG","Mongolia",2014,0,NA,NA,49,17.4,9.8,20.4
+"MNG","Mongolia",2015,0,NA,NA,47,16.6,9.6,19.4
+"MNG","Mongolia",2016,0,NA,NA,46,15.9,9.3,18.5
+"MNG","Mongolia",2017,0,NA,NA,45,15.1,9,17.6
+"MNG","Mongolia",2018,0,NA,NA,NA,14.4,8.7,16.8
+"MOZ","Mozambique",1999,NA,NA,NA,NA,NA,NA,NA
+"MOZ","Mozambique",2000,0,NA,NA,798,112.4,46.6,170.4
+"MOZ","Mozambique",2001,0,0,1,745,106.1,44.5,161
+"MOZ","Mozambique",2001,0,0,1,745,106.1,44.5,161
+"MOZ","Mozambique",2002,0,NA,NA,700,100.3,42.6,152.6
+"MOZ","Mozambique",2003,0,0,1,657,95.3,40.9,145
+"MOZ","Mozambique",2004,0,NA,NA,615,90.8,39.4,138.2
+"MOZ","Mozambique",2005,0,0,1,577,86.9,38.2,132
+"MOZ","Mozambique",2006,0,1,0,539,83.2,37.1,126.2
+"MOZ","Mozambique",2007,0,0,1,505,78,36.1,118.8
+"MOZ","Mozambique",2008,0,0,1,471,75.6,35.3,112.9
+"MOZ","Mozambique",2009,0,NA,NA,439,72.7,34.6,107.3
+"MOZ","Mozambique",2010,0,0,1,412,72.5,34,104.9
+"MOZ","Mozambique",2011,0,NA,NA,389,68.8,33.4,100.5
+"MOZ","Mozambique",2012,0,NA,NA,371,66.4,32.8,96.3
+"MOZ","Mozambique",2013,0,NA,NA,356,64.7,32.3,92.3
+"MOZ","Mozambique",2014,1,NA,NA,339,63,31.8,88.4
+"MOZ","Mozambique",2015,1,NA,NA,318,61.3,31.3,84
+"MOZ","Mozambique",2016,0,0,1,301,59.4,30.7,80.4
+"MOZ","Mozambique",2017,1,NA,NA,289,57.5,30.1,78
+"MOZ","Mozambique",2018,0,NA,NA,NA,56,29.5,75.6
+"MRT","Mauritania",1999,NA,NA,NA,NA,NA,NA,NA
+"MRT","Mauritania",2000,0,NA,NA,834,69.1,42.5,112.5
+"MRT","Mauritania",2001,0,0,1,835,68.9,42.1,112.1
+"MRT","Mauritania",2002,0,NA,NA,836,68.6,41.8,111.5
+"MRT","Mauritania",2003,0,NA,NA,836,68.3,41.5,110.8
+"MRT","Mauritania",2004,0,NA,NA,830,67.8,41.3,109.7
+"MRT","Mauritania",2005,0,NA,NA,826,67,40.9,108.1
+"MRT","Mauritania",2006,0,NA,NA,821,66.1,40.4,106.1
+"MRT","Mauritania",2007,0,NA,NA,820,65,39.9,103.7
+"MRT","Mauritania",2008,0,NA,NA,819,63.8,39.3,101.1
+"MRT","Mauritania",2009,0,NA,NA,822,62.5,38.6,98.4
+"MRT","Mauritania",2010,0,0,1,824,61.2,37.9,95.6
+"MRT","Mauritania",2011,0,0,1,822,60,37.2,93
+"MRT","Mauritania",2012,0,NA,NA,812,58.8,36.5,90.5
+"MRT","Mauritania",2013,0,NA,NA,805,57.5,35.8,87.7
+"MRT","Mauritania",2014,0,NA,NA,796,56.2,35.2,85.1
+"MRT","Mauritania",2015,0,NA,NA,785,55,34.6,82.7
+"MRT","Mauritania",2016,0,NA,NA,777,53.8,33.8,80.1
+"MRT","Mauritania",2017,0,0,1,766,52.6,33.1,77.7
+"MRT","Mauritania",2018,0,0,1,NA,51.5,32.4,75.5
+"MUS","Mauritius",1999,NA,NA,NA,NA,NA,NA,NA
+"MUS","Mauritius",2000,0,NA,NA,59,16.6,12.4,18.8
+"MUS","Mauritius",2001,0,NA,NA,54,15.3,11.3,17.5
+"MUS","Mauritius",2002,0,NA,NA,54,14.4,10.6,16.6
+"MUS","Mauritius",2003,0,NA,NA,57,13.8,10.2,16
+"MUS","Mauritius",2004,0,NA,NA,54,13.5,10.1,15.8
+"MUS","Mauritius",2005,0,NA,NA,53,13.4,10.2,15.6
+"MUS","Mauritius",2006,0,NA,NA,55,13.2,10.2,15.5
+"MUS","Mauritius",2007,0,NA,NA,56,13,10,15.2
+"MUS","Mauritius",2008,0,NA,NA,53,12.7,9.7,14.9
+"MUS","Mauritius",2009,0,NA,NA,59,12.5,9.4,14.6
+"MUS","Mauritius",2010,0,NA,NA,66,12.5,9.3,14.5
+"MUS","Mauritius",2011,0,NA,NA,54,12.6,9.3,14.6
+"MUS","Mauritius",2012,0,NA,NA,63,13,9.5,14.9
+"MUS","Mauritius",2013,0,NA,NA,60,13.1,9.5,15
+"MUS","Mauritius",2014,0,NA,NA,70,12.9,9.3,14.8
+"MUS","Mauritius",2015,0,NA,NA,73,12.8,9.1,14.5
+"MUS","Mauritius",2016,0,NA,NA,67,12.8,9.1,14.5
+"MUS","Mauritius",2017,0,NA,NA,61,13.2,9.3,14.9
+"MUS","Mauritius",2018,0,NA,NA,NA,13.7,9.7,15.4
+"MWI","Malawi",1999,NA,NA,NA,NA,NA,NA,NA
+"MWI","Malawi",2000,0,NA,NA,749,100.5,39.1,174.6
+"MWI","Malawi",2001,0,NA,NA,735,92.9,37,160.5
+"MWI","Malawi",2002,0,0,1,714,84.6,34.8,145.5
+"MWI","Malawi",2003,0,NA,NA,687,76.8,32.7,131.6
+"MWI","Malawi",2004,0,NA,NA,654,70.1,31,119.7
+"MWI","Malawi",2005,0,0,1,610,65,29.8,110.5
+"MWI","Malawi",2006,0,NA,NA,566,61.6,29.2,104.2
+"MWI","Malawi",2007,0,0,1,526,59.6,28.9,99.9
+"MWI","Malawi",2008,0,NA,NA,493,56.5,28.8,94.5
+"MWI","Malawi",2009,0,1,0,466,54.5,28.5,89.4
+"MWI","Malawi",2009,0,1,0,466,54.5,28.5,89.4
+"MWI","Malawi",2010,0,NA,NA,444,52.4,27.9,84.2
+"MWI","Malawi",2011,0,NA,NA,428,48.8,27.1,77.6
+"MWI","Malawi",2012,0,0,1,413,45.6,26,70.7
+"MWI","Malawi",2013,0,NA,NA,396,42.2,24.8,63.4
+"MWI","Malawi",2014,0,NA,NA,381,39.2,23.7,57.6
+"MWI","Malawi",2015,0,0,1,370,36.7,22.7,53.3
+"MWI","Malawi",2016,0,NA,NA,358,34.6,21.8,49.5
+"MWI","Malawi",2017,0,NA,NA,349,32.8,21,46.2
+"MWI","Malawi",2018,0,NA,NA,NA,31.4,20.3,43.1
+"MYS","Malaysia",1999,NA,NA,NA,NA,NA,NA,NA
+"MYS","Malaysia",2000,0,NA,NA,38,8.7,4.8,10.2
+"MYS","Malaysia",2001,0,NA,NA,36,8.1,4.5,9.4
+"MYS","Malaysia",2002,0,NA,NA,34,7.6,4.3,8.9
+"MYS","Malaysia",2003,0,NA,NA,33,7.3,4.1,8.5
+"MYS","Malaysia",2004,0,1,0,32,7.1,4,8.3
+"MYS","Malaysia",2005,0,NA,NA,31,7,4,8.2
+"MYS","Malaysia",2006,0,NA,NA,30,7,4,8.1
+"MYS","Malaysia",2007,0,NA,NA,30,6.9,4,8.1
+"MYS","Malaysia",2008,0,NA,NA,29,6.9,4.1,8.1
+"MYS","Malaysia",2009,0,NA,NA,29,6.9,4.1,8.1
+"MYS","Malaysia",2010,0,NA,NA,30,6.9,4.2,8.1
+"MYS","Malaysia",2011,0,NA,NA,30,6.8,4.1,8
+"MYS","Malaysia",2012,0,NA,NA,30,6.8,4.1,8
+"MYS","Malaysia",2013,0,NA,NA,30,6.8,4.1,8
+"MYS","Malaysia",2014,1,0,1,30,6.8,4.1,8
+"MYS","Malaysia",2015,0,1,0,30,6.9,4.2,8.1
+"MYS","Malaysia",2016,0,NA,NA,29,7,4.3,8.1
+"MYS","Malaysia",2017,0,NA,NA,29,7.1,4.4,8.3
+"MYS","Malaysia",2018,0,NA,NA,NA,7.2,4.5,8.4
+"NAM","Namibia",1999,NA,NA,NA,NA,NA,NA,NA
+"NAM","Namibia",2000,0,NA,NA,348,45,23.4,75.8
+"NAM","Namibia",2001,1,0,1,352,44.2,22.6,75.3
+"NAM","Namibia",2002,0,0,1,356,43.6,21.8,74.7
+"NAM","Namibia",2003,0,NA,NA,359,43.3,21,74.4
+"NAM","Namibia",2004,0,NA,NA,358,42.7,20.5,74.4
+"NAM","Namibia",2005,0,NA,NA,346,39.4,20,70.6
+"NAM","Namibia",2006,0,NA,NA,328,37.3,19.8,65.4
+"NAM","Namibia",2007,0,NA,NA,306,37.6,19.9,60.8
+"NAM","Namibia",2008,0,NA,NA,284,37.5,20.2,55.1
+"NAM","Namibia",2009,0,NA,NA,276,38.5,20.7,51.6
+"NAM","Namibia",2010,0,NA,NA,266,36.8,21,49.1
+"NAM","Namibia",2011,0,NA,NA,256,36.9,21.3,48.9
+"NAM","Namibia",2012,0,NA,NA,240,37.9,21.6,50.5
+"NAM","Namibia",2013,0,0,1,231,35.8,21.7,49.1
+"NAM","Namibia",2014,0,NA,NA,223,34,21.8,47.9
+"NAM","Namibia",2015,0,0,1,217,33.3,21.7,47.6
+"NAM","Namibia",2016,0,NA,NA,207,32.8,21.5,46.3
+"NAM","Namibia",2017,0,NA,NA,195,32.2,21.2,44.9
+"NAM","Namibia",2018,0,0,1,NA,31.7,20.8,43.9
+"NER","Niger",1999,NA,NA,NA,NA,NA,NA,NA
+"NER","Niger",2000,0,NA,NA,813,97,43,224.9
+"NER","Niger",2001,0,0,1,803,93.7,41.6,215.2
+"NER","Niger",2002,0,NA,NA,795,90.1,40.2,204.5
+"NER","Niger",2003,0,NA,NA,782,86.2,38.9,193.1
+"NER","Niger",2004,0,NA,NA,770,82.3,37.7,181.5
+"NER","Niger",2005,0,0,1,755,78.5,36.5,170.2
+"NER","Niger",2006,0,NA,NA,739,74.8,35.3,159.3
+"NER","Niger",2007,0,NA,NA,725,71.3,34.1,149
+"NER","Niger",2008,1,NA,NA,709,67.9,32.9,139.3
+"NER","Niger",2009,1,0,1,688,64.8,31.8,130.3
+"NER","Niger",2010,0,NA,NA,663,61.9,30.7,121.9
+"NER","Niger",2011,0,0,1,639,59.3,29.7,114.5
+"NER","Niger",2012,0,NA,NA,616,57,28.8,108.2
+"NER","Niger",2013,0,NA,NA,594,55,28,102.7
+"NER","Niger",2014,1,NA,NA,573,53.4,27.4,98
+"NER","Niger",2015,0,0,1,555,51.8,26.8,93.8
+"NER","Niger",2016,1,NA,NA,530,50.4,26.2,90.1
+"NER","Niger",2017,1,0,1,509,49.1,25.7,86.6
+"NER","Niger",2018,1,NA,NA,NA,47.9,25.1,83.5
+"NGA","Nigeria",1999,NA,NA,NA,NA,NA,NA,NA
+"NGA","Nigeria",2000,1,NA,NA,1200,109.8,46.4,182.9
+"NGA","Nigeria",2001,1,NA,NA,1200,106.8,45.3,177.3
+"NGA","Nigeria",2002,1,NA,NA,1180,103.8,44.1,171.5
+"NGA","Nigeria",2003,1,NA,NA,1170,100.8,43,165.9
+"NGA","Nigeria",2004,1,NA,NA,1130,97.8,41.9,160.3
+"NGA","Nigeria",2005,1,NA,NA,1080,95,40.9,155
+"NGA","Nigeria",2006,1,NA,NA,1040,92.3,40.1,150.1
+"NGA","Nigeria",2007,1,NA,NA,1010,89.8,39.5,145.6
+"NGA","Nigeria",2008,1,NA,NA,996,87.7,39,141.7
+"NGA","Nigeria",2009,1,NA,NA,987,85.9,38.5,138.3
+"NGA","Nigeria",2010,1,NA,NA,978,84.3,38.1,135.5
+"NGA","Nigeria",2011,1,NA,NA,972,83,37.8,133.1
+"NGA","Nigeria",2012,1,NA,NA,963,81.9,37.6,131.1
+"NGA","Nigeria",2013,1,NA,NA,951,81,37.5,129.4
+"NGA","Nigeria",2014,1,NA,NA,943,80.1,37.3,127.9
+"NGA","Nigeria",2015,1,NA,NA,931,79.3,37.2,126.4
+"NGA","Nigeria",2016,1,NA,NA,925,78.3,37,124.7
+"NGA","Nigeria",2017,1,NA,NA,917,77.1,36.7,122.5
+"NGA","Nigeria",2018,1,NA,NA,NA,75.7,36.3,119.9
+"NIC","Nicaragua",1999,NA,NA,NA,NA,NA,NA,NA
+"NIC","Nicaragua",2000,0,0,1,162,31.4,16.8,38.5
+"NIC","Nicaragua",2000,0,1,0,162,31.4,16.8,38.5
+"NIC","Nicaragua",2001,0,0,1,157,29.9,16.4,36.5
+"NIC","Nicaragua",2002,0,NA,NA,151,28.5,15.7,34.6
+"NIC","Nicaragua",2003,0,NA,NA,145,27.2,15.2,32.9
+"NIC","Nicaragua",2004,0,NA,NA,138,26,14.7,31.3
+"NIC","Nicaragua",2005,0,NA,NA,131,24.9,14.4,29.9
+"NIC","Nicaragua",2006,0,NA,NA,124,23.9,14.2,28.5
+"NIC","Nicaragua",2007,0,NA,NA,121,22.9,14,27.3
+"NIC","Nicaragua",2008,0,NA,NA,116,22,13.8,26.1
+"NIC","Nicaragua",2009,0,NA,NA,113,21.1,13.6,24.9
+"NIC","Nicaragua",2010,0,NA,NA,112,20.3,13.4,23.9
+"NIC","Nicaragua",2011,0,NA,NA,110,19.5,13.3,22.9
+"NIC","Nicaragua",2012,0,NA,NA,108,18.7,13.1,22
+"NIC","Nicaragua",2013,0,NA,NA,105,18,12.8,21.1
+"NIC","Nicaragua",2014,0,1,0,103,17.3,12.4,20.2
+"NIC","Nicaragua",2014,0,0,1,103,17.3,12.4,20.2
+"NIC","Nicaragua",2015,0,NA,NA,101,16.6,11.9,19.4
+"NIC","Nicaragua",2016,0,NA,NA,100,16,11.4,18.6
+"NIC","Nicaragua",2017,0,NA,NA,98,15.4,10.8,17.9
+"NIC","Nicaragua",2018,0,0,1,NA,14.8,10.3,17.3
+"NLD","Netherlands",1999,NA,NA,NA,NA,NA,NA,NA
+"NLD","Netherlands",2000,0,NA,NA,13,5.1,3.8,6.2
+"NLD","Netherlands",2001,0,NA,NA,13,5,3.8,6.1
+"NLD","Netherlands",2002,0,NA,NA,13,4.9,3.7,5.9
+"NLD","Netherlands",2003,0,NA,NA,12,4.8,3.6,5.7
+"NLD","Netherlands",2004,0,NA,NA,11,4.6,3.6,5.5
+"NLD","Netherlands",2005,0,NA,NA,11,4.4,3.4,5.3
+"NLD","Netherlands",2006,0,NA,NA,9,4.3,3.3,5.1
+"NLD","Netherlands",2007,0,NA,NA,9,4.1,3.2,4.9
+"NLD","Netherlands",2008,0,NA,NA,8,4,3,4.7
+"NLD","Netherlands",2009,0,NA,NA,8,3.8,2.9,4.6
+"NLD","Netherlands",2010,0,NA,NA,7,3.7,2.8,4.4
+"NLD","Netherlands",2011,0,NA,NA,7,3.6,2.7,4.3
+"NLD","Netherlands",2012,0,NA,NA,7,3.6,2.7,4.2
+"NLD","Netherlands",2013,0,NA,NA,6,3.5,2.7,4.1
+"NLD","Netherlands",2014,0,NA,NA,6,3.5,2.6,4.1
+"NLD","Netherlands",2015,0,NA,NA,6,3.4,2.6,4
+"NLD","Netherlands",2016,0,NA,NA,6,3.4,2.6,4
+"NLD","Netherlands",2017,0,NA,NA,5,3.5,2.6,4
+"NLD","Netherlands",2018,0,NA,NA,NA,3.5,2.6,4.1
+"NOR","Norway",1999,NA,NA,NA,NA,NA,NA,NA
+"NOR","Norway",2000,0,NA,NA,6,3.9,2.7,4.9
+"NOR","Norway",2001,0,NA,NA,5,3.8,2.6,4.7
+"NOR","Norway",2002,0,NA,NA,5,3.7,2.5,4.6
+"NOR","Norway",2003,0,NA,NA,5,3.6,2.4,4.4
+"NOR","Norway",2004,0,NA,NA,5,3.4,2.3,4.2
+"NOR","Norway",2005,0,NA,NA,5,3.3,2.3,4.1
+"NOR","Norway",2006,0,NA,NA,4,3.2,2.2,3.9
+"NOR","Norway",2007,0,NA,NA,4,3,2.1,3.7
+"NOR","Norway",2008,0,NA,NA,4,2.9,2,3.6
+"NOR","Norway",2009,0,NA,NA,4,2.8,1.9,3.4
+"NOR","Norway",2010,0,NA,NA,4,2.7,1.9,3.3
+"NOR","Norway",2011,0,NA,NA,4,2.5,1.8,3.1
+"NOR","Norway",2012,0,NA,NA,3,2.5,1.8,3
+"NOR","Norway",2013,0,NA,NA,3,2.4,1.7,2.9
+"NOR","Norway",2014,0,NA,NA,3,2.3,1.7,2.8
+"NOR","Norway",2015,0,NA,NA,3,2.2,1.6,2.7
+"NOR","Norway",2016,0,NA,NA,3,2.1,1.6,2.6
+"NOR","Norway",2017,0,NA,NA,2,2.1,1.5,2.5
+"NOR","Norway",2018,0,NA,NA,NA,2,1.4,2.4
+"NPL","Nepal",1999,NA,NA,NA,NA,NA,NA,NA
+"NPL","Nepal",2000,1,NA,NA,553,58.7,39.3,79.1
+"NPL","Nepal",2001,1,NA,NA,521,55.8,37.8,74.6
+"NPL","Nepal",2002,1,NA,NA,520,53.1,36.3,70.4
+"NPL","Nepal",2003,1,NA,NA,470,50.6,34.9,66.4
+"NPL","Nepal",2004,1,NA,NA,447,48.2,33.5,62.7
+"NPL","Nepal",2005,1,NA,NA,415,45.9,32.2,59.4
+"NPL","Nepal",2006,1,0,1,386,43.8,31,56.3
+"NPL","Nepal",2007,1,NA,NA,361,41.9,29.8,53.4
+"NPL","Nepal",2008,1,NA,NA,342,40.1,28.7,50.8
+"NPL","Nepal",2009,0,0,1,323,38.3,27.6,48.3
+"NPL","Nepal",2010,0,NA,NA,305,36.6,26.5,45.9
+"NPL","Nepal",2011,0,1,0,285,35,25.4,43.6
+"NPL","Nepal",2012,0,NA,NA,266,33.5,24.3,41.5
+"NPL","Nepal",2013,0,NA,NA,248,32,23.3,39.4
+"NPL","Nepal",2014,0,NA,NA,231,30.5,22.4,37.4
+"NPL","Nepal",2015,0,1,0,236,29.2,21.3,35.5
+"NPL","Nepal",2015,0,1,0,236,29.2,21.3,35.5
+"NPL","Nepal",2016,0,NA,NA,200,27.8,20.2,33.7
+"NPL","Nepal",2017,0,NA,NA,186,26.6,19.2,32.1
+"NPL","Nepal",2018,0,NA,NA,NA,25.5,18.3,30.6
+"NZL","New Zealand",1999,NA,NA,NA,NA,NA,NA,NA
+"NZL","New Zealand",2000,0,NA,NA,12,6.1,3.5,7.4
+"NZL","New Zealand",2001,0,NA,NA,11,5.9,3.5,7.2
+"NZL","New Zealand",2002,0,NA,NA,12,5.8,3.5,7
+"NZL","New Zealand",2003,0,NA,NA,12,5.7,3.4,6.9
+"NZL","New Zealand",2004,0,NA,NA,11,5.6,3.3,6.7
+"NZL","New Zealand",2005,0,NA,NA,11,5.5,3.1,6.6
+"NZL","New Zealand",2006,0,NA,NA,11,5.4,3,6.5
+"NZL","New Zealand",2007,0,NA,NA,11,5.3,2.9,6.4
+"NZL","New Zealand",2008,0,NA,NA,10,5.2,3,6.3
+"NZL","New Zealand",2009,0,NA,NA,11,5.2,3.1,6.2
+"NZL","New Zealand",2010,0,1,0,11,5.1,3.2,6.1
+"NZL","New Zealand",2011,0,1,0,10,5,3.3,6
+"NZL","New Zealand",2011,0,1,0,10,5,3.3,6
+"NZL","New Zealand",2012,0,NA,NA,10,4.9,3.4,5.9
+"NZL","New Zealand",2013,0,1,0,9,4.8,3.3,5.8
+"NZL","New Zealand",2013,0,0,1,9,4.8,3.3,5.8
+"NZL","New Zealand",2014,0,NA,NA,10,4.7,3.3,5.7
+"NZL","New Zealand",2015,0,NA,NA,10,4.6,3.2,5.5
+"NZL","New Zealand",2016,0,1,0,10,4.4,3.1,5.4
+"NZL","New Zealand",2017,0,NA,NA,9,4.3,2.9,5.2
+"NZL","New Zealand",2018,0,NA,NA,NA,4.2,2.8,5
+"OMN","Oman",1999,NA,NA,NA,NA,NA,NA,NA
+"OMN","Oman",2000,0,NA,NA,20,14.2,7.3,16.5
+"OMN","Oman",2001,0,NA,NA,20,13.3,6.9,15.4
+"OMN","Oman",2002,0,NA,NA,20,12.5,6.5,14.5
+"OMN","Oman",2003,0,NA,NA,20,11.9,6.2,13.8
+"OMN","Oman",2004,0,NA,NA,19,11.4,5.9,13.2
+"OMN","Oman",2005,0,NA,NA,19,11,5.7,12.8
+"OMN","Oman",2006,0,NA,NA,18,10.7,5.6,12.5
+"OMN","Oman",2007,0,NA,NA,18,10.5,5.4,12.2
+"OMN","Oman",2008,0,NA,NA,18,10.3,5.3,12
+"OMN","Oman",2009,0,NA,NA,18,10.2,5.3,11.8
+"OMN","Oman",2010,0,NA,NA,18,10.1,5.2,11.7
+"OMN","Oman",2011,0,NA,NA,18,10,5.2,11.6
+"OMN","Oman",2012,0,NA,NA,18,9.8,5.1,11.4
+"OMN","Oman",2013,0,NA,NA,18,9.7,5,11.3
+"OMN","Oman",2014,0,NA,NA,18,9.7,5,11.2
+"OMN","Oman",2015,0,NA,NA,19,9.6,5,11.2
+"OMN","Oman",2016,0,NA,NA,19,9.6,5,11.2
+"OMN","Oman",2017,0,NA,NA,19,9.6,5,11.2
+"OMN","Oman",2018,0,NA,NA,NA,9.6,5,11.1
+"PAK","Pakistan",1999,NA,NA,NA,NA,NA,NA,NA
+"PAK","Pakistan",2000,1,NA,NA,286,84.6,56.8,107.8
+"PAK","Pakistan",2001,1,1,0,275,82.6,55.8,105
+"PAK","Pakistan",2002,1,1,0,264,80.9,54.9,102.4
+"PAK","Pakistan",2002,1,1,0,264,80.9,54.9,102.4
+"PAK","Pakistan",2002,1,1,0,264,80.9,54.9,102.4
+"PAK","Pakistan",2003,1,NA,NA,254,79.3,54,100.2
+"PAK","Pakistan",2004,1,1,0,243,77.9,53.3,98.1
+"PAK","Pakistan",2005,1,1,0,237,76.6,52.6,96.3
+"PAK","Pakistan",2006,1,NA,NA,222,75.4,52,94.5
+"PAK","Pakistan",2007,1,NA,NA,214,74.1,51.4,92.7
+"PAK","Pakistan",2008,1,1,0,205,72.8,50.9,90.9
+"PAK","Pakistan",2009,1,NA,NA,199,71.5,50.4,89.1
+"PAK","Pakistan",2010,1,NA,NA,191,70.1,49.8,87.1
+"PAK","Pakistan",2011,1,1,0,180,68.6,49,85
+"PAK","Pakistan",2012,1,NA,NA,173,67,48.1,82.8
+"PAK","Pakistan",2013,1,1,0,166,65.4,47.1,80.6
+"PAK","Pakistan",2013,1,1,0,166,65.4,47.1,80.6
+"PAK","Pakistan",2013,1,1,0,166,65.4,47.1,80.6
+"PAK","Pakistan",2014,1,NA,NA,161,63.8,46.2,78.3
+"PAK","Pakistan",2015,1,1,0,154,62.1,45.2,76
+"PAK","Pakistan",2015,1,1,0,154,62.1,45.2,76
+"PAK","Pakistan",2016,1,1,0,143,60.5,44.3,73.8
+"PAK","Pakistan",2017,1,NA,NA,140,58.9,43.3,71.6
+"PAK","Pakistan",2018,1,NA,NA,NA,57.3,42.3,69.5
+"PAN","Panama",1999,NA,NA,NA,NA,NA,NA,NA
+"PAN","Panama",2000,0,NA,NA,91,21.9,14.7,26
+"PAN","Panama",2001,0,NA,NA,86,21.4,14.3,25.4
+"PAN","Panama",2002,0,NA,NA,91,20.9,14,24.8
+"PAN","Panama",2003,0,1,0,93,20.5,13.6,24.1
+"PAN","Panama",2003,0,1,0,93,20.5,13.6,24.1
+"PAN","Panama",2004,0,NA,NA,88,20,13.2,23.5
+"PAN","Panama",2005,0,NA,NA,88,19.5,12.9,22.9
+"PAN","Panama",2006,0,NA,NA,88,19,12.5,22.3
+"PAN","Panama",2007,0,NA,NA,86,18.5,12.2,21.7
+"PAN","Panama",2008,0,NA,NA,84,18,11.9,21.1
+"PAN","Panama",2009,0,NA,NA,82,17.5,11.5,20.5
+"PAN","Panama",2010,0,NA,NA,79,17,11.1,19.9
+"PAN","Panama",2011,0,NA,NA,76,16.5,10.8,19.3
+"PAN","Panama",2012,0,NA,NA,74,16,10.4,18.7
+"PAN","Panama",2013,0,0,1,66,15.5,10.1,18.1
+"PAN","Panama",2014,0,NA,NA,60,15.1,9.8,17.6
+"PAN","Panama",2015,0,0,1,58,14.6,9.5,17
+"PAN","Panama",2016,0,NA,NA,55,14.1,9.2,16.4
+"PAN","Panama",2017,0,NA,NA,52,13.7,8.9,15.9
+"PAN","Panama",2018,0,0,1,NA,13.2,8.6,15.4
+"PER","Peru",1999,NA,NA,NA,NA,NA,NA,NA
+"PER","Peru",2000,1,NA,NA,144,29.3,16.1,38.2
+"PER","Peru",2001,0,1,0,138,27.2,15.2,35.3
+"PER","Peru",2001,0,1,0,138,27.2,15.2,35.3
+"PER","Peru",2001,0,1,0,138,27.2,15.2,35.3
+"PER","Peru",2002,0,0,1,132,25.2,14.3,32.7
+"PER","Peru",2003,0,NA,NA,127,23.5,13.5,30.4
+"PER","Peru",2004,0,0,1,122,22,12.8,28.3
+"PER","Peru",2005,0,1,0,118,20.6,12.2,26.5
+"PER","Peru",2005,0,1,0,118,20.6,12.2,26.5
+"PER","Peru",2006,0,0,1,114,19.3,11.7,24.9
+"PER","Peru",2007,0,1,0,112,18.2,11.1,23.4
+"PER","Peru",2008,1,NA,NA,108,17.1,10.6,22
+"PER","Peru",2009,1,NA,NA,106,16.2,10.1,20.8
+"PER","Peru",2010,1,NA,NA,104,15.3,9.7,19.8
+"PER","Peru",2011,1,1,0,102,14.6,9.4,18.8
+"PER","Peru",2012,0,1,0,100,13.9,9,17.9
+"PER","Peru",2013,0,1,0,98,13.3,8.7,17.1
+"PER","Peru",2014,0,1,0,96,12.7,8.4,16.4
+"PER","Peru",2015,0,NA,NA,94,12.2,8,15.7
+"PER","Peru",2016,0,1,0,91,11.7,7.8,15
+"PER","Peru",2016,0,1,0,91,11.7,7.8,15
+"PER","Peru",2017,0,NA,NA,88,11.2,7.5,14.4
+"PER","Peru",2018,0,1,0,NA,10.7,7.2,13.8
+"PHL","Philippines",1999,NA,NA,NA,NA,NA,NA,NA
+"PHL","Philippines",2000,1,NA,NA,160,28.7,16.5,37.7
+"PHL","Philippines",2001,1,NA,NA,163,28.2,16.5,36.9
+"PHL","Philippines",2002,1,1,0,160,27.8,16.3,36.2
+"PHL","Philippines",2002,1,0,1,160,27.8,16.3,36.2
+"PHL","Philippines",2003,1,NA,NA,156,27.3,16.2,35.5
+"PHL","Philippines",2004,1,NA,NA,156,26.9,16,34.9
+"PHL","Philippines",2005,1,NA,NA,156,26.4,15.8,34.2
+"PHL","Philippines",2006,1,NA,NA,156,26,15.6,33.6
+"PHL","Philippines",2007,1,0,1,149,25.7,15.4,33
+"PHL","Philippines",2008,1,NA,NA,148,25.3,15.2,32.5
+"PHL","Philippines",2009,1,1,0,149,25,15,32.1
+"PHL","Philippines",2010,1,NA,NA,144,24.8,14.9,31.7
+"PHL","Philippines",2011,1,1,0,141,24.5,14.7,31.3
+"PHL","Philippines",2012,1,1,0,139,24.2,14.6,30.9
+"PHL","Philippines",2012,1,1,0,139,24.2,14.6,30.9
+"PHL","Philippines",2012,1,1,0,139,24.2,14.6,30.9
+"PHL","Philippines",2013,1,1,0,136,23.9,14.4,30.5
+"PHL","Philippines",2014,1,NA,NA,131,23.7,14.3,30.1
+"PHL","Philippines",2015,1,0,1,127,23.4,14.1,29.6
+"PHL","Philippines",2016,1,1,0,124,23,13.9,29.1
+"PHL","Philippines",2017,1,1,0,121,22.6,13.6,28.5
+"PHL","Philippines",2017,1,1,0,121,22.6,13.6,28.5
+"PHL","Philippines",2017,1,1,0,121,22.6,13.6,28.5
+"PHL","Philippines",2018,1,NA,NA,NA,22.1,13.3,27.9
+"PNG","Papua New Guinea",1999,NA,NA,NA,NA,NA,NA,NA
+"PNG","Papua New Guinea",2000,1,1,0,249,53.6,30.2,71.1
+"PNG","Papua New Guinea",2001,0,1,0,242,52.8,29.6,69.9
+"PNG","Papua New Guinea",2002,1,1,0,234,52.1,29.1,68.8
+"PNG","Papua New Guinea",2002,1,1,0,234,52.1,29.1,68.8
+"PNG","Papua New Guinea",2003,0,NA,NA,225,51.3,28.7,67.5
+"PNG","Papua New Guinea",2004,0,NA,NA,213,50.4,28.2,66.2
+"PNG","Papua New Guinea",2005,0,1,0,200,49.6,27.9,64.9
+"PNG","Papua New Guinea",2006,0,NA,NA,187,48.7,27.6,63.5
+"PNG","Papua New Guinea",2007,0,NA,NA,179,47.8,27.3,62.1
+"PNG","Papua New Guinea",2008,0,NA,NA,173,46.8,27,60.8
+"PNG","Papua New Guinea",2009,0,NA,NA,170,45.9,26.6,59.3
+"PNG","Papua New Guinea",2010,0,NA,NA,168,44.9,26.1,57.9
+"PNG","Papua New Guinea",2011,0,NA,NA,166,44,25.6,56.5
+"PNG","Papua New Guinea",2012,0,NA,NA,164,43,25.1,55.2
+"PNG","Papua New Guinea",2013,1,NA,NA,160,42.1,24.7,53.8
+"PNG","Papua New Guinea",2014,0,NA,NA,155,41.2,24.3,52.4
+"PNG","Papua New Guinea",2015,0,0,1,151,40.2,23.8,51
+"PNG","Papua New Guinea",2016,0,NA,NA,148,39.3,23.4,49.7
+"PNG","Papua New Guinea",2017,0,NA,NA,145,38.2,22.9,48.2
+"PNG","Papua New Guinea",2018,0,1,0,NA,37.2,22.5,46.8
+"PNG","Papua New Guinea",2018,0,1,0,NA,37.2,22.5,46.8
+"PNG","Papua New Guinea",2018,0,1,0,NA,37.2,22.5,46.8
+"POL","Poland",1999,NA,NA,NA,NA,NA,NA,NA
+"POL","Poland",2000,0,NA,NA,7,8.1,5.8,9.3
+"POL","Poland",2001,0,NA,NA,6,7.6,5.4,8.8
+"POL","Poland",2002,0,NA,NA,5,7.3,5.2,8.4
+"POL","Poland",2003,0,NA,NA,5,7,5,8.1
+"POL","Poland",2004,0,NA,NA,5,6.8,4.8,7.8
+"POL","Poland",2005,0,NA,NA,4,6.5,4.6,7.6
+"POL","Poland",2006,0,NA,NA,4,6.3,4.4,7.3
+"POL","Poland",2007,0,NA,NA,4,6.1,4.2,7
+"POL","Poland",2008,0,NA,NA,4,5.8,4,6.7
+"POL","Poland",2009,0,NA,NA,3,5.5,3.8,6.3
+"POL","Poland",2010,0,NA,NA,3,5.1,3.6,6
+"POL","Poland",2011,0,NA,NA,3,4.9,3.4,5.7
+"POL","Poland",2012,0,NA,NA,3,4.7,3.2,5.4
+"POL","Poland",2013,0,NA,NA,3,4.5,3.1,5.2
+"POL","Poland",2014,0,NA,NA,2,4.3,3,5
+"POL","Poland",2015,0,NA,NA,2,4.2,2.9,4.9
+"POL","Poland",2016,0,NA,NA,2,4.1,2.9,4.7
+"POL","Poland",2017,0,NA,NA,2,4,2.8,4.6
+"POL","Poland",2018,0,0,1,NA,3.9,2.8,4.5
+"PRI","Puerto Rico",1999,NA,NA,NA,NA,NA,NA,NA
+"PRI","Puerto Rico",2000,0,NA,NA,26,NA,NA,NA
+"PRI","Puerto Rico",2001,0,NA,NA,26,NA,NA,NA
+"PRI","Puerto Rico",2002,0,NA,NA,24,NA,NA,NA
+"PRI","Puerto Rico",2003,0,NA,NA,23,NA,NA,NA
+"PRI","Puerto Rico",2004,0,NA,NA,25,NA,NA,NA
+"PRI","Puerto Rico",2005,0,NA,NA,23,NA,NA,NA
+"PRI","Puerto Rico",2006,0,NA,NA,23,NA,NA,NA
+"PRI","Puerto Rico",2007,0,NA,NA,23,NA,NA,NA
+"PRI","Puerto Rico",2008,0,NA,NA,23,NA,NA,NA
+"PRI","Puerto Rico",2009,0,NA,NA,23,NA,NA,NA
+"PRI","Puerto Rico",2010,0,NA,NA,21,NA,NA,NA
+"PRI","Puerto Rico",2011,0,NA,NA,22,NA,NA,NA
+"PRI","Puerto Rico",2012,0,NA,NA,19,NA,NA,NA
+"PRI","Puerto Rico",2013,0,NA,NA,20,NA,NA,NA
+"PRI","Puerto Rico",2014,0,NA,NA,21,NA,NA,NA
+"PRI","Puerto Rico",2015,0,NA,NA,20,NA,NA,NA
+"PRI","Puerto Rico",2016,0,NA,NA,20,NA,NA,NA
+"PRI","Puerto Rico",2017,0,NA,NA,21,NA,NA,NA
+"PRI","Puerto Rico",2018,0,NA,NA,NA,NA,NA,NA
+"PRK","North Korea",1999,NA,NA,NA,NA,NA,NA,NA
+"PRK","North Korea",2000,0,NA,NA,139,44.5,27.3,60
+"PRK","North Korea",2001,0,NA,NA,128,39.1,24.9,52.1
+"PRK","North Korea",2002,0,NA,NA,122,34.2,22.5,44.7
+"PRK","North Korea",2003,0,NA,NA,121,30.4,20.5,38.9
+"PRK","North Korea",2004,0,NA,NA,120,27.8,18.8,35
+"PRK","North Korea",2005,0,NA,NA,120,26.4,17.7,33
+"PRK","North Korea",2006,0,NA,NA,120,26,17.4,32.4
+"PRK","North Korea",2007,0,NA,NA,119,25.7,17.4,32.2
+"PRK","North Korea",2008,0,NA,NA,118,25.2,17.1,31.8
+"PRK","North Korea",2009,0,NA,NA,113,24.4,16.7,31
+"PRK","North Korea",2010,0,NA,NA,106,23.1,15.9,29.5
+"PRK","North Korea",2011,0,NA,NA,100,21.5,14.9,27.7
+"PRK","North Korea",2012,0,0,1,96,19.8,13.9,25.7
+"PRK","North Korea",2013,0,NA,NA,94,18.3,12.9,24
+"PRK","North Korea",2014,0,NA,NA,93,17,12.1,22.4
+"PRK","North Korea",2015,0,0,1,91,16,11.4,21.1
+"PRK","North Korea",2016,0,NA,NA,90,15.1,10.8,20
+"PRK","North Korea",2017,0,0,1,89,14.4,10.3,19
+"PRK","North Korea",2018,0,NA,NA,NA,13.7,9.8,18.2
+"PRT","Portugal",1999,NA,NA,NA,NA,NA,NA,NA
+"PRT","Portugal",2000,0,NA,NA,10,5.5,3.4,7.2
+"PRT","Portugal",2001,0,NA,NA,10,5.1,3.2,6.6
+"PRT","Portugal",2002,0,NA,NA,10,4.7,3,6.1
+"PRT","Portugal",2003,0,NA,NA,10,4.3,2.8,5.5
+"PRT","Portugal",2004,0,0,1,10,3.9,2.6,5
+"PRT","Portugal",2005,0,NA,NA,9,3.6,2.4,4.6
+"PRT","Portugal",2006,0,NA,NA,9,3.4,2.2,4.4
+"PRT","Portugal",2007,0,NA,NA,9,3.3,2.1,4.2
+"PRT","Portugal",2008,0,NA,NA,9,3.2,2.1,4
+"PRT","Portugal",2009,0,NA,NA,9,3.1,2.1,3.9
+"PRT","Portugal",2010,0,NA,NA,9,3.1,2.1,3.8
+"PRT","Portugal",2011,0,NA,NA,9,3,2.1,3.7
+"PRT","Portugal",2012,0,NA,NA,9,3,2.1,3.7
+"PRT","Portugal",2013,0,NA,NA,8,3,2.1,3.7
+"PRT","Portugal",2014,0,NA,NA,8,3,2.1,3.6
+"PRT","Portugal",2015,0,NA,NA,9,3,2.1,3.6
+"PRT","Portugal",2016,0,NA,NA,9,3,2.1,3.6
+"PRT","Portugal",2017,0,NA,NA,8,3,2,3.6
+"PRT","Portugal",2018,0,NA,NA,NA,2.9,2,3.6
+"PRY","Paraguay",1999,NA,NA,NA,NA,NA,NA,NA
+"PRY","Paraguay",2000,0,NA,NA,194,27.9,18.1,33.9
+"PRY","Paraguay",2001,0,NA,NA,191,27.4,17.7,33.1
+"PRY","Paraguay",2002,0,NA,NA,188,26.8,17.3,32.3
+"PRY","Paraguay",2003,0,NA,NA,185,26.2,16.9,31.6
+"PRY","Paraguay",2004,0,NA,NA,180,25.6,16.5,30.8
+"PRY","Paraguay",2005,0,0,1,174,25,16.1,30
+"PRY","Paraguay",2006,0,NA,NA,168,24.5,15.7,29.3
+"PRY","Paraguay",2007,0,NA,NA,163,23.9,15.2,28.5
+"PRY","Paraguay",2008,0,0,1,158,23.2,14.8,27.7
+"PRY","Paraguay",2009,0,0,1,153,22.6,14.4,26.9
+"PRY","Paraguay",2010,0,NA,NA,148,22,14,26.2
+"PRY","Paraguay",2011,0,NA,NA,145,21.4,13.5,25.4
+"PRY","Paraguay",2012,0,0,1,141,20.8,13.1,24.6
+"PRY","Paraguay",2013,0,0,1,138,20.2,12.7,23.8
+"PRY","Paraguay",2014,0,NA,NA,135,19.6,12.3,23
+"PRY","Paraguay",2015,0,NA,NA,132,19,11.9,22.3
+"PRY","Paraguay",2016,0,0,1,130,18.4,11.6,21.6
+"PRY","Paraguay",2017,0,NA,NA,129,17.8,11.2,20.9
+"PRY","Paraguay",2018,0,NA,NA,NA,17.2,10.8,20.2
+"QAT","Qatar",1999,NA,NA,NA,NA,NA,NA,NA
+"QAT","Qatar",2000,0,NA,NA,14,10.7,6.6,12.5
+"QAT","Qatar",2001,0,NA,NA,14,10.3,6.3,12
+"QAT","Qatar",2002,0,NA,NA,13,10,6.1,11.6
+"QAT","Qatar",2003,0,NA,NA,13,9.6,5.9,11.2
+"QAT","Qatar",2004,0,NA,NA,13,9.3,5.8,10.8
+"QAT","Qatar",2005,0,NA,NA,12,8.9,5.6,10.4
+"QAT","Qatar",2006,0,NA,NA,11,8.7,5.3,10.1
+"QAT","Qatar",2007,0,NA,NA,11,8.4,5.1,9.8
+"QAT","Qatar",2008,0,NA,NA,11,8.2,4.9,9.6
+"QAT","Qatar",2009,0,NA,NA,10,8,4.7,9.4
+"QAT","Qatar",2010,0,NA,NA,10,7.8,4.5,9.1
+"QAT","Qatar",2011,0,NA,NA,10,7.6,4.4,8.9
+"QAT","Qatar",2012,0,NA,NA,10,7.4,4.2,8.7
+"QAT","Qatar",2013,0,NA,NA,10,7.2,4.1,8.4
+"QAT","Qatar",2014,0,NA,NA,10,7,4,8.1
+"QAT","Qatar",2015,0,NA,NA,9,6.7,3.9,7.8
+"QAT","Qatar",2016,0,NA,NA,9,6.3,3.9,7.4
+"QAT","Qatar",2017,0,NA,NA,9,6,3.8,7
+"QAT","Qatar",2018,0,NA,NA,NA,5.6,3.8,6.6
+"ROU","Romania",1999,NA,NA,NA,NA,NA,NA,NA
+"ROU","Romania",2000,0,0,1,54,18.1,10.5,21.6
+"ROU","Romania",2001,0,NA,NA,49,17.3,9.9,20.5
+"ROU","Romania",2002,0,NA,NA,47,17,9.6,20.1
+"ROU","Romania",2003,0,NA,NA,43,17,9.4,20
+"ROU","Romania",2004,0,NA,NA,39,16.5,9.1,19.4
+"ROU","Romania",2005,0,NA,NA,35,15.5,8.5,18.1
+"ROU","Romania",2006,0,NA,NA,32,14.2,7.7,16.6
+"ROU","Romania",2007,0,NA,NA,30,13,6.9,15.2
+"ROU","Romania",2008,0,NA,NA,28,11.9,6.3,14
+"ROU","Romania",2009,0,NA,NA,28,11.1,5.8,13.1
+"ROU","Romania",2010,0,NA,NA,27,10.5,5.4,12.4
+"ROU","Romania",2011,0,NA,NA,24,10,5.2,11.8
+"ROU","Romania",2012,0,NA,NA,23,9.5,5.1,11.2
+"ROU","Romania",2013,0,NA,NA,21,8.9,5,10.6
+"ROU","Romania",2014,0,NA,NA,21,8.3,4.7,9.9
+"ROU","Romania",2015,0,NA,NA,21,7.7,4.3,9.2
+"ROU","Romania",2016,0,NA,NA,21,7,3.9,8.5
+"ROU","Romania",2017,0,NA,NA,19,6.5,3.6,7.9
+"ROU","Romania",2018,0,NA,NA,NA,6.1,3.4,7.4
+"RUS","Russia",1999,NA,NA,NA,NA,NA,NA,NA
+"RUS","Russia",2000,1,1,0,56,15.5,9,19.3
+"RUS","Russia",2001,1,NA,NA,53,14.7,8.6,18.3
+"RUS","Russia",2002,1,NA,NA,51,13.8,8,17.2
+"RUS","Russia",2003,1,1,0,49,12.9,7.3,16.1
+"RUS","Russia",2003,1,0,1,49,12.9,7.3,16.1
+"RUS","Russia",2004,1,1,0,45,12,6.8,14.9
+"RUS","Russia",2005,1,NA,NA,42,11.1,6.4,13.8
+"RUS","Russia",2006,1,1,0,36,10.3,6,12.8
+"RUS","Russia",2007,1,1,0,32,9.6,5.4,11.9
+"RUS","Russia",2008,1,1,0,30,9,4.9,11.2
+"RUS","Russia",2009,1,NA,NA,27,8.6,4.6,10.7
+"RUS","Russia",2010,1,0,1,25,8.3,4.6,10.4
+"RUS","Russia",2011,1,NA,NA,23,8.1,4.7,10.1
+"RUS","Russia",2012,1,0,1,22,7.9,4.7,9.8
+"RUS","Russia",2013,1,NA,NA,20,7.6,4.6,9.4
+"RUS","Russia",2014,1,NA,NA,19,7.2,4.4,8.9
+"RUS","Russia",2015,1,NA,NA,18,6.6,4,8.2
+"RUS","Russia",2016,1,NA,NA,18,6.1,3.5,7.5
+"RUS","Russia",2017,1,NA,NA,17,5.5,3.2,6.9
+"RUS","Russia",2018,1,NA,NA,NA,5.1,2.9,6.3
+"RWA","Rwanda",1999,NA,NA,NA,NA,NA,NA,NA
+"RWA","Rwanda",2000,1,NA,NA,1160,109.5,43.2,185.2
+"RWA","Rwanda",2001,0,NA,NA,1100,100,40.2,167.4
+"RWA","Rwanda",2002,1,1,0,961,90.3,37.3,149.6
+"RWA","Rwanda",2003,0,0,1,870,81.4,34.6,133.5
+"RWA","Rwanda",2004,0,NA,NA,758,72.8,32.1,118.6
+"RWA","Rwanda",2005,0,NA,NA,643,65.5,30,105.4
+"RWA","Rwanda",2006,0,NA,NA,541,59.3,28.1,93.9
+"RWA","Rwanda",2007,0,NA,NA,469,54.4,26.5,84.4
+"RWA","Rwanda",2008,0,1,0,427,50.2,25.1,76.3
+"RWA","Rwanda",2009,0,NA,NA,424,47,24,69.6
+"RWA","Rwanda",2010,0,NA,NA,373,44,23,63.8
+"RWA","Rwanda",2011,0,NA,NA,349,40.6,22.1,58.6
+"RWA","Rwanda",2012,0,NA,NA,329,38.8,21.3,54.9
+"RWA","Rwanda",2013,0,NA,NA,308,37.1,20.7,52
+"RWA","Rwanda",2014,0,NA,NA,291,35.7,20.2,49.7
+"RWA","Rwanda",2015,0,NA,NA,275,34.6,19.7,47.7
+"RWA","Rwanda",2016,0,NA,NA,260,33.7,19.3,46
+"RWA","Rwanda",2017,1,NA,NA,248,32.9,19,44.6
+"RWA","Rwanda",2018,0,NA,NA,NA,32,18.6,43.4
+"SAU","Saudi Arabia",1999,NA,NA,NA,NA,NA,NA,NA
+"SAU","Saudi Arabia",2000,0,NA,NA,24,18.8,11.5,22
+"SAU","Saudi Arabia",2001,0,NA,NA,24,17.7,10.8,20.7
+"SAU","Saudi Arabia",2002,0,NA,NA,23,16.7,10.2,19.6
+"SAU","Saudi Arabia",2003,0,NA,NA,23,15.8,9.6,18.5
+"SAU","Saudi Arabia",2004,1,NA,NA,22,15,9,17.4
+"SAU","Saudi Arabia",2005,1,NA,NA,22,14.2,8.5,16.5
+"SAU","Saudi Arabia",2006,1,NA,NA,21,13.4,8.1,15.5
+"SAU","Saudi Arabia",2007,0,NA,NA,21,12.6,7.6,14.7
+"SAU","Saudi Arabia",2008,0,NA,NA,20,11.9,7.1,13.8
+"SAU","Saudi Arabia",2009,0,NA,NA,20,11.2,6.7,13
+"SAU","Saudi Arabia",2010,0,NA,NA,19,10.5,6.3,12.3
+"SAU","Saudi Arabia",2011,0,NA,NA,18,9.9,5.9,11.5
+"SAU","Saudi Arabia",2012,0,NA,NA,18,9.3,5.6,10.8
+"SAU","Saudi Arabia",2013,0,NA,NA,17,8.8,5.2,10.2
+"SAU","Saudi Arabia",2014,0,NA,NA,17,8.3,4.9,9.6
+"SAU","Saudi Arabia",2015,0,NA,NA,17,7.8,4.6,9.1
+"SAU","Saudi Arabia",2016,1,NA,NA,17,7.3,4.3,8.6
+"SAU","Saudi Arabia",2017,1,NA,NA,17,6.9,4.1,8.1
+"SAU","Saudi Arabia",2018,1,NA,NA,NA,6.6,3.8,7.7
+"SDN","Sudan",1999,NA,NA,NA,NA,NA,NA,NA
+"SDN","Sudan",2000,1,NA,NA,667,66.9,37.1,104.3
+"SDN","Sudan",2001,1,NA,NA,645,65,36.4,100.9
+"SDN","Sudan",2002,1,NA,NA,614,63,35.8,97.4
+"SDN","Sudan",2003,1,NA,NA,598,61.2,35.2,94.2
+"SDN","Sudan",2004,1,NA,NA,580,59.4,34.5,91
+"SDN","Sudan",2005,1,NA,NA,529,57.8,33.9,88.1
+"SDN","Sudan",2006,1,NA,NA,508,56.2,33.4,85.3
+"SDN","Sudan",2007,1,NA,NA,479,54.7,33,82.7
+"SDN","Sudan",2008,1,NA,NA,454,53.3,32.5,80.2
+"SDN","Sudan",2009,1,NA,NA,433,52,32.2,77.9
+"SDN","Sudan",2010,1,NA,NA,408,50.7,31.8,75.7
+"SDN","Sudan",2011,1,0,1,390,49.6,31.4,73.7
+"SDN","Sudan",2012,1,NA,NA,368,48.5,31,71.7
+"SDN","Sudan",2013,1,NA,NA,349,47.4,30.5,69.8
+"SDN","Sudan",2014,1,NA,NA,333,46.3,30,67.9
+"SDN","Sudan",2015,1,0,1,320,45.2,29.5,65.9
+"SDN","Sudan",2016,1,NA,NA,308,44.1,29,63.9
+"SDN","Sudan",2017,1,NA,NA,295,43,28.5,62
+"SDN","Sudan",2018,1,NA,NA,NA,42,27.8,60.1
+"SEN","Senegal",1999,NA,NA,NA,NA,NA,NA,NA
+"SEN","Senegal",2000,1,NA,NA,553,67.7,38.2,129.5
+"SEN","Senegal",2001,1,NA,NA,545,65.2,37.2,122.9
+"SEN","Senegal",2002,1,0,1,537,62.3,36,115.1
+"SEN","Senegal",2003,1,NA,NA,532,59.2,34.7,107
+"SEN","Senegal",2004,1,NA,NA,526,56.1,33.4,99.1
+"SEN","Senegal",2005,0,NA,NA,519,53.2,32.1,91.8
+"SEN","Senegal",2006,1,NA,NA,514,50.6,30.8,85.2
+"SEN","Senegal",2007,1,NA,NA,504,48.2,29.6,79.4
+"SEN","Senegal",2008,0,NA,NA,492,46.1,28.6,74.3
+"SEN","Senegal",2009,0,NA,NA,472,44.1,27.6,69.8
+"SEN","Senegal",2010,0,NA,NA,447,42.4,26.8,65.7
+"SEN","Senegal",2011,0,0,1,423,40.7,26,62.1
+"SEN","Senegal",2012,1,NA,NA,400,39.2,25.3,58.7
+"SEN","Senegal",2013,0,NA,NA,381,37.6,24.7,55.4
+"SEN","Senegal",2014,0,0,1,364,36.2,24.2,52.3
+"SEN","Senegal",2015,0,NA,NA,346,34.7,23.7,49.4
+"SEN","Senegal",2016,0,NA,NA,330,33.3,23.1,46.5
+"SEN","Senegal",2017,0,NA,NA,315,32,22.4,44
+"SEN","Senegal",2018,0,0,1,NA,30.8,21.8,41.7
+"SGP","Singapore",1999,NA,NA,NA,NA,NA,NA,NA
+"SGP","Singapore",2000,0,NA,NA,13,3,1.6,3.9
+"SGP","Singapore",2001,0,NA,NA,13,2.8,1.5,3.6
+"SGP","Singapore",2002,0,NA,NA,14,2.6,1.4,3.4
+"SGP","Singapore",2003,0,NA,NA,13,2.5,1.3,3.2
+"SGP","Singapore",2004,0,NA,NA,14,2.4,1.3,3
+"SGP","Singapore",2005,0,NA,NA,13,2.3,1.2,2.9
+"SGP","Singapore",2006,0,NA,NA,13,2.3,1.2,2.9
+"SGP","Singapore",2007,0,NA,NA,12,2.3,1.2,2.9
+"SGP","Singapore",2008,0,NA,NA,11,2.3,1.2,2.8
+"SGP","Singapore",2009,0,NA,NA,10,2.3,1.2,2.8
+"SGP","Singapore",2010,0,NA,NA,10,2.3,1.1,2.8
+"SGP","Singapore",2011,0,NA,NA,10,2.2,1.1,2.8
+"SGP","Singapore",2012,0,NA,NA,10,2.2,1.1,2.8
+"SGP","Singapore",2013,0,NA,NA,9,2.2,1,2.8
+"SGP","Singapore",2014,0,NA,NA,8,2.2,1,2.7
+"SGP","Singapore",2015,0,NA,NA,9,2.2,1,2.7
+"SGP","Singapore",2016,0,NA,NA,8,2.2,1,2.7
+"SGP","Singapore",2017,0,NA,NA,8,2.2,1,2.6
+"SGP","Singapore",2018,0,NA,NA,NA,2.1,0.9,2.5
+"SLB","Solomon Islands",1999,NA,NA,NA,NA,NA,NA,NA
+"SLB","Solomon Islands",2000,0,NA,NA,245,25.6,12.8,30.7
+"SLB","Solomon Islands",2001,0,NA,NA,233,25.3,12.7,30.4
+"SLB","Solomon Islands",2002,0,NA,NA,222,25.1,12.6,30.1
+"SLB","Solomon Islands",2003,0,NA,NA,210,24.9,12.5,29.8
+"SLB","Solomon Islands",2004,0,NA,NA,199,24.7,12.3,29.6
+"SLB","Solomon Islands",2005,0,NA,NA,188,24.4,12.1,29.3
+"SLB","Solomon Islands",2006,0,NA,NA,177,24.1,11.9,28.9
+"SLB","Solomon Islands",2007,0,1,0,172,23.8,11.7,28.4
+"SLB","Solomon Islands",2008,0,NA,NA,159,23.3,11.4,27.8
+"SLB","Solomon Islands",2009,0,NA,NA,152,22.8,11.1,27.1
+"SLB","Solomon Islands",2010,0,1,0,141,22.2,10.8,26.4
+"SLB","Solomon Islands",2011,0,NA,NA,134,21.6,10.5,25.6
+"SLB","Solomon Islands",2012,0,NA,NA,127,21,10.1,24.9
+"SLB","Solomon Islands",2013,0,1,0,122,20.5,9.8,24.2
+"SLB","Solomon Islands",2014,0,NA,NA,120,19.9,9.5,23.4
+"SLB","Solomon Islands",2015,0,0,1,112,19.3,9.2,22.7
+"SLB","Solomon Islands",2016,0,1,0,108,18.8,8.9,22
+"SLB","Solomon Islands",2017,0,NA,NA,104,18.2,8.6,21.4
+"SLB","Solomon Islands",2018,0,NA,NA,NA,17.7,8.4,20.7
+"SLE","Sierra Leone",1999,NA,NA,NA,NA,NA,NA,NA
+"SLE","Sierra Leone",2000,1,NA,NA,2480,138.1,48.4,224.9
+"SLE","Sierra Leone",2001,1,NA,NA,2250,135.6,47.8,219.4
+"SLE","Sierra Leone",2002,1,NA,NA,2080,132.9,47.2,213.9
+"SLE","Sierra Leone",2003,0,NA,NA,1960,130.2,46.5,208.1
+"SLE","Sierra Leone",2004,0,NA,NA,1850,127.2,45.7,202
+"SLE","Sierra Leone",2005,0,NA,NA,1760,124.1,44.9,195.5
+"SLE","Sierra Leone",2006,0,NA,NA,1680,120.9,44.1,188.9
+"SLE","Sierra Leone",2007,0,NA,NA,1610,117.6,43.1,182
+"SLE","Sierra Leone",2008,0,NA,NA,1530,114.2,41.9,174.9
+"SLE","Sierra Leone",2009,0,NA,NA,1450,110.6,40.7,167.7
+"SLE","Sierra Leone",2010,0,NA,NA,1360,107.2,39.5,160.6
+"SLE","Sierra Leone",2011,0,NA,NA,1270,103.8,38.4,153.8
+"SLE","Sierra Leone",2012,0,NA,NA,1210,100.7,37.4,147.3
+"SLE","Sierra Leone",2013,0,NA,NA,1180,97.7,36.5,141.2
+"SLE","Sierra Leone",2014,0,NA,NA,1190,95.6,35.7,139.2
+"SLE","Sierra Leone",2015,0,NA,NA,1180,95.1,35,140.2
+"SLE","Sierra Leone",2016,0,NA,NA,1120,89.7,34.1,125.4
+"SLE","Sierra Leone",2017,0,NA,NA,1120,87.3,33.4,120.7
+"SLE","Sierra Leone",2018,0,NA,NA,NA,84.8,32.7,116.2
+"SLV","El Salvador",1999,NA,NA,NA,NA,NA,NA,NA
+"SLV","El Salvador",2000,0,NA,NA,73,27.4,15,33.2
+"SLV","El Salvador",2001,0,1,0,75,26,14.1,31.3
+"SLV","El Salvador",2001,0,1,0,75,26,14.1,31.3
+"SLV","El Salvador",2001,0,0,1,75,26,14.1,31.3
+"SLV","El Salvador",2002,0,NA,NA,68,24.7,13.4,29.6
+"SLV","El Salvador",2003,0,NA,NA,66,23.5,12.8,28.1
+"SLV","El Salvador",2004,0,NA,NA,64,22.4,12.1,26.6
+"SLV","El Salvador",2005,0,1,0,62,21.2,11.6,25.1
+"SLV","El Salvador",2006,0,1,0,60,20.2,11.1,23.8
+"SLV","El Salvador",2007,0,NA,NA,58,19.2,10.6,22.6
+"SLV","El Salvador",2008,0,NA,NA,57,18.3,10.1,21.4
+"SLV","El Salvador",2009,0,0,1,57,17.4,9.7,20.4
+"SLV","El Salvador",2010,0,NA,NA,54,16.6,9.3,19.4
+"SLV","El Salvador",2011,0,NA,NA,53,15.8,8.9,18.5
+"SLV","El Salvador",2012,0,NA,NA,52,15.1,8.5,17.6
+"SLV","El Salvador",2013,0,NA,NA,50,14.4,8.2,16.8
+"SLV","El Salvador",2014,0,0,1,49,13.8,7.8,16.1
+"SLV","El Salvador",2015,0,NA,NA,48,13.3,7.5,15.5
+"SLV","El Salvador",2016,0,NA,NA,47,12.8,7.2,14.9
+"SLV","El Salvador",2017,0,NA,NA,46,12.3,7,14.3
+"SLV","El Salvador",2018,0,0,1,NA,11.9,6.7,13.8
+"SLV","El Salvador",2018,0,1,0,NA,11.9,6.7,13.8
+"SOM","Somalia",1999,NA,NA,NA,NA,NA,NA,NA
+"SOM","Somalia",2000,1,NA,NA,1210,104.4,44.7,172.7
+"SOM","Somalia",2001,1,NA,NA,1170,104.4,44.9,172.7
+"SOM","Somalia",2002,1,NA,NA,1140,104.4,45.3,172.7
+"SOM","Somalia",2003,1,NA,NA,1100,104.4,45.6,172.7
+"SOM","Somalia",2004,1,0,1,1080,104.4,45.7,172.7
+"SOM","Somalia",2004,1,1,0,1080,104.4,45.7,172.7
+"SOM","Somalia",2005,1,0,1,1040,104.4,45.9,172.6
+"SOM","Somalia",2006,1,NA,NA,1040,104,45.9,172
+"SOM","Somalia",2007,1,NA,NA,1030,103,45.5,170.1
+"SOM","Somalia",2008,1,0,1,1010,101.1,45,166.5
+"SOM","Somalia",2009,1,NA,NA,994,98.7,44.3,161.9
+"SOM","Somalia",2010,1,0,1,985,96.2,43.6,157.4
+"SOM","Somalia",2011,1,0,1,955,93.8,42.9,152.8
+"SOM","Somalia",2012,1,NA,NA,943,91,42.4,147.8
+"SOM","Somalia",2013,1,NA,NA,893,88.4,41.6,143
+"SOM","Somalia",2014,1,0,1,878,85.9,40.8,138.4
+"SOM","Somalia",2015,1,0,1,855,83.6,40,134.3
+"SOM","Somalia",2016,1,NA,NA,865,81.4,39.3,130.3
+"SOM","Somalia",2017,1,NA,NA,829,79.1,38.7,126.1
+"SOM","Somalia",2018,1,NA,NA,NA,76.8,38.1,122
+"SRB","Serbia",1999,NA,NA,NA,NA,NA,NA,NA
+"SRB","Serbia",2000,1,NA,NA,13,10.9,7.8,12.6
+"SRB","Serbia",2001,0,NA,NA,13,10.6,7.5,12.2
+"SRB","Serbia",2002,0,NA,NA,13,9.9,7.1,11.5
+"SRB","Serbia",2003,0,NA,NA,13,9.1,6.5,10.5
+"SRB","Serbia",2004,0,NA,NA,13,8.4,6,9.7
+"SRB","Serbia",2005,0,NA,NA,12,7.7,5.6,8.9
+"SRB","Serbia",2006,0,NA,NA,12,7.3,5.2,8.4
+"SRB","Serbia",2007,0,NA,NA,12,7,5.1,8.1
+"SRB","Serbia",2008,0,NA,NA,12,6.9,5,8
+"SRB","Serbia",2009,0,NA,NA,12,6.7,4.9,7.8
+"SRB","Serbia",2010,0,1,0,12,6.6,4.8,7.6
+"SRB","Serbia",2011,0,NA,NA,12,6.4,4.7,7.4
+"SRB","Serbia",2012,0,NA,NA,12,6.2,4.5,7.1
+"SRB","Serbia",2013,0,NA,NA,12,5.9,4.4,6.9
+"SRB","Serbia",2014,0,NA,NA,12,5.7,4.2,6.6
+"SRB","Serbia",2015,0,NA,NA,13,5.4,4,6.3
+"SRB","Serbia",2016,0,NA,NA,12,5.2,3.8,6
+"SRB","Serbia",2017,0,NA,NA,12,5.1,3.7,5.9
+"SRB","Serbia",2018,0,NA,NA,NA,5,3.6,5.8
+"SSD","South Sudan",1999,NA,NA,NA,NA,NA,NA,NA
+"SSD","South Sudan",2000,0,NA,NA,1730,108.9,56,181.2
+"SSD","South Sudan",2001,0,NA,NA,1690,104.1,54.9,172.1
+"SSD","South Sudan",2002,0,NA,NA,1660,99.5,53.5,163.4
+"SSD","South Sudan",2003,0,NA,NA,1610,95,52.3,155.1
+"SSD","South Sudan",2004,0,NA,NA,1550,90.7,51,147.3
+"SSD","South Sudan",2005,0,NA,NA,1480,86.6,49.8,139.7
+"SSD","South Sudan",2006,0,NA,NA,1410,82.8,48.5,132.7
+"SSD","South Sudan",2007,0,NA,NA,1330,79.1,47.1,126.1
+"SSD","South Sudan",2008,0,NA,NA,1250,75.7,45.7,119.9
+"SSD","South Sudan",2009,0,0,1,1170,72.4,44.3,114
+"SSD","South Sudan",2010,0,NA,NA,1100,69.2,43,108.4
+"SSD","South Sudan",2011,0,NA,NA,1070,66.4,41.7,103.5
+"SSD","South Sudan",2012,1,NA,NA,1050,64.5,40.9,100
+"SSD","South Sudan",2013,1,NA,NA,1090,63.6,40.4,98.3
+"SSD","South Sudan",2014,1,NA,NA,1140,63.3,40.3,97.9
+"SSD","South Sudan",2015,1,NA,NA,1110,63.3,40.3,97.9
+"SSD","South Sudan",2016,1,0,1,1130,63.3,40.4,97.9
+"SSD","South Sudan",2017,1,NA,NA,1150,63.3,40.5,97.9
+"SSD","South Sudan",2018,1,NA,NA,NA,63.3,40.4,97.9
+"STP","São Tomé & Príncipe",1999,NA,NA,NA,NA,NA,NA,NA
+"STP","São Tomé & Príncipe",2000,0,NA,NA,179,54.3,22.2,82
+"STP","São Tomé & Príncipe",2001,0,NA,NA,173,51.2,21.8,76.5
+"STP","São Tomé & Príncipe",2002,0,NA,NA,169,48,21.3,71
+"STP","São Tomé & Príncipe",2003,0,NA,NA,167,45,20.6,65.6
+"STP","São Tomé & Príncipe",2004,0,NA,NA,166,42.1,19.8,60.4
+"STP","São Tomé & Príncipe",2005,0,NA,NA,163,39.3,19.1,55.5
+"STP","São Tomé & Príncipe",2006,0,NA,NA,158,36.6,18.5,50.9
+"STP","São Tomé & Príncipe",2007,0,NA,NA,154,34.2,17.9,46.7
+"STP","São Tomé & Príncipe",2008,0,NA,NA,150,31.9,17.4,42.9
+"STP","São Tomé & Príncipe",2009,0,NA,NA,145,29.7,16.8,39.3
+"STP","São Tomé & Príncipe",2010,0,NA,NA,140,27.6,16.1,36.1
+"STP","São Tomé & Príncipe",2011,0,NA,NA,137,25.7,15.1,33
+"STP","São Tomé & Príncipe",2012,0,NA,NA,134,23.7,14,30.2
+"STP","São Tomé & Príncipe",2013,0,NA,NA,132,22,13,27.7
+"STP","São Tomé & Príncipe",2014,0,NA,NA,131,20.1,12,25.3
+"STP","São Tomé & Príncipe",2015,0,NA,NA,130,18.5,11.1,23.1
+"STP","São Tomé & Príncipe",2016,0,NA,NA,130,16.9,10.2,21.2
+"STP","São Tomé & Príncipe",2017,0,NA,NA,130,15.5,9.4,19.5
+"STP","São Tomé & Príncipe",2018,0,NA,NA,NA,14.4,8.8,18.1
+"SUR","Suriname",1999,NA,NA,NA,NA,NA,NA,NA
+"SUR","Suriname",2000,0,NA,NA,221,27.5,17.1,31.2
+"SUR","Suriname",2001,0,NA,NA,218,26.6,17,30.1
+"SUR","Suriname",2002,0,NA,NA,207,25.7,17,29.1
+"SUR","Suriname",2003,0,NA,NA,189,24.9,17,28.2
+"SUR","Suriname",2004,0,NA,NA,176,24.2,17,27.3
+"SUR","Suriname",2005,0,NA,NA,164,23.5,16.8,26.5
+"SUR","Suriname",2006,0,NA,NA,165,22.9,16.5,25.7
+"SUR","Suriname",2007,0,NA,NA,167,22.2,16.1,25
+"SUR","Suriname",2008,0,NA,NA,169,21.7,15.7,24.4
+"SUR","Suriname",2009,0,NA,NA,159,21.1,15.2,23.7
+"SUR","Suriname",2010,0,NA,NA,148,20.6,14.8,23.1
+"SUR","Suriname",2011,0,NA,NA,139,20.1,14.3,22.5
+"SUR","Suriname",2012,0,NA,NA,134,19.6,13.9,22
+"SUR","Suriname",2013,0,NA,NA,129,19.1,13.4,21.4
+"SUR","Suriname",2014,0,NA,NA,124,18.6,13.1,20.9
+"SUR","Suriname",2015,0,NA,NA,122,18.2,12.7,20.3
+"SUR","Suriname",2016,0,NA,NA,121,17.7,12.4,19.8
+"SUR","Suriname",2017,0,NA,NA,120,17.2,12,19.3
+"SUR","Suriname",2018,0,NA,NA,NA,16.7,11.6,18.7
+"SVK","Slovakia",1999,NA,NA,NA,NA,NA,NA,NA
+"SVK","Slovakia",2000,0,NA,NA,8,8.2,5,9.8
+"SVK","Slovakia",2001,0,NA,NA,8,7.9,4.8,9.4
+"SVK","Slovakia",2002,0,NA,NA,7,7.6,4.6,9.1
+"SVK","Slovakia",2003,0,NA,NA,7,7.3,4.3,8.8
+"SVK","Slovakia",2004,0,NA,NA,7,7.1,4,8.5
+"SVK","Slovakia",2005,0,NA,NA,7,6.8,3.8,8.2
+"SVK","Slovakia",2006,0,NA,NA,6,6.6,3.6,7.9
+"SVK","Slovakia",2007,0,NA,NA,7,6.4,3.5,7.7
+"SVK","Slovakia",2008,0,NA,NA,6,6.1,3.4,7.4
+"SVK","Slovakia",2009,0,NA,NA,6,5.9,3.4,7.2
+"SVK","Slovakia",2010,0,NA,NA,6,5.8,3.3,7
+"SVK","Slovakia",2011,0,NA,NA,6,5.6,3.3,6.8
+"SVK","Slovakia",2012,0,NA,NA,6,5.5,3.3,6.6
+"SVK","Slovakia",2013,0,NA,NA,6,5.3,3.2,6.5
+"SVK","Slovakia",2014,0,NA,NA,5,5.2,3.1,6.4
+"SVK","Slovakia",2015,0,NA,NA,6,5.1,3.1,6.2
+"SVK","Slovakia",2016,0,NA,NA,6,5,3,6.1
+"SVK","Slovakia",2017,0,NA,NA,5,4.9,3,6
+"SVK","Slovakia",2018,0,NA,NA,NA,4.9,3,5.9
+"SVN","Slovenia",1999,NA,NA,NA,NA,NA,NA,NA
+"SVN","Slovenia",2000,0,NA,NA,12,4.6,3.2,5.5
+"SVN","Slovenia",2001,0,NA,NA,10,4.3,3.1,5.2
+"SVN","Slovenia",2002,0,NA,NA,11,4.1,2.9,4.9
+"SVN","Slovenia",2003,0,NA,NA,10,3.9,2.8,4.7
+"SVN","Slovenia",2004,0,1,0,11,3.7,2.6,4.4
+"SVN","Slovenia",2005,0,NA,NA,10,3.5,2.4,4.2
+"SVN","Slovenia",2006,0,NA,NA,8,3.3,2.3,4
+"SVN","Slovenia",2007,0,NA,NA,8,3.1,2.1,3.8
+"SVN","Slovenia",2008,0,NA,NA,8,2.9,2,3.6
+"SVN","Slovenia",2009,0,NA,NA,8,2.8,1.9,3.4
+"SVN","Slovenia",2010,0,NA,NA,8,2.6,1.8,3.2
+"SVN","Slovenia",2011,0,NA,NA,8,2.5,1.7,3.1
+"SVN","Slovenia",2012,0,NA,NA,7,2.4,1.6,2.9
+"SVN","Slovenia",2013,0,NA,NA,7,2.3,1.5,2.8
+"SVN","Slovenia",2014,0,NA,NA,7,2.2,1.5,2.7
+"SVN","Slovenia",2015,0,NA,NA,7,2.1,1.4,2.6
+"SVN","Slovenia",2016,0,NA,NA,7,2,1.4,2.5
+"SVN","Slovenia",2017,0,NA,NA,7,2,1.3,2.4
+"SVN","Slovenia",2018,0,NA,NA,NA,1.9,1.3,2.3
+"SWE","Sweden",1999,NA,NA,NA,NA,NA,NA,NA
+"SWE","Sweden",2000,0,NA,NA,5,3.4,2.3,4.1
+"SWE","Sweden",2001,0,NA,NA,5,3.4,2.3,4.1
+"SWE","Sweden",2002,0,NA,NA,5,3.3,2.2,4
+"SWE","Sweden",2003,0,NA,NA,5,3.2,2.1,3.9
+"SWE","Sweden",2004,0,NA,NA,5,3.1,2,3.7
+"SWE","Sweden",2005,0,NA,NA,5,3,1.9,3.6
+"SWE","Sweden",2006,0,NA,NA,5,2.8,1.8,3.4
+"SWE","Sweden",2007,0,NA,NA,5,2.7,1.8,3.3
+"SWE","Sweden",2008,0,NA,NA,5,2.6,1.7,3.2
+"SWE","Sweden",2009,0,NA,NA,5,2.6,1.7,3.1
+"SWE","Sweden",2010,0,NA,NA,4,2.5,1.6,3.1
+"SWE","Sweden",2011,0,NA,NA,5,2.5,1.6,3
+"SWE","Sweden",2012,0,NA,NA,5,2.4,1.6,3
+"SWE","Sweden",2013,0,NA,NA,5,2.4,1.6,2.9
+"SWE","Sweden",2014,0,NA,NA,5,2.4,1.6,2.9
+"SWE","Sweden",2015,0,NA,NA,4,2.3,1.6,2.9
+"SWE","Sweden",2016,0,NA,NA,4,2.3,1.5,2.8
+"SWE","Sweden",2017,0,NA,NA,4,2.3,1.5,2.8
+"SWE","Sweden",2018,0,NA,NA,NA,2.2,1.5,2.7
+"SWZ","Eswatini",1999,NA,NA,NA,NA,NA,NA,NA
+"SWZ","Eswatini",2000,0,NA,NA,521,67.8,25.3,112.2
+"SWZ","Eswatini",2001,0,0,1,528,69,25.2,115.8
+"SWZ","Eswatini",2002,0,NA,NA,534,69.6,24.9,117.7
+"SWZ","Eswatini",2003,0,NA,NA,538,69.8,24.5,119.2
+"SWZ","Eswatini",2004,0,NA,NA,539,69.1,23.9,119.7
+"SWZ","Eswatini",2005,0,NA,NA,532,68.3,23.3,119.4
+"SWZ","Eswatini",2006,0,NA,NA,518,58.8,22.8,109
+"SWZ","Eswatini",2007,0,0,1,496,59.3,22.4,103.8
+"SWZ","Eswatini",2008,0,NA,NA,474,61.1,22.3,101.9
+"SWZ","Eswatini",2009,0,NA,NA,460,57.9,22.3,96
+"SWZ","Eswatini",2010,0,NA,NA,450,54.7,22.4,85.5
+"SWZ","Eswatini",2011,0,NA,NA,441,51.5,22.5,73.4
+"SWZ","Eswatini",2012,0,NA,NA,435,50.6,22.6,66
+"SWZ","Eswatini",2013,0,NA,NA,432,49.5,22.5,62.5
+"SWZ","Eswatini",2014,0,NA,NA,434,50.1,22.4,62.4
+"SWZ","Eswatini",2015,0,NA,NA,435,45.2,22.1,57.2
+"SWZ","Eswatini",2016,0,0,1,436,42.6,21.8,55.6
+"SWZ","Eswatini",2017,0,NA,NA,437,43.5,21.5,57.9
+"SWZ","Eswatini",2018,0,NA,NA,NA,39.4,21.1,52.2
+"SYC","Seychelles",1999,NA,NA,NA,NA,NA,NA,NA
+"SYC","Seychelles",2000,0,NA,NA,53,11.8,8.7,13.8
+"SYC","Seychelles",2001,0,NA,NA,54,11.8,8.7,13.7
+"SYC","Seychelles",2002,0,NA,NA,54,11.8,8.6,13.7
+"SYC","Seychelles",2003,0,NA,NA,54,11.8,8.6,13.7
+"SYC","Seychelles",2004,0,1,0,55,11.8,8.6,13.7
+"SYC","Seychelles",2005,0,NA,NA,55,11.8,8.6,13.7
+"SYC","Seychelles",2006,0,NA,NA,55,11.9,8.6,13.8
+"SYC","Seychelles",2007,0,NA,NA,55,11.9,8.6,13.8
+"SYC","Seychelles",2008,0,NA,NA,55,12,8.6,13.9
+"SYC","Seychelles",2009,0,NA,NA,55,12,8.6,14
+"SYC","Seychelles",2010,0,NA,NA,55,12.1,8.7,14.1
+"SYC","Seychelles",2011,0,NA,NA,55,12.2,8.7,14.2
+"SYC","Seychelles",2012,0,NA,NA,55,12.4,8.8,14.4
+"SYC","Seychelles",2013,0,NA,NA,55,12.5,8.9,14.5
+"SYC","Seychelles",2014,0,NA,NA,55,12.6,8.9,14.7
+"SYC","Seychelles",2015,0,NA,NA,54,12.7,9,14.8
+"SYC","Seychelles",2016,0,NA,NA,54,12.8,9,14.8
+"SYC","Seychelles",2017,0,NA,NA,53,12.7,8.9,14.7
+"SYC","Seychelles",2018,0,NA,NA,NA,12.5,8.8,14.5
+"SYR","Syria",1999,NA,NA,NA,NA,NA,NA,NA
+"SYR","Syria",2000,0,NA,NA,26,19.6,12.1,23
+"SYR","Syria",2001,0,NA,NA,26,18.9,11.8,22.1
+"SYR","Syria",2002,0,NA,NA,26,18.2,11.5,21.4
+"SYR","Syria",2003,0,NA,NA,25,17.7,11.2,20.7
+"SYR","Syria",2004,0,NA,NA,26,17.2,11,20.1
+"SYR","Syria",2005,0,NA,NA,25,16.8,10.7,19.7
+"SYR","Syria",2006,0,NA,NA,26,16.5,10.5,19.3
+"SYR","Syria",2007,0,NA,NA,26,16.3,10.4,19.1
+"SYR","Syria",2008,0,0,1,26,16.2,10.2,18.9
+"SYR","Syria",2009,0,NA,NA,26,16.1,10.1,18.8
+"SYR","Syria",2010,0,NA,NA,27,16.2,10.1,18.9
+"SYR","Syria",2011,0,NA,NA,28,16.7,10.1,20.1
+"SYR","Syria",2012,1,NA,NA,28,23.4,10.4,37
+"SYR","Syria",2013,1,NA,NA,29,26.8,10.6,45.3
+"SYR","Syria",2014,1,NA,NA,30,27.7,10.8,47
+"SYR","Syria",2015,1,NA,NA,30,25.6,10.8,41.6
+"SYR","Syria",2016,1,NA,NA,30,25,10.9,39.5
+"SYR","Syria",2017,1,NA,NA,31,18.8,10.8,23.5
+"SYR","Syria",2018,1,NA,NA,NA,18.9,10.8,23.4
+"TCD","Chad",1999,NA,NA,NA,NA,NA,NA,NA
+"TCD","Chad",2000,1,NA,NA,1420,99.7,44.1,184
+"TCD","Chad",2001,1,0,1,1410,98.2,43.2,180.5
+"TCD","Chad",2002,1,NA,NA,1400,96.8,42.2,177.1
+"TCD","Chad",2003,1,NA,NA,1370,95.3,41.4,173.8
+"TCD","Chad",2004,1,NA,NA,1350,93.9,40.6,170.4
+"TCD","Chad",2005,1,NA,NA,1330,92.4,39.9,166.9
+"TCD","Chad",2006,1,NA,NA,1340,90.8,39.4,163.3
+"TCD","Chad",2007,1,NA,NA,1300,89.2,38.9,159.6
+"TCD","Chad",2008,1,NA,NA,1310,87.5,38.6,155.7
+"TCD","Chad",2009,1,0,1,1270,85.8,38.2,151.7
+"TCD","Chad",2010,1,NA,NA,1240,84.1,37.8,147.7
+"TCD","Chad",2011,0,NA,NA,1210,82.3,37.5,143.7
+"TCD","Chad",2012,0,0,1,1190,80.6,37.1,139.8
+"TCD","Chad",2013,0,NA,NA,1170,78.9,36.6,135.9
+"TCD","Chad",2014,0,NA,NA,1170,77.3,36.1,132.3
+"TCD","Chad",2015,0,NA,NA,1160,75.7,35.5,128.7
+"TCD","Chad",2016,1,NA,NA,1140,74.1,35,124.9
+"TCD","Chad",2017,1,0,1,1140,72.4,34.5,121.1
+"TCD","Chad",2018,1,NA,NA,NA,70.7,33.8,117.3
+"TGO","Togo",1999,NA,NA,NA,NA,NA,NA,NA
+"TGO","Togo",2000,0,NA,NA,489,75.7,36.7,119.9
+"TGO","Togo",2001,0,NA,NA,489,73.7,35.8,116.4
+"TGO","Togo",2002,0,NA,NA,489,71.8,35,112.9
+"TGO","Togo",2003,0,NA,NA,489,69.9,34.3,109.5
+"TGO","Togo",2004,0,NA,NA,488,68,33.6,106.3
+"TGO","Togo",2005,0,NA,NA,492,66.3,32.9,103.1
+"TGO","Togo",2006,1,NA,NA,482,64.6,32.2,100.1
+"TGO","Togo",2007,0,NA,NA,480,62.9,31.5,97.3
+"TGO","Togo",2008,0,NA,NA,473,61.4,30.8,94.4
+"TGO","Togo",2009,0,NA,NA,458,59.8,30.1,91.7
+"TGO","Togo",2010,0,NA,NA,440,58.3,29.5,89
+"TGO","Togo",2011,0,NA,NA,422,56.7,28.9,86.2
+"TGO","Togo",2012,0,NA,NA,410,55.2,28.4,83.5
+"TGO","Togo",2013,0,NA,NA,404,53.7,27.8,80.9
+"TGO","Togo",2014,0,NA,NA,401,52.2,27.4,78.3
+"TGO","Togo",2015,0,NA,NA,398,50.8,26.9,75.9
+"TGO","Togo",2016,0,NA,NA,395,49.4,26.4,73.4
+"TGO","Togo",2017,0,NA,NA,396,48.1,25.9,71.1
+"TGO","Togo",2018,0,NA,NA,NA,46.8,25.4,68.8
+"THA","Thailand",1999,NA,NA,NA,NA,NA,NA,NA
+"THA","Thailand",2000,0,NA,NA,43,18.7,12.4,22
+"THA","Thailand",2001,0,NA,NA,43,17.8,11.8,20.9
+"THA","Thailand",2002,1,0,1,44,17,11.2,19.9
+"THA","Thailand",2003,0,NA,NA,44,16.2,10.7,18.9
+"THA","Thailand",2004,1,1,0,46,15.5,10.2,18
+"THA","Thailand",2005,1,0,1,43,14.8,9.7,17.2
+"THA","Thailand",2006,1,NA,NA,42,14.1,9.2,16.4
+"THA","Thailand",2007,1,NA,NA,42,13.4,8.8,15.6
+"THA","Thailand",2008,1,0,1,43,12.8,8.4,14.9
+"THA","Thailand",2009,1,NA,NA,43,12.2,8,14.2
+"THA","Thailand",2010,1,0,1,42,11.7,7.7,13.6
+"THA","Thailand",2011,1,1,0,41,11.2,7.3,13
+"THA","Thailand",2011,1,0,1,41,11.2,7.3,13
+"THA","Thailand",2012,1,0,1,39,10.6,7,12.4
+"THA","Thailand",2013,1,NA,NA,39,10.2,6.7,11.8
+"THA","Thailand",2014,1,1,0,38,9.7,6.4,11.3
+"THA","Thailand",2014,1,0,1,38,9.7,6.4,11.3
+"THA","Thailand",2015,1,0,1,38,9.3,6.1,10.8
+"THA","Thailand",2016,1,NA,NA,37,8.9,5.9,10.3
+"THA","Thailand",2017,1,NA,NA,37,8.5,5.6,9.9
+"THA","Thailand",2018,1,NA,NA,NA,8.1,5.4,9.4
+"TJK","Tajikistan",1999,NA,NA,NA,NA,NA,NA,NA
+"TJK","Tajikistan",2000,0,1,0,53,67.6,28.4,83.6
+"TJK","Tajikistan",2000,0,0,1,53,67.6,28.4,83.6
+"TJK","Tajikistan",2001,1,NA,NA,52,62.9,27.2,77.2
+"TJK","Tajikistan",2002,0,1,0,43,58.4,26,71
+"TJK","Tajikistan",2002,0,1,0,43,58.4,26,71
+"TJK","Tajikistan",2003,0,NA,NA,35,54.2,24.8,65.2
+"TJK","Tajikistan",2004,0,1,0,33,50.4,23.8,60.1
+"TJK","Tajikistan",2005,0,NA,NA,32,47,23.1,55.6
+"TJK","Tajikistan",2006,0,1,0,29,44.1,22.5,51.9
+"TJK","Tajikistan",2007,0,1,0,27,41.7,22,48.8
+"TJK","Tajikistan",2008,0,0,1,26,39.7,21.5,46.3
+"TJK","Tajikistan",2009,0,NA,NA,26,38.1,20.8,44.3
+"TJK","Tajikistan",2010,0,1,0,23,36.9,20.1,42.7
+"TJK","Tajikistan",2011,1,1,0,22,35.8,19.2,41.4
+"TJK","Tajikistan",2012,1,1,0,21,35,18.3,40.3
+"TJK","Tajikistan",2013,0,NA,NA,20,34.2,17.5,39.4
+"TJK","Tajikistan",2014,0,NA,NA,19,33.4,16.8,38.4
+"TJK","Tajikistan",2015,0,1,0,18,32.6,16.3,37.5
+"TJK","Tajikistan",2016,0,1,0,17,31.8,15.9,36.5
+"TJK","Tajikistan",2017,0,NA,NA,17,30.9,15.4,35.3
+"TJK","Tajikistan",2018,0,NA,NA,NA,30.1,15,34.3
+"TKM","Turkmenistan",1999,NA,NA,NA,NA,NA,NA,NA
+"TKM","Turkmenistan",2000,0,1,0,29,57.5,29.6,69.7
+"TKM","Turkmenistan",2001,0,NA,NA,27,54.7,29,66
+"TKM","Turkmenistan",2002,0,NA,NA,25,51.9,28.3,62.2
+"TKM","Turkmenistan",2003,0,NA,NA,21,49.2,27.5,58.6
+"TKM","Turkmenistan",2004,0,NA,NA,20,46.7,26.7,55.2
+"TKM","Turkmenistan",2005,0,NA,NA,18,44.4,25.8,52.3
+"TKM","Turkmenistan",2006,0,NA,NA,18,42.3,25,49.6
+"TKM","Turkmenistan",2007,0,NA,NA,15,40.6,24.2,47.4
+"TKM","Turkmenistan",2008,0,NA,NA,13,39.1,23.7,45.5
+"TKM","Turkmenistan",2009,0,NA,NA,12,38,23.3,44.1
+"TKM","Turkmenistan",2010,0,NA,NA,10,37.2,23,43.1
+"TKM","Turkmenistan",2011,0,NA,NA,10,36.7,22.9,42.5
+"TKM","Turkmenistan",2012,0,NA,NA,9,36.3,22.8,42
+"TKM","Turkmenistan",2013,0,NA,NA,9,36.3,22.8,41.9
+"TKM","Turkmenistan",2014,0,NA,NA,8,36.3,23,42
+"TKM","Turkmenistan",2015,0,NA,NA,8,36.4,23.3,42.2
+"TKM","Turkmenistan",2016,0,NA,NA,8,36.7,23.5,42.5
+"TKM","Turkmenistan",2017,0,NA,NA,7,37,23.8,42.9
+"TKM","Turkmenistan",2018,0,NA,NA,NA,37,23.9,42.8
+"TLS","Timor-Leste",1999,NA,NA,NA,NA,NA,NA,NA
+"TLS","Timor-Leste",2000,0,NA,NA,745,84.5,37.8,107.7
+"TLS","Timor-Leste",2001,0,NA,NA,720,80.6,36,102.1
+"TLS","Timor-Leste",2002,0,NA,NA,668,76.8,34.2,96.5
+"TLS","Timor-Leste",2003,0,NA,NA,603,73,32.6,91.2
+"TLS","Timor-Leste",2004,0,NA,NA,507,69.3,31,86
+"TLS","Timor-Leste",2005,0,NA,NA,415,65.7,29.5,80.9
+"TLS","Timor-Leste",2006,0,NA,NA,348,62.1,28.3,76.1
+"TLS","Timor-Leste",2007,0,0,1,300,58.8,27.2,71.6
+"TLS","Timor-Leste",2008,0,NA,NA,269,56,26.2,67.7
+"TLS","Timor-Leste",2009,0,NA,NA,242,53.6,25.4,64.4
+"TLS","Timor-Leste",2010,0,NA,NA,219,51.4,24.7,61.5
+"TLS","Timor-Leste",2011,0,NA,NA,198,49.4,24.1,58.8
+"TLS","Timor-Leste",2012,0,NA,NA,185,47.5,23.5,56.3
+"TLS","Timor-Leste",2013,0,NA,NA,176,45.9,22.9,54.2
+"TLS","Timor-Leste",2014,0,NA,NA,168,44.3,22.4,52.1
+"TLS","Timor-Leste",2015,0,1,0,160,42.8,21.9,50.2
+"TLS","Timor-Leste",2016,0,0,1,152,41.4,21.4,48.4
+"TLS","Timor-Leste",2017,0,NA,NA,142,40.1,20.9,46.8
+"TLS","Timor-Leste",2018,0,NA,NA,NA,38.8,20.4,45.1
+"TON","Tonga",1999,NA,NA,NA,NA,NA,NA,NA
+"TON","Tonga",2000,0,NA,NA,77,14.5,7.1,16.9
+"TON","Tonga",2001,0,NA,NA,73,14.2,7,16.5
+"TON","Tonga",2002,0,NA,NA,71,13.8,6.8,16
+"TON","Tonga",2003,0,NA,NA,69,13.4,6.6,15.6
+"TON","Tonga",2004,0,NA,NA,67,13,6.4,15.1
+"TON","Tonga",2005,0,NA,NA,66,12.7,6.2,14.7
+"TON","Tonga",2006,0,NA,NA,64,12.3,6,14.3
+"TON","Tonga",2007,0,NA,NA,62,12,5.8,14
+"TON","Tonga",2008,0,NA,NA,60,11.8,5.7,13.7
+"TON","Tonga",2009,0,1,0,61,11.5,5.6,13.4
+"TON","Tonga",2010,0,NA,NA,57,11.3,5.5,13.2
+"TON","Tonga",2011,0,NA,NA,56,11.1,5.4,12.9
+"TON","Tonga",2012,0,NA,NA,56,11,5.4,12.8
+"TON","Tonga",2013,0,NA,NA,56,10.9,5.4,12.6
+"TON","Tonga",2014,0,NA,NA,55,10.8,5.4,12.5
+"TON","Tonga",2015,0,0,1,54,10.7,5.3,12.4
+"TON","Tonga",2016,0,NA,NA,53,10.6,5.3,12.3
+"TON","Tonga",2017,0,NA,NA,52,10.4,5.3,12.1
+"TON","Tonga",2018,0,NA,NA,NA,10.3,5.2,11.9
+"TTO","Trinidad & Tobago",1999,NA,NA,NA,NA,NA,NA,NA
+"TTO","Trinidad & Tobago",2000,0,NA,NA,81,24.7,18,27.9
+"TTO","Trinidad & Tobago",2001,0,NA,NA,78,24.5,17.8,27.7
+"TTO","Trinidad & Tobago",2002,0,NA,NA,74,24.3,17.6,27.4
+"TTO","Trinidad & Tobago",2003,0,NA,NA,75,23.9,17.4,27
+"TTO","Trinidad & Tobago",2004,0,NA,NA,76,23.5,17,26.4
+"TTO","Trinidad & Tobago",2005,0,NA,NA,76,23,16.6,25.9
+"TTO","Trinidad & Tobago",2006,0,NA,NA,73,22.4,16.2,25.2
+"TTO","Trinidad & Tobago",2007,0,NA,NA,65,21.7,15.7,24.4
+"TTO","Trinidad & Tobago",2008,0,NA,NA,72,21.2,15.3,23.8
+"TTO","Trinidad & Tobago",2009,0,NA,NA,74,20.7,14.9,23.2
+"TTO","Trinidad & Tobago",2010,0,0,1,71,20.1,14.4,22.5
+"TTO","Trinidad & Tobago",2011,0,NA,NA,72,19.5,14,21.8
+"TTO","Trinidad & Tobago",2012,0,NA,NA,71,18.9,13.6,21.2
+"TTO","Trinidad & Tobago",2013,0,NA,NA,70,18.4,13.2,20.6
+"TTO","Trinidad & Tobago",2014,0,NA,NA,69,17.8,12.8,19.9
+"TTO","Trinidad & Tobago",2015,0,NA,NA,68,17.3,12.4,19.3
+"TTO","Trinidad & Tobago",2016,0,NA,NA,68,16.8,12,18.8
+"TTO","Trinidad & Tobago",2017,0,NA,NA,67,16.3,11.7,18.3
+"TTO","Trinidad & Tobago",2018,0,NA,NA,NA,15.8,11.3,17.7
+"TUN","Tunisia",1999,NA,NA,NA,NA,NA,NA,NA
+"TUN","Tunisia",2000,0,NA,NA,66,25,18.3,29.9
+"TUN","Tunisia",2001,0,NA,NA,63,23.4,17.2,27.9
+"TUN","Tunisia",2002,0,NA,NA,60,22,16.3,26.1
+"TUN","Tunisia",2003,0,NA,NA,57,20.8,15.5,24.6
+"TUN","Tunisia",2004,0,NA,NA,54,19.7,14.7,23.2
+"TUN","Tunisia",2005,0,NA,NA,51,18.8,14.1,22
+"TUN","Tunisia",2006,0,NA,NA,49,17.9,13.6,21
+"TUN","Tunisia",2007,0,NA,NA,47,17.2,13.2,20.2
+"TUN","Tunisia",2008,0,NA,NA,47,16.6,12.8,19.4
+"TUN","Tunisia",2009,0,NA,NA,46,16.2,12.5,18.9
+"TUN","Tunisia",2010,0,NA,NA,46,15.8,12.3,18.4
+"TUN","Tunisia",2011,0,NA,NA,46,15.5,12.2,18
+"TUN","Tunisia",2012,0,NA,NA,46,15.2,12.1,17.7
+"TUN","Tunisia",2013,0,NA,NA,46,15,12.1,17.5
+"TUN","Tunisia",2014,1,NA,NA,46,14.9,12,17.3
+"TUN","Tunisia",2015,1,NA,NA,46,14.8,12.1,17.2
+"TUN","Tunisia",2016,1,NA,NA,45,14.7,12.1,17.1
+"TUN","Tunisia",2017,1,NA,NA,43,14.7,12.1,17.1
+"TUN","Tunisia",2018,0,NA,NA,NA,14.6,12.1,17
+"TUR","Turkey",1999,NA,NA,NA,NA,NA,NA,NA
+"TUR","Turkey",2000,1,1,0,42,30.9,18.2,37.9
+"TUR","Turkey",2000,1,1,0,42,30.9,18.2,37.9
+"TUR","Turkey",2001,1,1,0,41,29,17.1,35.3
+"TUR","Turkey",2001,1,1,0,41,29,17.1,35.3
+"TUR","Turkey",2002,1,1,0,39,27.1,15.9,32.7
+"TUR","Turkey",2003,1,1,0,38,25.3,14.9,30.4
+"TUR","Turkey",2003,1,1,0,38,25.3,14.9,30.4
+"TUR","Turkey",2003,1,1,0,38,25.3,14.9,30.4
+"TUR","Turkey",2003,1,1,0,38,25.3,14.9,30.4
+"TUR","Turkey",2004,1,1,0,35,23.6,14,28.2
+"TUR","Turkey",2004,1,1,0,35,23.6,14,28.2
+"TUR","Turkey",2004,1,1,0,35,23.6,14,28.2
+"TUR","Turkey",2005,1,1,0,33,22,13,26.2
+"TUR","Turkey",2005,1,1,0,33,22,13,26.2
+"TUR","Turkey",2005,1,1,0,33,22,13,26.2
+"TUR","Turkey",2006,1,NA,NA,30,20.5,12.1,24.3
+"TUR","Turkey",2007,1,NA,NA,28,19.2,11.3,22.5
+"TUR","Turkey",2008,1,NA,NA,27,17.9,10.4,20.9
+"TUR","Turkey",2009,1,NA,NA,25,16.6,9.7,19.5
+"TUR","Turkey",2010,1,1,0,24,15.5,9,18.1
+"TUR","Turkey",2011,1,1,0,23,14.5,8.3,16.9
+"TUR","Turkey",2011,1,1,0,23,14.5,8.3,16.9
+"TUR","Turkey",2011,1,1,0,23,14.5,8.3,16.9
+"TUR","Turkey",2012,1,NA,NA,22,13.6,7.7,15.8
+"TUR","Turkey",2013,1,NA,NA,20,12.7,7.2,14.7
+"TUR","Turkey",2014,0,1,0,19,11.9,6.7,13.8
+"TUR","Turkey",2015,0,NA,NA,19,11.1,6.3,13
+"TUR","Turkey",2016,1,NA,NA,18,10.5,6,12.1
+"TUR","Turkey",2017,1,1,0,17,9.8,5.8,11.4
+"TUR","Turkey",2018,1,NA,NA,NA,9.2,5.5,10.7
+"TZA","Tanzania",1999,NA,NA,NA,NA,NA,NA,NA
+"TZA","Tanzania",2000,0,1,0,854,78.9,33.7,129.7
+"TZA","Tanzania",2001,0,1,0,819,74.4,32.5,121.9
+"TZA","Tanzania",2002,1,1,0,788,69.9,31.3,114
+"TZA","Tanzania",2003,0,0,1,763,65.6,30.2,106.5
+"TZA","Tanzania",2004,0,0,1,741,61.9,29.1,99.9
+"TZA","Tanzania",2004,0,1,0,741,61.9,29.1,99.9
+"TZA","Tanzania",2005,0,1,0,721,58.5,28.1,93.9
+"TZA","Tanzania",2006,0,0,1,703,55.8,27.4,88.8
+"TZA","Tanzania",2007,0,NA,NA,685,52.9,26.6,83.8
+"TZA","Tanzania",2008,0,NA,NA,666,51,26,79.6
+"TZA","Tanzania",2009,0,NA,NA,656,48.7,25.4,75.4
+"TZA","Tanzania",2010,0,NA,NA,644,47.1,24.9,71.9
+"TZA","Tanzania",2011,0,0,1,628,45.5,24.3,68.4
+"TZA","Tanzania",2012,0,NA,NA,615,44,23.8,65.3
+"TZA","Tanzania",2013,0,NA,NA,593,43,23.3,62.7
+"TZA","Tanzania",2014,0,NA,NA,574,41.9,22.8,59.9
+"TZA","Tanzania",2015,0,NA,NA,556,40.9,22.3,58.1
+"TZA","Tanzania",2016,0,1,0,539,39.7,21.9,56
+"TZA","Tanzania",2017,0,NA,NA,524,38.2,21.5,54.1
+"TZA","Tanzania",2018,0,NA,NA,NA,36.8,21,52.1
+"UGA","Uganda",1999,NA,NA,NA,NA,NA,NA,NA
+"UGA","Uganda",2000,1,NA,NA,578,87.1,32.3,146.1
+"UGA","Uganda",2001,1,NA,NA,550,83.4,31.4,139.3
+"UGA","Uganda",2002,1,0,1,537,79.2,30.5,131.6
+"UGA","Uganda",2003,1,NA,NA,520,74.7,29.5,123.5
+"UGA","Uganda",2004,1,NA,NA,512,70,28.7,115.1
+"UGA","Uganda",2005,1,0,1,491,65.6,27.9,107.1
+"UGA","Uganda",2006,1,NA,NA,473,61.6,27.3,99.6
+"UGA","Uganda",2007,1,NA,NA,465,57.9,26.7,92.8
+"UGA","Uganda",2008,1,0,1,455,54.5,26.1,86.8
+"UGA","Uganda",2009,1,NA,NA,442,52.1,25.5,81.5
+"UGA","Uganda",2010,1,0,1,430,49.5,25,76.3
+"UGA","Uganda",2011,1,NA,NA,419,47,24.5,71.6
+"UGA","Uganda",2012,0,NA,NA,412,44.3,24,66.7
+"UGA","Uganda",2013,0,NA,NA,401,42.4,23.4,62.3
+"UGA","Uganda",2014,0,NA,NA,394,40.6,22.7,58.8
+"UGA","Uganda",2015,0,NA,NA,387,38.9,22.1,55.7
+"UGA","Uganda",2016,0,1,0,381,37.3,21.5,52.4
+"UGA","Uganda",2017,1,NA,NA,375,35.7,20.8,49.9
+"UGA","Uganda",2018,0,NA,NA,NA,34.1,20.3,47.4
+"UKR","Ukraine",1999,NA,NA,NA,NA,NA,NA,NA
+"UKR","Ukraine",2000,0,NA,NA,35,15.7,11,18.3
+"UKR","Ukraine",2001,0,NA,NA,33,15,10.5,17.4
+"UKR","Ukraine",2002,0,NA,NA,33,14.3,9.9,16.6
+"UKR","Ukraine",2003,0,NA,NA,32,13.6,9.4,15.8
+"UKR","Ukraine",2004,0,NA,NA,33,13,9,15.1
+"UKR","Ukraine",2005,0,NA,NA,33,12.5,8.6,14.5
+"UKR","Ukraine",2006,0,NA,NA,31,12,8.3,14
+"UKR","Ukraine",2007,0,NA,NA,33,11.5,8,13.4
+"UKR","Ukraine",2008,0,NA,NA,33,11.1,7.6,12.9
+"UKR","Ukraine",2009,0,NA,NA,27,10.6,7.3,12.3
+"UKR","Ukraine",2010,0,NA,NA,25,10.1,7,11.7
+"UKR","Ukraine",2011,0,NA,NA,23,9.6,6.6,11.2
+"UKR","Ukraine",2012,0,0,1,24,9.2,6.3,10.7
+"UKR","Ukraine",2013,0,NA,NA,23,8.8,6,10.2
+"UKR","Ukraine",2014,0,NA,NA,24,8.4,5.8,9.8
+"UKR","Ukraine",2015,1,NA,NA,21,8.1,5.6,9.5
+"UKR","Ukraine",2016,1,NA,NA,20,7.9,5.4,9.2
+"UKR","Ukraine",2017,1,NA,NA,19,7.6,5.3,8.9
+"UKR","Ukraine",2018,1,NA,NA,NA,7.4,5.1,8.6
+"URY","Uruguay",1999,NA,NA,NA,NA,NA,NA,NA
+"URY","Uruguay",2000,0,NA,NA,26,14.8,8.5,17
+"URY","Uruguay",2001,0,NA,NA,25,14.4,8.4,16.5
+"URY","Uruguay",2002,0,NA,NA,25,14.1,8.2,16.2
+"URY","Uruguay",2003,0,NA,NA,23,13.7,8,15.7
+"URY","Uruguay",2004,0,NA,NA,23,13.2,7.8,15.1
+"URY","Uruguay",2005,0,NA,NA,22,12.5,7.3,14.4
+"URY","Uruguay",2006,0,NA,NA,20,11.7,6.8,13.5
+"URY","Uruguay",2007,0,NA,NA,20,11,6.1,12.6
+"URY","Uruguay",2008,0,NA,NA,19,10.3,5.4,11.8
+"URY","Uruguay",2009,0,NA,NA,19,9.7,5,11.2
+"URY","Uruguay",2010,0,NA,NA,17,9.3,4.8,10.7
+"URY","Uruguay",2011,0,NA,NA,17,8.9,4.8,10.3
+"URY","Uruguay",2012,0,NA,NA,17,8.6,5,10
+"URY","Uruguay",2013,0,NA,NA,18,8.3,5.1,9.7
+"URY","Uruguay",2014,0,NA,NA,17,8,5.2,9.3
+"URY","Uruguay",2015,0,NA,NA,18,7.6,5,8.9
+"URY","Uruguay",2016,0,NA,NA,18,7.2,4.8,8.4
+"URY","Uruguay",2017,0,NA,NA,17,6.8,4.4,7.8
+"URY","Uruguay",2018,0,0,1,NA,6.3,4,7.3
+"USA","United States",1999,NA,NA,NA,NA,NA,NA,NA
+"USA","United States",2000,0,0,1,12,7.1,4.6,8.4
+"USA","United States",2000,0,1,0,12,7.1,4.6,8.4
+"USA","United States",2000,0,0,1,12,7.1,4.6,8.4
+"USA","United States",2001,0,1,0,13,7,4.6,8.3
+"USA","United States",2002,1,0,1,13,6.9,4.6,8.2
+"USA","United States",2003,0,1,0,13,6.9,4.6,8.1
+"USA","United States",2004,0,NA,NA,13,6.8,4.6,8.1
+"USA","United States",2005,0,NA,NA,13,6.7,4.5,8
+"USA","United States",2006,0,1,0,14,6.7,4.4,7.9
+"USA","United States",2007,0,0,1,14,6.6,4.3,7.7
+"USA","United States",2008,0,1,0,14,6.5,4.3,7.6
+"USA","United States",2009,0,NA,NA,15,6.4,4.2,7.5
+"USA","United States",2010,0,1,0,15,6.2,4.1,7.3
+"USA","United States",2011,0,0,1,15,6.1,4.1,7.2
+"USA","United States",2012,0,0,1,16,6,4.1,7.1
+"USA","United States",2012,0,0,1,16,6,4.1,7.1
+"USA","United States",2013,0,NA,NA,16,6,4,7
+"USA","United States",2014,0,1,0,16,5.9,4,6.9
+"USA","United States",2014,0,0,1,16,5.9,4,6.9
+"USA","United States",2015,0,0,1,18,5.8,3.9,6.8
+"USA","United States",2016,0,1,0,19,5.7,3.8,6.7
+"USA","United States",2017,0,0,1,19,5.7,3.8,6.6
+"USA","United States",2018,0,0,1,NA,5.6,3.7,6.5
+"UZB","Uzbekistan",1999,NA,NA,NA,NA,NA,NA,NA
+"UZB","Uzbekistan",2000,1,0,1,41,50.8,27.8,60.7
+"UZB","Uzbekistan",2001,1,NA,NA,41,48.4,26.9,57.4
+"UZB","Uzbekistan",2002,0,NA,NA,41,45.7,25.8,53.9
+"UZB","Uzbekistan",2003,0,NA,NA,39,43,24.7,50.4
+"UZB","Uzbekistan",2004,0,NA,NA,37,40.1,23.6,46.8
+"UZB","Uzbekistan",2005,1,NA,NA,38,37.4,22.4,43.4
+"UZB","Uzbekistan",2006,0,NA,NA,37,34.8,21.2,40.1
+"UZB","Uzbekistan",2007,0,NA,NA,35,32.2,20,37
+"UZB","Uzbekistan",2008,0,NA,NA,34,29.8,18.4,34
+"UZB","Uzbekistan",2009,0,NA,NA,32,27.5,16.9,31.3
+"UZB","Uzbekistan",2010,0,NA,NA,31,25.4,15.5,28.7
+"UZB","Uzbekistan",2011,0,1,0,32,23.4,14.3,26.4
+"UZB","Uzbekistan",2012,0,NA,NA,32,21.7,13.1,24.4
+"UZB","Uzbekistan",2013,0,NA,NA,31,20,12.1,22.5
+"UZB","Uzbekistan",2014,0,NA,NA,30,18.6,11.2,20.8
+"UZB","Uzbekistan",2015,0,NA,NA,30,17.3,10.4,19.3
+"UZB","Uzbekistan",2016,0,NA,NA,29,16.1,9.8,18
+"UZB","Uzbekistan",2017,0,NA,NA,29,15,9.2,16.8
+"UZB","Uzbekistan",2018,0,NA,NA,NA,14.1,8.6,15.8
+"VCT","St. Vincent & Grenadines",1999,NA,NA,NA,NA,NA,NA,NA
+"VCT","St. Vincent & Grenadines",2000,0,NA,NA,80,19.2,13.1,22.2
+"VCT","St. Vincent & Grenadines",2001,0,NA,NA,75,19.1,13.1,22
+"VCT","St. Vincent & Grenadines",2002,0,NA,NA,72,19.1,13.1,21.9
+"VCT","St. Vincent & Grenadines",2003,0,NA,NA,69,19,13.1,21.7
+"VCT","St. Vincent & Grenadines",2004,0,NA,NA,64,19,13,21.6
+"VCT","St. Vincent & Grenadines",2005,0,NA,NA,59,18.9,12.9,21.5
+"VCT","St. Vincent & Grenadines",2006,0,NA,NA,62,18.8,12.9,21.3
+"VCT","St. Vincent & Grenadines",2007,0,NA,NA,67,18.7,12.9,21.1
+"VCT","St. Vincent & Grenadines",2008,0,NA,NA,70,18.5,12.8,20.8
+"VCT","St. Vincent & Grenadines",2009,0,NA,NA,67,18.2,12.7,20.4
+"VCT","St. Vincent & Grenadines",2010,0,0,1,63,17.8,12.6,19.8
+"VCT","St. Vincent & Grenadines",2011,0,NA,NA,64,17.3,12.3,19.2
+"VCT","St. Vincent & Grenadines",2012,0,NA,NA,71,16.8,11.9,18.6
+"VCT","St. Vincent & Grenadines",2013,0,NA,NA,73,16.2,11.5,18
+"VCT","St. Vincent & Grenadines",2014,0,NA,NA,69,15.7,11,17.4
+"VCT","St. Vincent & Grenadines",2015,0,NA,NA,64,15.2,10.6,16.7
+"VCT","St. Vincent & Grenadines",2016,0,NA,NA,67,14.7,10.2,16.2
+"VCT","St. Vincent & Grenadines",2017,0,NA,NA,68,14.3,9.8,15.6
+"VCT","St. Vincent & Grenadines",2018,0,NA,NA,NA,13.8,9.4,15.1
+"VEN","Venezuela",1999,NA,NA,NA,NA,NA,NA,NA
+"VEN","Venezuela",2000,1,NA,NA,119,18.4,11.1,21.6
+"VEN","Venezuela",2001,1,NA,NA,123,17.8,10.6,20.9
+"VEN","Venezuela",2002,1,NA,NA,135,17.4,10.1,20.3
+"VEN","Venezuela",2003,1,NA,NA,127,16.9,9.9,19.8
+"VEN","Venezuela",2004,1,NA,NA,119,16.4,10.2,19.1
+"VEN","Venezuela",2005,1,NA,NA,113,15.8,10.6,18.5
+"VEN","Venezuela",2006,1,NA,NA,114,15.4,10.5,17.9
+"VEN","Venezuela",2007,0,NA,NA,114,15,10.2,17.4
+"VEN","Venezuela",2008,0,NA,NA,116,14.7,10.1,17.2
+"VEN","Venezuela",2009,1,0,1,119,14.6,10.2,17
+"VEN","Venezuela",2010,1,NA,NA,117,14.7,10.5,17.1
+"VEN","Venezuela",2011,0,NA,NA,116,14.7,10.9,17.2
+"VEN","Venezuela",2012,0,NA,NA,116,14.9,11.3,17.3
+"VEN","Venezuela",2013,1,NA,NA,115,15.1,11.5,17.6
+"VEN","Venezuela",2014,0,NA,NA,113,15.4,11.3,18
+"VEN","Venezuela",2015,1,NA,NA,115,16.4,14.5,19.1
+"VEN","Venezuela",2016,1,NA,NA,121,21.1,14.6,24.2
+"VEN","Venezuela",2017,1,NA,NA,125,21.1,14.7,24.2
+"VEN","Venezuela",2018,1,NA,NA,NA,21.1,14.6,24.2
+"VNM","Vietnam",1999,NA,NA,NA,NA,NA,NA,NA
+"VNM","Vietnam",2000,0,NA,NA,68,23.5,15,29.8
+"VNM","Vietnam",2001,0,NA,NA,65,22.6,14.4,28.5
+"VNM","Vietnam",2002,0,0,1,62,21.7,13.8,27.4
+"VNM","Vietnam",2003,0,NA,NA,59,21,13.3,26.4
+"VNM","Vietnam",2004,0,NA,NA,57,20.4,12.9,25.6
+"VNM","Vietnam",2005,0,0,1,54,19.9,12.6,24.9
+"VNM","Vietnam",2006,0,NA,NA,51,19.4,12.3,24.4
+"VNM","Vietnam",2007,0,NA,NA,49,19.1,12.1,23.9
+"VNM","Vietnam",2008,0,NA,NA,49,18.8,12,23.5
+"VNM","Vietnam",2009,0,NA,NA,48,18.5,11.8,23.2
+"VNM","Vietnam",2010,0,NA,NA,47,18.3,11.7,22.9
+"VNM","Vietnam",2011,0,NA,NA,47,18.1,11.6,22.7
+"VNM","Vietnam",2012,0,NA,NA,46,17.9,11.5,22.4
+"VNM","Vietnam",2013,0,NA,NA,46,17.8,11.3,22.2
+"VNM","Vietnam",2014,0,NA,NA,45,17.6,11.2,22
+"VNM","Vietnam",2015,0,0,1,45,17.4,11.1,21.8
+"VNM","Vietnam",2016,0,NA,NA,44,17.3,10.9,21.6
+"VNM","Vietnam",2017,0,NA,NA,43,17.1,10.7,21.4
+"VNM","Vietnam",2018,0,NA,NA,NA,17,10.5,21.3
+"VUT","Vanuatu",1999,NA,NA,NA,NA,NA,NA,NA
+"VUT","Vanuatu",2000,0,NA,NA,140,23.9,12,28.5
+"VUT","Vanuatu",2001,0,NA,NA,135,23.7,11.9,28.3
+"VUT","Vanuatu",2002,0,1,0,128,23.6,11.8,28.1
+"VUT","Vanuatu",2002,0,1,0,128,23.6,11.8,28.1
+"VUT","Vanuatu",2003,0,NA,NA,123,23.5,11.9,28.1
+"VUT","Vanuatu",2004,0,NA,NA,119,23.6,12,28.1
+"VUT","Vanuatu",2005,0,NA,NA,113,23.6,12.1,28.2
+"VUT","Vanuatu",2006,0,NA,NA,108,23.8,12.2,28.4
+"VUT","Vanuatu",2007,0,NA,NA,103,23.9,12.3,28.6
+"VUT","Vanuatu",2008,0,NA,NA,99,24.1,12.3,28.8
+"VUT","Vanuatu",2009,0,NA,NA,96,24.2,12.4,29
+"VUT","Vanuatu",2010,0,NA,NA,92,24.3,12.4,29.1
+"VUT","Vanuatu",2011,0,NA,NA,88,24.5,12.5,29.3
+"VUT","Vanuatu",2012,0,NA,NA,85,24.5,12.5,29.3
+"VUT","Vanuatu",2013,0,NA,NA,82,24.3,12.4,29.1
+"VUT","Vanuatu",2014,0,NA,NA,80,24.1,12.2,28.8
+"VUT","Vanuatu",2015,0,NA,NA,76,23.6,12,28.2
+"VUT","Vanuatu",2016,0,NA,NA,74,23.2,11.7,27.6
+"VUT","Vanuatu",2017,0,NA,NA,72,22.7,11.5,26.9
+"VUT","Vanuatu",2018,0,NA,NA,NA,22.2,11.1,26.3
+"WSM","Samoa",1999,NA,NA,NA,NA,NA,NA,NA
+"WSM","Samoa",2000,0,NA,NA,88,18.1,8.7,21.2
+"WSM","Samoa",2001,0,NA,NA,85,17.6,8.4,20.6
+"WSM","Samoa",2002,0,NA,NA,84,17.1,8.2,20.1
+"WSM","Samoa",2003,0,NA,NA,80,16.8,8,19.7
+"WSM","Samoa",2004,0,NA,NA,74,16.6,7.8,19.4
+"WSM","Samoa",2005,0,NA,NA,72,16.5,7.8,19.3
+"WSM","Samoa",2006,0,NA,NA,66,16.5,7.7,19.3
+"WSM","Samoa",2007,0,NA,NA,62,16.5,7.7,19.3
+"WSM","Samoa",2008,0,NA,NA,60,16.5,7.8,19.3
+"WSM","Samoa",2009,0,1,0,58,18.8,7.9,25.7
+"WSM","Samoa",2010,0,NA,NA,58,16.6,7.8,19.3
+"WSM","Samoa",2011,0,NA,NA,54,16.5,7.8,19.2
+"WSM","Samoa",2012,0,NA,NA,52,16.4,7.7,19.1
+"WSM","Samoa",2013,0,NA,NA,48,16.2,7.6,18.9
+"WSM","Samoa",2014,0,NA,NA,47,16.1,7.5,18.7
+"WSM","Samoa",2015,0,0,1,45,15.9,7.4,18.6
+"WSM","Samoa",2016,0,NA,NA,44,15.7,7.3,18.4
+"WSM","Samoa",2017,0,NA,NA,43,15.5,7.2,18.1
+"WSM","Samoa",2018,0,NA,NA,NA,15.3,7,17.8
+"YEM","Yemen",1999,NA,NA,NA,NA,NA,NA,NA
+"YEM","Yemen",2000,0,NA,NA,301,68.8,37,95
+"YEM","Yemen",2001,0,NA,NA,290,65.8,36,90.3
+"YEM","Yemen",2002,0,NA,NA,278,62.8,35,85.7
+"YEM","Yemen",2003,0,NA,NA,266,60,34,81.2
+"YEM","Yemen",2004,0,NA,NA,254,57.3,32.9,76.9
+"YEM","Yemen",2005,1,NA,NA,242,54.8,32,73
+"YEM","Yemen",2006,0,NA,NA,230,52.3,31,69.1
+"YEM","Yemen",2007,0,NA,NA,219,50,30,65.6
+"YEM","Yemen",2008,0,NA,NA,208,48,29.1,62.4
+"YEM","Yemen",2009,0,NA,NA,200,46.4,28.5,60.1
+"YEM","Yemen",2010,1,NA,NA,192,45.5,28.1,58.8
+"YEM","Yemen",2011,1,NA,NA,187,45.3,28,58.5
+"YEM","Yemen",2012,1,NA,NA,184,45.4,28,58.8
+"YEM","Yemen",2013,1,NA,NA,175,45.2,28.1,58.4
+"YEM","Yemen",2014,1,NA,NA,174,45.4,28.1,58.7
+"YEM","Yemen",2015,1,NA,NA,169,46.1,28.2,60.7
+"YEM","Yemen",2016,1,NA,NA,165,46,28.2,60.3
+"YEM","Yemen",2017,1,NA,NA,164,45.9,28.2,60.2
+"YEM","Yemen",2018,1,NA,NA,NA,46.5,28.2,61.6
+"ZAF","South Africa",1999,NA,NA,NA,NA,NA,NA,NA
+"ZAF","South Africa",2000,0,NA,NA,160,47.7,16.9,71.5
+"ZAF","South Africa",2001,0,NA,NA,168,47.8,16.4,73.1
+"ZAF","South Africa",2002,0,NA,NA,177,47.9,15.9,74.3
+"ZAF","South Africa",2003,0,NA,NA,186,48.4,15.4,75.7
+"ZAF","South Africa",2004,0,0,1,195,49.4,14.8,77.7
+"ZAF","South Africa",2005,0,1,0,201,49.4,14.4,78.8
+"ZAF","South Africa",2006,0,NA,NA,201,48.7,13.9,79.2
+"ZAF","South Africa",2007,0,NA,NA,199,46.6,13.4,75.3
+"ZAF","South Africa",2008,0,NA,NA,191,43,13,68.9
+"ZAF","South Africa",2009,0,NA,NA,179,38.4,12.5,60.3
+"ZAF","South Africa",2010,0,NA,NA,171,34.4,12,52
+"ZAF","South Africa",2011,0,NA,NA,161,32.1,11.6,45.6
+"ZAF","South Africa",2012,0,NA,NA,143,31,11.3,41.5
+"ZAF","South Africa",2013,0,NA,NA,133,30.1,11.1,39.3
+"ZAF","South Africa",2014,0,1,0,128,29.4,11,37.6
+"ZAF","South Africa",2015,0,0,1,125,28.6,11.1,36.3
+"ZAF","South Africa",2016,0,NA,NA,122,28,11.1,35.2
+"ZAF","South Africa",2017,0,0,1,119,27.6,11.1,34.6
+"ZAF","South Africa",2018,0,NA,NA,NA,26.9,11,33.9
+"ZMB","Zambia",1999,NA,NA,NA,NA,NA,NA,NA
+"ZMB","Zambia",2000,0,NA,NA,528,90.2,34.3,155.9
+"ZMB","Zambia",2001,0,NA,NA,491,85.3,33.3,146.9
+"ZMB","Zambia",2002,0,NA,NA,465,79.2,31.9,136.1
+"ZMB","Zambia",2003,0,NA,NA,453,73.2,30.5,125.4
+"ZMB","Zambia",2004,0,NA,NA,437,67.1,29.1,115.2
+"ZMB","Zambia",2005,0,0,1,421,61.9,27.9,106.2
+"ZMB","Zambia",2006,0,NA,NA,406,58.4,27.1,98.5
+"ZMB","Zambia",2007,0,NA,NA,387,56.7,26.6,93.2
+"ZMB","Zambia",2008,0,NA,NA,356,54.5,26.3,88.7
+"ZMB","Zambia",2009,0,NA,NA,329,52.9,26.1,83.6
+"ZMB","Zambia",2010,0,NA,NA,305,51.2,26,79
+"ZMB","Zambia",2011,0,NA,NA,283,50.1,25.8,76.8
+"ZMB","Zambia",2012,0,NA,NA,267,49.1,25.6,74.7
+"ZMB","Zambia",2013,0,NA,NA,254,46.6,25.5,71.1
+"ZMB","Zambia",2014,0,NA,NA,242,46,25.4,68.3
+"ZMB","Zambia",2015,0,NA,NA,232,46.9,25.3,67.7
+"ZMB","Zambia",2016,0,NA,NA,222,45.6,25.2,65.3
+"ZMB","Zambia",2017,0,NA,NA,213,44.3,25,64.6
+"ZMB","Zambia",2018,0,NA,NA,NA,43.9,24.7,65.4
+"ZWE","Zimbabwe",1999,NA,NA,NA,NA,NA,NA,NA
+"ZWE","Zimbabwe",2000,0,NA,NA,579,51.9,24.6,95.5
+"ZWE","Zimbabwe",2001,0,0,1,629,51.1,25.2,93.8
+"ZWE","Zimbabwe",2002,0,NA,NA,666,50.7,26.1,92.6
+"ZWE","Zimbabwe",2003,0,NA,NA,680,50.4,27.2,91.6
+"ZWE","Zimbabwe",2004,0,NA,NA,686,51.2,28.2,92.4
+"ZWE","Zimbabwe",2005,0,NA,NA,685,51.7,29.1,93.1
+"ZWE","Zimbabwe",2006,0,NA,NA,680,53.4,30,95
+"ZWE","Zimbabwe",2007,0,0,1,671,54.6,30.7,95.7
+"ZWE","Zimbabwe",2008,0,NA,NA,657,54.5,31.2,94.5
+"ZWE","Zimbabwe",2009,1,NA,NA,632,54,31.2,91.3
+"ZWE","Zimbabwe",2010,0,0,1,598,52.1,30.8,86.4
+"ZWE","Zimbabwe",2011,0,NA,NA,557,50.8,30.1,80.8
+"ZWE","Zimbabwe",2012,0,NA,NA,528,46.5,29.4,72.2
+"ZWE","Zimbabwe",2013,0,0,1,509,44.8,28.7,66.3
+"ZWE","Zimbabwe",2014,0,NA,NA,494,42.9,28.2,62.7
+"ZWE","Zimbabwe",2015,0,NA,NA,480,42.1,27.8,61.3
+"ZWE","Zimbabwe",2016,0,NA,NA,468,40.8,27.4,58.7
+"ZWE","Zimbabwe",2017,0,0,1,458,39.9,27,57
+"ZWE","Zimbabwe",2018,0,NA,NA,NA,38.8,26.6,54.8
+"TWN",NA,2002,NA,1,0,NA,NA,NA,NA
+"SCG",NA,2002,NA,1,0,NA,NA,NA,NA
+"GLP",NA,2004,NA,1,0,NA,NA,NA,NA
+"TWN",NA,2006,NA,1,0,NA,NA,NA,NA
+"MTQ",NA,2007,NA,1,0,NA,NA,NA,NA
+"ASM",NA,2009,NA,1,0,NA,NA,NA,NA
+"TWN",NA,2010,NA,1,0,NA,NA,NA,NA
+"TUV",NA,2011,NA,0,1,NA,NA,NA,NA
+"TWN",NA,2013,NA,1,0,NA,NA,NA,NA
+"TWN",NA,2013,NA,1,0,NA,NA,NA,NA
+"TWN",NA,2016,NA,1,0,NA,NA,NA,NA
+"ALB",NA,2019,NA,1,0,NA,8.6,7.5,9.7
+"CHL",NA,2019,NA,1,0,NA,6,4.5,7
+"CHN",NA,2019,NA,1,0,NA,5.9,3.7,7.9
+"CHN",NA,2019,NA,1,0,NA,5.9,3.7,7.9
+"ECU",NA,2019,NA,1,0,NA,11.6,6.8,13.4
+"JPN",NA,2019,NA,1,0,NA,1.8,0.9,2.5
+"IDN",NA,2019,NA,1,0,NA,20.2,12.2,23.8
+"KEN",NA,2019,NA,0,1,NA,32,21,43
+"PAK",NA,2019,NA,0,1,NA,55.7,41.4,67.3
+"PRK",NA,2019,NA,0,1,NA,13.1,9.3,17.3
+"IDN",NA,2019,NA,1,0,NA,20.2,12.2,23.8
+"IDN",NA,2019,NA,1,0,NA,20.2,12.2,23.8
+"IRN",NA,2019,NA,1,0,NA,11.5,8.6,13.4
+"PER",NA,2019,NA,1,0,NA,10.3,7,13.3
+"PHL",NA,2019,NA,1,0,NA,21.5,12.9,27.1
+"PHL",NA,2019,NA,0,1,NA,21.5,12.9,27.1
+"PNG",NA,2019,NA,1,0,NA,36.2,22,45.3
+"TWN",NA,2018,NA,1,0,NA,NA,NA,NA
+"SLV",NA,2019,NA,1,0,NA,11.5,6.5,13.3
+"SOM",NA,2019,NA,0,1,NA,74.8,37.4,118.3
+"BWA",NA,2019,NA,0,1,NA,36.9,22.3,45.9
+"USA",NA,2019,NA,1,0,NA,5.5,3.5,6.4
+"ALB",NA,2019,NA,1,0,NA,8.6,7.5,9.7
+"ALB",NA,2019,NA,1,0,NA,8.6,7.5,9.7
+"ARG",NA,2019,NA,0,1,NA,8.1,5.3,9.1
+"CHN",NA,2019,NA,1,0,NA,5.9,3.7,7.9
+"ECU",NA,2019,NA,1,0,NA,11.6,6.8,13.4
+"FRA",NA,2019,NA,1,0,NA,3.4,2.6,4.3
+"IDN",NA,2019,NA,1,0,NA,20.2,12.2,23.8
+"IDN",NA,2019,NA,1,0,NA,20.2,12.2,23.8
+"IRN",NA,2019,NA,1,0,NA,11.5,8.6,13.4
+"LAO",NA,2019,NA,0,1,NA,36.5,22.2,45.7
+"LKA",NA,2019,NA,0,1,NA,6.2,4.2,7.2
+"LSO",NA,2019,NA,0,1,NA,71.4,44.8,90.9
+"PAK",NA,2019,NA,1,0,NA,55.7,41.4,67.3
+"PHL",NA,2019,NA,1,0,NA,21.5,12.9,27.1
+"PHL",NA,2019,NA,1,0,NA,21.5,12.9,27.1
+"PHL",NA,2019,NA,1,0,NA,21.5,12.9,27.1
+"PHL",NA,2019,NA,1,0,NA,21.5,12.9,27.1
+"PLW",NA,2015,NA,0,1,NA,NA,NA,NA
+"ZMB",NA,2019,NA,0,1,NA,42.9,24.4,64.1
+"PHL",NA,2019,NA,1,0,NA,21.5,12.9,27.1
+"PHL",NA,2019,NA,1,0,NA,21.5,12.9,27.1
+"SWZ",NA,2019,NA,0,1,NA,37.7,20.7,48
+"THA",NA,2019,NA,0,1,NA,7.7,5.1,9
+"TUR",NA,2019,NA,1,0,NA,8.6,5.3,10.1
+"VNM",NA,2019,NA,0,1,NA,16.9,10.2,21.1
+"ZAF",NA,2019,NA,0,1,NA,26.3,10.8,33
+"AFG",NA,2019,NA,NA,NA,NA,46.4,36.1,60.1
+"DZA",NA,2019,NA,NA,NA,NA,20,16.3,23.3
+"AND",NA,2019,NA,NA,NA,NA,2.5,1.4,2.7
+"AGO",NA,2019,NA,NA,NA,NA,49.9,27.9,74.2
+"ATG",NA,2019,NA,NA,NA,NA,5.6,3.6,6.6
+"ARM",NA,2019,NA,NA,NA,NA,10.2,6,11.5
+"AUS",NA,2019,NA,NA,NA,NA,3.2,2.4,3.7
+"AUT",NA,2019,NA,NA,NA,NA,2.9,2.3,3.6
+"AZE",NA,2019,NA,NA,NA,NA,18.2,10.4,20.4
+"BHS",NA,2019,NA,NA,NA,NA,14.5,6.9,22.4
+"BHR",NA,2019,NA,NA,NA,NA,5.9,3,7
+"BGD",NA,2019,NA,NA,NA,NA,25.5,18.5,30.7
+"BRB",NA,2019,NA,NA,NA,NA,11.7,8.4,12.6
+"BLR",NA,2019,NA,NA,NA,NA,2.4,1.1,3.1
+"BEL",NA,2019,NA,NA,NA,NA,3.4,2.4,4.2
+"BLZ",NA,2019,NA,NA,NA,NA,10.6,8.1,12.3
+"BEN",NA,2019,NA,NA,NA,NA,57.9,30.2,88.4
+"BTN",NA,2019,NA,NA,NA,NA,23.9,15.7,28.6
+"BOL",NA,2019,NA,NA,NA,NA,21.5,14,26.3
+"BIH",NA,2019,NA,NA,NA,NA,5.1,4.2,5.9
+"BRA",NA,2019,NA,NA,NA,NA,13.3,8.9,14.9
+"BRN",NA,2019,NA,NA,NA,NA,9.6,6,11.4
+"BGR",NA,2019,NA,NA,NA,NA,5.5,3.2,6.6
+"BFA",NA,2019,NA,NA,NA,NA,54.1,26.2,87.8
+"BDI",NA,2019,NA,NA,NA,NA,39.9,21.3,56.6
+"KHM",NA,2019,NA,NA,NA,NA,22.9,13.8,26.6
+"CMR",NA,2019,NA,NA,NA,NA,49.9,26.8,74.7
+"CAN",NA,2019,NA,NA,NA,NA,4.4,3.3,5.1
+"CPV",NA,2019,NA,NA,NA,NA,12.8,9,14.9
+"CAF",NA,2019,NA,NA,NA,NA,79.1,39.6,106.6
+"TCD",NA,2019,NA,NA,NA,NA,69,33.3,113.5
+"COL",NA,2019,NA,NA,NA,NA,11.7,7.4,13.6
+"COM",NA,2019,NA,NA,NA,NA,48.7,29.8,63.5
+"COG",NA,2019,NA,NA,NA,NA,35.9,19.1,52.5
+"COD",NA,2019,NA,NA,NA,NA,65.5,27.3,83.8
+"CRI",NA,2019,NA,NA,NA,NA,7.2,5.8,8.2
+"HRV",NA,2019,NA,NA,NA,NA,3.9,3,4.6
+"CUB",NA,2019,NA,NA,NA,NA,4.2,2.3,5.2
+"CYP",NA,2019,NA,NA,NA,NA,2.3,1.7,2.8
+"CZE",NA,2019,NA,NA,NA,NA,2.4,1.6,3
+"CIV",NA,2019,NA,NA,NA,NA,59.4,33.9,80.3
+"DNK",NA,2019,NA,NA,NA,NA,3.2,2.6,3.7
+"DJI",NA,2019,NA,NA,NA,NA,48.6,31.1,57.8
+"DMA",NA,2019,NA,NA,NA,NA,31.2,29.2,35
+"DOM",NA,2019,NA,NA,NA,NA,28.3,23.9,34.4
+"EGY",NA,2019,NA,NA,NA,NA,17.2,10.7,20.1
+"GNQ",NA,2019,NA,NA,NA,NA,60,29.2,81.2
+"ERI",NA,2019,NA,NA,NA,NA,30.5,18.1,40.6
+"EST",NA,2019,NA,NA,NA,NA,1.8,1,2.3
+"ETH",NA,2019,NA,NA,NA,NA,36.6,27.8,50.8
+"FJI",NA,2019,NA,NA,NA,NA,22.6,11.4,26.9
+"FIN",NA,2019,NA,NA,NA,NA,1.9,1.4,2.3
+"GAB",NA,2019,NA,NA,NA,NA,31.5,20.1,43
+"GMB",NA,2019,NA,NA,NA,NA,35.6,26.4,51.2
+"GEO",NA,2019,NA,NA,NA,NA,8.4,5.2,9.5
+"DEU",NA,2019,NA,NA,NA,NA,3.2,2.3,3.7
+"GHA",NA,2019,NA,NA,NA,NA,34,23.5,46.4
+"GRC",NA,2019,NA,NA,NA,NA,3.7,2.5,4.2
+"GRD",NA,2019,NA,NA,NA,NA,14.7,11.1,16.5
+"GTM",NA,2019,NA,NA,NA,NA,20.7,11.5,24.5
+"GIN",NA,2019,NA,NA,NA,NA,63.4,30.3,98
+"GNB",NA,2019,NA,NA,NA,NA,53,35.9,79.6
+"GUY",NA,2019,NA,NA,NA,NA,24.5,17.9,29.3
+"HTI",NA,2019,NA,NA,NA,NA,47.8,25.2,62.2
+"HND",NA,2019,NA,NA,NA,NA,14.4,9.1,16.8
+"HUN",NA,2019,NA,NA,NA,NA,3.4,2.2,4.1
+"ISL",NA,2019,NA,NA,NA,NA,1.6,1,2
+"IND",NA,2019,NA,NA,NA,NA,28.3,21.4,34.4
+"IRQ",NA,2019,NA,NA,NA,NA,22,14.9,26.1
+"IRL",NA,2019,NA,NA,NA,NA,2.7,2.1,3.2
+"ITA",NA,2019,NA,NA,NA,NA,2.6,1.8,3
+"JAM",NA,2019,NA,NA,NA,NA,11.8,9.6,13.7
+"JOR",NA,2019,NA,NA,NA,NA,13.3,9.1,15.5
+"KAZ",NA,2019,NA,NA,NA,NA,9,4.7,10.1
+"KIR",NA,2019,NA,NA,NA,NA,40.3,21.9,51.2
+"KWT",NA,2019,NA,NA,NA,NA,7.5,4.9,8.8
+"KGZ",NA,2019,NA,NA,NA,NA,16.4,12.2,18.3
+"LVA",NA,2019,NA,NA,NA,NA,3.5,2.3,4.1
+"LBN",NA,2019,NA,NA,NA,NA,6.2,4.1,7.2
+"LBR",NA,2019,NA,NA,NA,NA,59.5,31.1,80.4
+"LBY",NA,2019,NA,NA,NA,NA,9.9,6.2,11.5
+"LTU",NA,2019,NA,NA,NA,NA,2.9,2,3.6
+"LUX",NA,2019,NA,NA,NA,NA,2.3,1.7,2.8
+"MDG",NA,2019,NA,NA,NA,NA,37.2,20.7,51.9
+"MWI",NA,2019,NA,NA,NA,NA,30.1,19.7,40.6
+"MYS",NA,2019,NA,NA,NA,NA,7.3,4.6,8.6
+"MDV",NA,2019,NA,NA,NA,NA,6,4.5,7
+"MLI",NA,2019,NA,NA,NA,NA,60.3,32.3,94.2
+"MLT",NA,2019,NA,NA,NA,NA,5.7,4.3,6.5
+"MHL",NA,2019,NA,NA,NA,NA,26.3,14.7,31.6
+"MRT",NA,2019,NA,NA,NA,NA,50.2,31.8,73
+"MUS",NA,2019,NA,NA,NA,NA,14.3,10.1,16
+"MEX",NA,2019,NA,NA,NA,NA,12.2,8.6,14.1
+"FSM",NA,2019,NA,NA,NA,NA,21.5,13.3,25.4
+"MDA",NA,2019,NA,NA,NA,NA,12.7,10.8,14.8
+"MNG",NA,2019,NA,NA,NA,NA,13.8,8.3,16
+"MNE",NA,2019,NA,NA,NA,NA,2.1,1.3,2.6
+"MAR",NA,2019,NA,NA,NA,NA,16.7,12,19.5
+"MOZ",NA,2019,NA,NA,NA,NA,54.3,28.9,72.9
+"MMR",NA,2019,NA,NA,NA,NA,36.1,22.9,45.2
+"NAM",NA,2019,NA,NA,NA,NA,30.9,20.5,41.9
+"NPL",NA,2019,NA,NA,NA,NA,24.5,17.5,29.3
+"NLD",NA,2019,NA,NA,NA,NA,3.5,2.7,4.1
+"NZL",NA,2019,NA,NA,NA,NA,4.1,2.7,4.9
+"NIC",NA,2019,NA,NA,NA,NA,14.3,9.8,16.6
+"NER",NA,2019,NA,NA,NA,NA,46.7,24.6,80.3
+"NGA",NA,2019,NA,NA,NA,NA,74,35.9,116.9
+"MKD",NA,2019,NA,NA,NA,NA,6,4.5,6.8
+"NOR",NA,2019,NA,NA,NA,NA,1.9,1.4,2.3
+"OMN",NA,2019,NA,NA,NA,NA,9.5,4.9,11.1
+"PAN",NA,2019,NA,NA,NA,NA,12.8,8.3,14.8
+"PRY",NA,2019,NA,NA,NA,NA,16.7,10.4,19.5
+"POL",NA,2019,NA,NA,NA,NA,3.8,2.7,4.4
+"PRT",NA,2019,NA,NA,NA,NA,2.8,1.9,3.4
+"PRI",NA,2019,NA,NA,NA,NA,NA,NA,NA
+"QAT",NA,2019,NA,NA,NA,NA,5.3,3.7,6.1
+"ROU",NA,2019,NA,NA,NA,NA,5.8,3.4,7.1
+"RUS",NA,2019,NA,NA,NA,NA,4.7,2.6,5.8
+"RWA",NA,2019,NA,NA,NA,NA,31.1,18.2,41.9
+"WSM",NA,2019,NA,NA,NA,NA,15,6.9,17.4
+"SAU",NA,2019,NA,NA,NA,NA,6.3,3.6,7.3
+"SEN",NA,2019,NA,NA,NA,NA,29.8,21.1,39.7
+"SRB",NA,2019,NA,NA,NA,NA,4.9,3.6,5.7
+"SYC",NA,2019,NA,NA,NA,NA,12.3,8.6,14.3
+"SLE",NA,2019,NA,NA,NA,NA,82.4,32,111.9
+"SGP",NA,2019,NA,NA,NA,NA,2,0.8,2.4
+"SVK",NA,2019,NA,NA,NA,NA,4.8,3,5.8
+"SVN",NA,2019,NA,NA,NA,NA,1.8,1.3,2.3
+"SLB",NA,2019,NA,NA,NA,NA,17.1,8.1,20
+"KOR",NA,2019,NA,NA,NA,NA,2.7,1.5,3.1
+"SSD",NA,2019,NA,NA,NA,NA,63.3,40.3,97.9
+"ESP",NA,2019,NA,NA,NA,NA,2.7,1.8,3.3
+"LCA",NA,2019,NA,NA,NA,NA,21.6,12.7,24
+"VCT",NA,2019,NA,NA,NA,NA,13.4,9.1,14.6
+"SDN",NA,2019,NA,NA,NA,NA,41,27.3,58.4
+"SUR",NA,2019,NA,NA,NA,NA,16.2,11.2,18.1
+"SWE",NA,2019,NA,NA,NA,NA,2.2,1.5,2.7
+"CHE",NA,2019,NA,NA,NA,NA,3.6,2.8,4
+"SYR",NA,2019,NA,NA,NA,NA,18.4,10.8,22.2
+"STP",NA,2019,NA,NA,NA,NA,13.5,8.2,17
+"TJK",NA,2019,NA,NA,NA,NA,29.2,14.5,33.3
+"TZA",NA,2019,NA,NA,NA,NA,35.8,20.6,50.5
+"TLS",NA,2019,NA,NA,NA,NA,37.7,19.9,43.7
+"TGO",NA,2019,NA,NA,NA,NA,45.5,25,66.5
+"TON",NA,2019,NA,NA,NA,NA,10,5.1,11.7
+"TTO",NA,2019,NA,NA,NA,NA,15.4,11,17.2
+"TUN",NA,2019,NA,NA,NA,NA,14.5,12,16.9
+"TKM",NA,2019,NA,NA,NA,NA,36.6,23.8,42.4
+"UGA",NA,2019,NA,NA,NA,NA,33,19.8,45.3
+"UKR",NA,2019,NA,NA,NA,NA,7.2,5,8.4
+"ARE",NA,2019,NA,NA,NA,NA,5.8,3.7,6.8
+"GBR",NA,2019,NA,NA,NA,NA,3.7,2.8,4.3
+"URY",NA,2019,NA,NA,NA,NA,5.8,4,6.7
+"UZB",NA,2019,NA,NA,NA,NA,13.3,8.1,14.8
+"VUT",NA,2019,NA,NA,NA,NA,21.6,10.9,25.6
+"VEN",NA,2019,NA,NA,NA,NA,21.1,14.6,24.2
+"YEM",NA,2019,NA,NA,NA,NA,46.4,28.2,61.5
+"ZWE",NA,2019,NA,NA,NA,NA,38.1,26.2,54.2
