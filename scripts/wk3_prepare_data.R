@@ -99,3 +99,9 @@ conflict_merged <- conflict_merged %>%
 
 # Export merged dataset
 write.csv(conflict_merged, here("data", "processed", "merged_conflict_data.csv"), row.names = FALSE)
+
+
+
+
+# After comparing data with a coding agent, there are differences in how we code (e.g., I use read.csv() rather than read_csv()), although there are a lot of similarities.
+# I find that the coding agent sometimes writes more efficient code as it uses less lines. For the purposes of this assignment, I have kept the code I wrote.
