@@ -33,23 +33,35 @@ neomor <- make_long(dfname = neomor0, varname = "neonatal_mortality")
 un5mor <- make_long(dfname = un5mor0, varname = "under5_mortality")
 
 # Prepare disaster data
-disaster <- read.csv(here("data", "raw", "disaster.csv"), header = TRUE)
-disaster <- clean_names(disaster)
+disaster_events <- read.csv(
+  here("data", "raw", "disaster.csv"),
+  header = TRUE
+) %>%
+  clean_names() %>%
+  filter(
+    between(year, 2000, 2019),
+    disaster_type %in% c("Earthquake", "Drought")
+  ) %>%
+  transmute(
+    iso,
+    year = as.integer(year),
+    earthquake = as.integer(disaster_type == "Earthquake"),
+    drought = as.integer(disaster_type == "Drought")
+  ) %>%
+  group_by(iso, year) %>%
+  summarise(
+    earthquake = max(earthquake),
+    drought = max(drought),
+    .groups = "drop"
+  )
 
-disaster <- disaster %>%
-  filter(between(year, 2000, 2019) & disaster_type %in% c("Earthquake", "Drought")) %>%
-  select(year, iso, disaster_type)
-
-disaster <- disaster %>%
-  mutate(earthquake = if_else(disaster_type == "Earthquake", 1, 0))
-disaster$earthquake <-  as.integer(disaster$earthquake)
-
-disaster <- disaster %>%
-  mutate(drought = if_else(disaster_type == "Drought", 1, 0))
-disaster$drought <-  as.integer(disaster$drought)
-
-disaster <- disaster %>%
-  select(-disaster_type)
+disaster <- matmor %>%
+  distinct(iso, year) %>%
+  left_join(disaster_events, by = c("iso", "year")) %>%
+  mutate(
+    earthquake = coalesce(earthquake, 0L),
+    drought = coalesce(drought, 0L)
+  )
 
 # Prepare conflict data
 conflict <- read.csv(here("data", "raw", "conflict.csv"), header = TRUE)
@@ -76,10 +88,4 @@ conflict_merged <- conflict_merged %>%
 conflict_merged$year <-  as.integer(conflict_merged$year)
 
 # Export merged dataset
-write.csv(conflict_merged, here("data", "processed", "merged_conflict_data.csv"), row.names = FALSE)
-
-
-
-
-# After comparing data with a coding agent, there are differences in how we code (e.g., I use read.csv() rather than read_csv()), although there are a lot of similarities.
-# I find that the coding agent sometimes writes more efficient code as it uses less lines. For the purposes of this assignment, I have kept the code I wrote.
+write.csv(conflict_merged, here("data", "processed", "final_data.csv"), row.names = FALSE)

@@ -1,0 +1,209 @@
+---
+title: "Comparison of Data-Preparation Scripts"
+format: html
+toc: true
+---
+
+## Purpose
+
+This report compares `scripts/final_data.R` and
+`scripts/final_data_codex.R`. Both scripts build a country-year analysis
+dataset for 2000--2019 by combining mortality outcomes, natural-disaster
+indicators, a lagged conflict indicator, and country-level covariates. The
+comparison focuses on each stage of the workflow, the code choices made, and
+the consequences of those choices for the final data.
+
+The scripts share the same overall goal, but `final_data_codex.R` makes the
+country-year structure explicit before creating the disaster and conflict
+variables. This matters because the final dataset needs one observation per
+country and year.
+
+## Workflow overview
+
+| Section | `final_data.R` | `final_data_codex.R` |
+|---|---|---|
+| Packages and input | Loads four packages and reads CSV files with `read.csv()` | Loads `tidyverse` and `here`, then reads the same CSV files |
+| Mortality data | Reshapes four wide mortality files with `make_long()` | Reshapes the same files with a more flexible `make_long()` |
+| Disasters | Makes row-level drought and earthquake flags | Aggregates to one country-year and fills absent events with zero |
+| Conflict | Sums `best` and uses `lag()` over observed conflict years | Shifts the previous year's total onto a complete country-year panel |
+| Covariates and merge | Imports covariates and full-joins all tables | Imports covariates and full-joins all tables, then sorts rows |
+| Export | Writes `merged_conflict_data.csv` | Writes `final_data_codex.csv` |
+
+## Packages and data import
+
+Both scripts use `tidyverse` for data manipulation and `here` for
+project-relative paths. Using `here("data", "raw", ...)` is a good practice
+because it avoids relying on a manually set working directory. Both scripts
+also use base R's `read.csv()`, so this is not a difference in the import
+method.
+
+`final_data.R` loads `countrycode` and `janitor`. `countrycode` is not used in
+the script. It uses `clean_names()` after loading `janitor`. In contrast,
+`final_data_codex.R` calls `janitor::clean_names()` directly, so it does not
+need to attach the entire `janitor` package. The latter makes it clear where
+the function comes from and avoids an unnecessary attached package.
+
+`final_data.R` also runs `summary()` on each raw mortality table. These calls
+are useful for interactive inspection, but they do not alter the data or
+contribute to the final merged object. `final_data_codex.R` omits them for a
+more streamlined processing script.
+
+## Mortality data: wide to long
+
+Both scripts import four mortality datasets—maternal, infant, neonatal, and
+under-five mortality—and use one function repeatedly to reshape them from wide
+to long format. In each case, the final data have `iso`, `year`, and one
+outcome column.
+
+In `final_data.R`, the function explicitly selects `X2000:X2019` and then
+removes the `X` from the names. This is clear when the study period is fixed:
+
+```r
+make_long <- function(data, value_name) {
+  data |>
+    select(iso, X2000:X2019) |>
+    pivot_longer(
+      cols = starts_with("X"),
+      names_to = "year",
+      names_prefix = "X",
+      values_to = value_name
+    ) |>
+    mutate(year = as.numeric(year))
+}
+```
+
+In `final_data_codex.R`, the function identifies any column whose name is an
+`X` followed by a four-digit year:
+
+```r
+make_long <- function(data, value_name) {
+  data |>
+    select(iso, matches("^X[0-9]{4}$")) |>
+    pivot_longer(
+      cols = matches("^X[0-9]{4}$"),
+      names_to = "year",
+      names_prefix = "X",
+      names_transform = list(year = as.integer),
+      values_to = value_name
+    )
+}
+```
+
+The Codex version is more robust if future data include additional annual
+columns because it does not hard-code 2000--2019. It also converts `year` to
+an integer inside `pivot_longer()`, rather than converting it in a later
+`mutate()` step. For the current files, both approaches produce the same
+mortality values and year range.
+
+## Disaster data
+
+Both scripts read `disaster.csv`, standardize the names with `clean_names()`,
+and retain only droughts and earthquakes from 2000--2019. They then create
+binary variables named `drought` and `earthquake`.
+
+The important difference is the level of observation. In `final_data.R`, each
+disaster record remains a row. A country with multiple qualifying disasters in
+one year can therefore have multiple rows after the merge. In addition, a
+country-year with no qualifying disaster has no disaster row and will receive
+missing values after a full join rather than explicit zeros.
+
+`final_data_codex.R` first turns each record into two indicators and then
+collapses all records for a country-year using `max()`. Because the indicators
+are zero or one, `max()` means “did this event occur at least once?” The code
+then joins those indicators to the mortality country-year panel and uses
+`coalesce()` to convert missing event indicators to zero:
+
+```r
+disaster_events |>
+  group_by(iso, year) |>
+  summarise(
+    drought = max(drought),
+    earthquake = max(earthquake),
+    .groups = "drop"
+  )
+
+disaster <- matmor |>
+  distinct(iso, year) |>
+  left_join(disaster_events, by = c("iso", "year")) |>
+  mutate(
+    drought = coalesce(drought, 0L),
+    earthquake = coalesce(earthquake, 0L)
+  )
+```
+
+This approach is preferable for a country-year dataset: it guarantees at most
+one disaster record per country-year and represents “no recorded drought or
+earthquake” as `0`.
+
+## Conflict data
+
+The two scripts agree on the first step: several conflict rows can exist for a
+country-year, so `best` is summed within `iso` and `year`. They also use the
+same threshold: prior-year total conflict fatalities of at least 25 imply a
+binary conflict indicator of 1.
+
+In `final_data.R`, `lag(deaths_sum)` is calculated after sorting the years that
+appear in the conflict table. This works when every intervening year has a
+conflict row. However, if a country has records in 2000 and 2002 but none in
+2001, the value for 2002 is lagged from 2000 rather than from 2001. The first
+observed conflict year also receives `NA` because it has no lagged row.
+
+`final_data_codex.R` avoids this by shifting each annual total forward one
+year, then joining it to a complete mortality country-year panel. For example,
+the total `best` value in 2000 is assigned to the `conflict_presence` value in
+2001. Country-years without a prior-year total are assigned zero:
+
+```r
+conflict_totals |>
+  transmute(
+    iso,
+    year = year + 1L,
+    conflict_presence = as.integer(best_total >= 25)
+  )
+```
+
+This directly expresses the research rule: the conflict value for year *t*
+depends on `best` in year *t - 1*. It also preserves a valid value for 2000 by
+using the available 1999 conflict records.
+
+## Covariates and final merge
+
+Both scripts import `covariates.csv`, which already contains `iso` and `year`,
+and use `reduce(full_join, by = c("iso", "year"))` to combine the component
+tables. A full join retains country-years that occur in any input source.
+
+The original script stores the result as `conflict_merged` and converts `year`
+to integer after joining. The Codex script stores the result as `merged_data`,
+converts years during reshaping, and adds `arrange(iso, year)` after the merge.
+Sorting does not change the values, but it makes the final file easier to
+inspect and ensures a consistent row order.
+
+The more consequential merge difference follows from the earlier preparation:
+the original disaster table may contain repeated country-year keys, whereas
+the Codex disaster and conflict tables are built against a country-year panel.
+Consequently, the Codex merge better maintains the intended one-row-per-
+country-year structure.
+
+## Exported files
+
+The scripts export different filenames in `data/processed/`:
+
+| Script | Output file | Object written |
+|---|---|---|
+| `final_data.R` | `merged_conflict_data.csv` | `conflict_merged` |
+| `final_data_codex.R` | `final_data_codex.csv` | `merged_data` |
+
+Both use `row.names = FALSE`, which prevents R's row numbers from becoming an
+unwanted CSV column.
+
+## Conclusion
+
+Both scripts correctly establish the intended workflow and use reusable code
+for the mortality reshaping step. `final_data.R` is a clear, step-by-step
+version that includes exploratory summaries. `final_data_codex.R` is more
+defensive for panel-data analysis: it recognizes year columns programmatically,
+aggregates multiple disasters within country-year, fills no-event years with
+zero, and implements the prior-year conflict rule without skipping calendar
+years. These differences make `final_data_codex.R` the stronger choice when
+the final dataset is intended to contain one observation for every country and
+year.
