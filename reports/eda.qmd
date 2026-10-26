@@ -1,0 +1,73 @@
+# Import libraries and data
+```{r}
+library(tidyverse)
+library(naniar)
+
+df <- read.csv(here("data", "processed", "final_data.csv"), header = TRUE)
+```
+
+# Examine data
+```{r}
+head(df)
+glimpse(df)
+# Appropriate variable types
+summary(df)
+
+get_dupes(df)
+# No duplicates found
+```
+
+# Check missing data
+
+```{r}
+miss_var_summary(df)
+# Maternal mortality had the most missing data (15.7%)
+
+df %>%
+  ggplot(aes(
+    x = armed_conflict,
+    y = maternal_mortality
+  )) +
+  geom_miss_point() +
+  labs(
+    color = "Is missing?"
+  ) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+
+df %>%
+  ggplot(aes(
+    x = armed_conflict,
+    y = infant_mortality
+  )) +
+  geom_miss_point() +
+  labs(
+    color = "Is missing?"
+  ) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+# Graph relationship between armed conflict and maternal mortality
+
+```{r}
+df %>%
+  filter(!is.na(armed_conflict), !is.na(maternal_mortality)) %>%
+    ggplot(aes(x = factor(armed_conflict), y = maternal_mortality)) +
+  geom_boxplot() +
+  labs(
+    x = "Armed conflict (previous year)",
+    y = "Maternal mortality"
+  )
+```
+
+# Graph relationship between armed conflict and infant mortality
+
+```{r}
+df %>%
+  filter(!is.na(armed_conflict), !is.na(maternal_mortality)) %>%
+    ggplot(aes(x = factor(armed_conflict), y = infant_mortality)) +
+  geom_boxplot() +
+  labs(
+    x = "Armed conflict (previous year)",
+    y = "Maternal mortality"
+  )
+```

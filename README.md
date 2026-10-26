@@ -1,1 +1,1 @@
-This assignment involves cleaning and merging datasets related to armed conflict, disasters, and maternal and child mortality by country and year.
+This assignment involves cleaning and analyzing datasets related to armed conflict, disasters, and maternal and child mortality by country and year.

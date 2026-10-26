@@ -73,10 +73,12 @@ conflict_sum <- conflict %>%
 conflict_sum <- conflict_sum %>%
   arrange(iso, year) %>%
   group_by(iso) %>%
-  mutate(conflict_presence = if_else(lag(deaths_sum) >= 25, 1, 0))
-conflict_sum$conflict_presence <-  as.integer(conflict_sum$conflict_presence)
+  mutate(armed_conflict = if_else(lag(deaths_sum) >= 25, 1, 0))
+conflict_sum$armed_conflict <-  as.integer(conflict_sum$armed_conflict)
 conflict_sum <- conflict_sum %>%
   select(-deaths_sum)
+conflict_sum <- conflict_sum %>%
+  filter(between(year, 2000, 2019))
 
 # Import covariates
 covariates <- read.csv(here("data", "raw", "covariates.csv"), header = TRUE)

@@ -13,10 +13,9 @@ indicators, a lagged conflict indicator, and country-level covariates. The
 comparison focuses on each stage of the workflow, the code choices made, and
 the consequences of those choices for the final data.
 
-The scripts share the same overall goal, but `final_data_codex.R` makes the
-country-year structure explicit before creating the disaster and conflict
-variables. This matters because the final dataset needs one observation per
-country and year.
+The scripts share the same overall goal and now both create a one-row-per-
+country-year disaster table. The primary remaining implementation difference
+is the way each script calculates the prior-year conflict indicator.
 
 ## Workflow overview
 
@@ -24,10 +23,10 @@ country and year.
 |---|---|---|
 | Packages and input | Loads four packages and reads CSV files with `read.csv()` | Loads `tidyverse` and `here`, then reads the same CSV files |
 | Mortality data | Reshapes four wide mortality files with `make_long()` | Reshapes the same files with a more flexible `make_long()` |
-| Disasters | Makes row-level drought and earthquake flags | Aggregates to one country-year and fills absent events with zero |
-| Conflict | Sums `best` and uses `lag()` over observed conflict years | Shifts the previous year's total onto a complete country-year panel |
+| Disasters | Aggregates to one country-year and fills absent events with zero | Aggregates to one country-year and fills absent events with zero |
+| Conflict | Sums `best` and creates `armed_conflict` with `lag()` over observed conflict years | Shifts the previous year's total onto a complete country-year panel as `conflict_presence` |
 | Covariates and merge | Imports covariates and full-joins all tables | Imports covariates and full-joins all tables, then sorts rows |
-| Export | Writes `merged_conflict_data.csv` | Writes `final_data_codex.csv` |
+| Export | Writes `final_data.csv` | Writes `final_data_codex.csv` |
 
 ## Packages and data import
 
@@ -99,19 +98,11 @@ mortality values and year range.
 
 Both scripts read `disaster.csv`, standardize the names with `clean_names()`,
 and retain only droughts and earthquakes from 2000--2019. They then create
-binary variables named `drought` and `earthquake`.
-
-The important difference is the level of observation. In `final_data.R`, each
-disaster record remains a row. A country with multiple qualifying disasters in
-one year can therefore have multiple rows after the merge. In addition, a
-country-year with no qualifying disaster has no disaster row and will receive
-missing values after a full join rather than explicit zeros.
-
-`final_data_codex.R` first turns each record into two indicators and then
-collapses all records for a country-year using `max()`. Because the indicators
-are zero or one, `max()` means “did this event occur at least once?” The code
-then joins those indicators to the mortality country-year panel and uses
-`coalesce()` to convert missing event indicators to zero:
+binary variables named `drought` and `earthquake`. Both scripts now first turn
+each disaster record into indicators, then collapse records using `max()`.
+Because the indicators are zero or one, `max()` means “did this event occur at
+least once?” The event data are then joined to the mortality country-year
+panel, and `coalesce()` changes missing event indicators to zero:
 
 ```r
 disaster_events |>
@@ -131,22 +122,33 @@ disaster <- matmor |>
   )
 ```
 
-This approach is preferable for a country-year dataset: it guarantees at most
-one disaster record per country-year and represents “no recorded drought or
-earthquake” as `0`.
+This shared approach guarantees at most one disaster record per country-year
+and represents “no recorded drought or earthquake” as `0`. For example, if a
+country has both a drought and an earthquake in 2000, it has one row with
+`drought = 1` and `earthquake = 1`, rather than two rows. The scripts differ
+only in style: `final_data.R` uses `%>%` and attached `janitor`, whereas
+`final_data_codex.R` uses `|>` and `janitor::clean_names()`.
 
 ## Conflict data
 
 The two scripts agree on the first step: several conflict rows can exist for a
 country-year, so `best` is summed within `iso` and `year`. They also use the
 same threshold: prior-year total conflict fatalities of at least 25 imply a
-binary conflict indicator of 1.
+binary conflict indicator of 1. The original script names this variable
+`armed_conflict`, while the Codex script calls it `conflict_presence`; the two
+names describe the same intended concept.
 
 In `final_data.R`, `lag(deaths_sum)` is calculated after sorting the years that
-appear in the conflict table. This works when every intervening year has a
-conflict row. However, if a country has records in 2000 and 2002 but none in
-2001, the value for 2002 is lagged from 2000 rather than from 2001. The first
-observed conflict year also receives `NA` because it has no lagged row.
+appear in the conflict table. The script then filters the resulting table to
+2000--2019. Applying the filter after `lag()` is important: it preserves the
+2000 indicator calculated from 1999 conflict data, while excluding the 1999
+row from the final merge.
+
+However, `lag()` operates over observed rows, not necessarily consecutive
+calendar years. If a country has conflict records in 2000 and 2002 but none in
+2001, the value for 2002 is lagged from 2000 rather than from 2001. In
+addition, the first conflict record for a country receives `NA` if it has no
+earlier record.
 
 `final_data_codex.R` avoids this by shifting each annual total forward one
 year, then joining it to a complete mortality country-year panel. For example,
@@ -178,11 +180,11 @@ converts years during reshaping, and adds `arrange(iso, year)` after the merge.
 Sorting does not change the values, but it makes the final file easier to
 inspect and ensures a consistent row order.
 
-The more consequential merge difference follows from the earlier preparation:
-the original disaster table may contain repeated country-year keys, whereas
-the Codex disaster and conflict tables are built against a country-year panel.
-Consequently, the Codex merge better maintains the intended one-row-per-
-country-year structure.
+Because the updated disaster section in `final_data.R` is now keyed uniquely
+by `iso` and `year`, it no longer creates duplicate country-year rows during
+the full join. Both scripts therefore produce the same intended 2000--2019
+country-year coverage. Their conflict columns can still differ where the
+original script skips a calendar year with no conflict record.
 
 ## Exported files
 
@@ -190,7 +192,7 @@ The scripts export different filenames in `data/processed/`:
 
 | Script | Output file | Object written |
 |---|---|---|
-| `final_data.R` | `merged_conflict_data.csv` | `conflict_merged` |
+| `final_data.R` | `final_data.csv` | `conflict_merged` |
 | `final_data_codex.R` | `final_data_codex.csv` | `merged_data` |
 
 Both use `row.names = FALSE`, which prevents R's row numbers from becoming an
@@ -198,12 +200,12 @@ unwanted CSV column.
 
 ## Conclusion
 
-Both scripts correctly establish the intended workflow and use reusable code
-for the mortality reshaping step. `final_data.R` is a clear, step-by-step
-version that includes exploratory summaries. `final_data_codex.R` is more
-defensive for panel-data analysis: it recognizes year columns programmatically,
-aggregates multiple disasters within country-year, fills no-event years with
-zero, and implements the prior-year conflict rule without skipping calendar
-years. These differences make `final_data_codex.R` the stronger choice when
-the final dataset is intended to contain one observation for every country and
-year.
+Both scripts correctly establish the intended workflow and now use compatible
+disaster logic that preserves one observation per country and year.
+`final_data.R` is a clear, step-by-step version that includes exploratory
+summaries and explicitly restricts its final conflict table to the analysis
+period. `final_data_codex.R` is more defensive for panel-data analysis: it
+recognizes year columns programmatically and implements the prior-year conflict
+rule without skipping calendar years. Therefore, the Codex conflict approach is
+preferable when a value in year *t* must depend strictly on information from
+year *t - 1*.
