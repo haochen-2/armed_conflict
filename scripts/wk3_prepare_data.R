@@ -15,37 +15,22 @@ summary(infmor0)
 summary(neomor0)
 summary(un5mor0)
 
-# Derive country names from ISO codes
-get_name <- function(x) {
-  x$Country.Name <- countrycode(x$iso,
-  origin = "iso3c",
-  destination = "country.name")
-  x <- x |>
-  dplyr::mutate(country = Country.Name) |>
-  dplyr::select(iso, country, indicator, X2000:X2019)
-}
-
-matmor_wide <- get_name(matmor0)
-infmor_wide <- get_name(infmor0)
-neomor_wide <- get_name(neomor0)
-un5mor_wide <- get_name(un5mor0)
-
 # Write a function that converts the data to long format
 make_long <- function(dfname, varname){
   dfname |>
-    dplyr::select(country, iso, X2000:X2019) |>
+    dplyr::select(iso, X2000:X2019) |>
     pivot_longer(cols = starts_with("X"),
                  names_to = "year",
                  names_prefix = "X",
                  values_to = varname) |>
     mutate(year = as.numeric(year)) |>
-    arrange(country, iso, year)
+    arrange(iso, year)
 }
 
-matmor <- make_long(dfname = matmor_wide, varname = "maternal_mortality")
-infmor <- make_long(dfname = infmor_wide, varname = "infant_mortality")
-neomor <- make_long(dfname = neomor_wide, varname = "neonatal_mortality")
-un5mor <- make_long(dfname = un5mor_wide, varname = "under5_mortality")
+matmor <- make_long(dfname = matmor0, varname = "maternal_mortality")
+infmor <- make_long(dfname = infmor0, varname = "infant_mortality")
+neomor <- make_long(dfname = neomor0, varname = "neonatal_mortality")
+un5mor <- make_long(dfname = un5mor0, varname = "under5_mortality")
 
 # Prepare disaster data
 disaster <- read.csv(here("data", "raw", "disaster.csv"), header = TRUE)
@@ -81,21 +66,14 @@ conflict_sum$conflict_presence <-  as.integer(conflict_sum$conflict_presence)
 conflict_sum <- conflict_sum %>%
   select(-deaths_sum)
 
-# Merge all datasets
-conflict_sum$country <- countrycode(conflict_sum$iso,
-  origin = "iso3c",
-  destination = "country.name")
+# Import covariates
+covariates <- read.csv(here("data", "raw", "covariates.csv"), header = TRUE)
 
-conflict_merged <- list(conflict_sum, disaster, matmor, infmor, neomor, un5mor)
+conflict_merged <- list(conflict_sum, disaster, matmor, infmor, neomor, un5mor, covariates)
 
 conflict_merged <- conflict_merged %>%
   reduce(full_join, by = c('iso', 'year'))
-conflict_merged <- conflict_merged %>%
-  select(-country, -country.y, -country.x.x, -country.y.y) %>%
-  rename(country = country.x)
 conflict_merged$year <-  as.integer(conflict_merged$year)
-conflict_merged <- conflict_merged %>%
-  select(iso, country, year, conflict_presence, earthquake, drought, maternal_mortality, infant_mortality, neonatal_mortality, under5_mortality)
 
 # Export merged dataset
 write.csv(conflict_merged, here("data", "processed", "merged_conflict_data.csv"), row.names = FALSE)
