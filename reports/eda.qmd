@@ -1,31 +1,42 @@
+---
+title: "EDA"
+author: "Haochen Yu"
+---
+
 # Import libraries and data
 ```{r}
 library(tidyverse)
 library(naniar)
+library(here)
+library(janitor)
 
 df <- read.csv(here("data", "processed", "final_data.csv"), header = TRUE)
 ```
 
 # Examine data
 ```{r}
+# Examine the variables in the dataframe
 head(df)
+# Check if the variables are the correct type
 glimpse(df)
-# Appropriate variable types
+# Examine the distribution of variables and the proportion of missing data
 summary(df)
-
+# Check for duplicate data
 get_dupes(df)
-# No duplicates found
 ```
 
-# Check missing data
+Every variable in the dataframe appears to be the correct variable type. No duplicate data were found. 
 
+# Check missing data
 ```{r}
+# Take a closer look at missing data for each variable
 miss_var_summary(df)
-# Maternal mortality had the most missing data (15.7%)
+
+mcar_test(df)
 
 df %>%
   ggplot(aes(
-    x = armed_conflict,
+    x = gdp_1000,
     y = maternal_mortality
   )) +
   geom_miss_point() +
@@ -37,7 +48,7 @@ df %>%
 df %>%
   ggplot(aes(
     x = armed_conflict,
-    y = infant_mortality
+    y = maternal_mortality
   )) +
   geom_miss_point() +
   labs(
@@ -45,6 +56,8 @@ df %>%
   ) +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 ```
+
+Maternal mortality had the most missing data (15.7%). To better understand potential missing data patterns, a Little's missing completely at random (MCAR) test was conducted. There was statistical evidence to reject the null hypothesis that the data are MCAR. When visualizing missing data between a country's gross domestic product (GDP) and maternal mortality, we see that countries with lower GDPs are more likely to have missing maternal mortality data.
 
 # Graph relationship between armed conflict and maternal mortality
 
@@ -59,15 +72,19 @@ df %>%
   )
 ```
 
+When plotting the relatiionship between armed conflict in the previous year and maternal mortality, we see that countries with armed conflict in the prior year appeared to have higher median maternal mortality and a higher maximum value compared to countries without conflict.
+
 # Graph relationship between armed conflict and infant mortality
 
 ```{r}
 df %>%
-  filter(!is.na(armed_conflict), !is.na(maternal_mortality)) %>%
+  filter(!is.na(armed_conflict), !is.na(infant_mortality)) %>%
     ggplot(aes(x = factor(armed_conflict), y = infant_mortality)) +
   geom_boxplot() +
   labs(
     x = "Armed conflict (previous year)",
-    y = "Maternal mortality"
+    y = "Infant mortality"
   )
 ```
+
+Secondarily, we also plotted the relationship between armed conflict and infant mortality. We observed similar patterns, where countries with armed conflict in the previous year appeared to have higher median infant mortality compared to countries without conflict.
