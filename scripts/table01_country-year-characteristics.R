@@ -47,7 +47,7 @@ units(df$male_edu) <- "years per capita"
 units(df$temp) <- "Celsius"
 units(df$rainfall_1000) <- "mm per year"
 
-caption  <- "Table 1. Characteristics of Countries in Each Year from 2000-2019"
+caption  <- "Table 1. Characteristics of Each Country-Year Observation from 2000-2019"
 footnote <- "GDP = gross domestic product, mm = millimitres, OECD = Organisation for Econoomic Co-operation and Development. 
 <br>Armed conflict was defined as ≥25 conflict-related deaths in a calendar year. 
 GDP per capita was scaled up by a factor of 1,000. 
@@ -57,4 +57,4 @@ Male education represents age-standardised years per capita.
 Rainfall was scaled down by a factor of 1,000."
 
 table1(~ drought + earthquake + oecd + gdp_1000 + pop_dens + urban + age_dep + male_edu + temp + rainfall_1000 | armed_conflict, data = df,
-    overall = c(left = "Total"), caption = caption, footnote = footnote)
+    overall = c(left = "Overall"), caption = caption, footnote = footnote)
