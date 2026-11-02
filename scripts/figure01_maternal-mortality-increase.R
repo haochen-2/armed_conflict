@@ -16,7 +16,7 @@ df <- df %>%
         last(year) == 2017,
         last(diff_matmor) > 0)
 
-ggplot(data = df, aes(x = year, y = maternal_mortality, colour = iso)) +
+fig1 <- ggplot(data = df, aes(x = year, y = maternal_mortality, colour = iso)) +
   geom_line(linewidth = 1.2) +
   labs(
     title = "Figure 1. Line Graph for Countries with an Increase in Maternal Mortality\nfrom 2000 to 2017",
@@ -27,3 +27,10 @@ ggplot(data = df, aes(x = year, y = maternal_mortality, colour = iso)) +
     plot.title = element_text(hjust = 0.5)
   ) + scale_y_log10()
 
+ggsave(
+  filename = "figure01_maternal-mortality-increase.png",
+  plot = fig1,
+  width = 8,
+  height = 6,
+  units = "in"
+)

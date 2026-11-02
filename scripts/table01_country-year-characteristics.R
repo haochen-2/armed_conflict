@@ -2,6 +2,8 @@
 library(tidyverse)
 library(here)
 library(table1)
+library(webshot2)
+library(htmltools)
 
 df <- read.csv(here("data", "processed", "final_data.csv"), header = TRUE)
 
@@ -30,22 +32,21 @@ df$oecd <-
   factor(df$oecd, levels = c(1,0),
   labels = c("Member", "Non-member"))
 
-label(df$drought) <- "Any drought"
-label(df$earthquake) <- "Any earthquake"
-label(df$oecd) <- "OECD membership status"
-label(df$gdp_1000) <- "GDP per capita"
-label(df$pop_dens) <- "Population density"
-label(df$urban) <- "Urban residence"
-label(df$age_dep) <- "Age dependency ratio"
-label(df$male_edu) <- "Male education"
-label(df$temp) <- "Temperature"
-label(df$rainfall_1000) <- "Rainfall "
+label(df$drought) <- "<b>Any drought</b>"
+label(df$earthquake) <- "<b>Any earthquake</b>"
+label(df$oecd) <- "<b>OECD membership status</b>"
+label(df$gdp_1000) <- "<b>GDP per capita</b>"
+label(df$pop_dens) <- "<b>Population density</b>"
+label(df$urban) <- "<b>Urban residence</b>"
+label(df$age_dep) <- "<b>Age dependency ratio</b>"
+label(df$male_edu) <- "<b>Male education</b>"
+label(df$temp) <- "<b>Temperature</b>"
+label(df$rainfall_1000) <- "<b>Rainfall</b>"
 
-units(df$gdp_1000) <- "$USD"
-units(df$age_dep) <- "per 100 working-age individuals"
-units(df$male_edu) <- "years per capita"
-units(df$temp) <- "Celsius"
-units(df$rainfall_1000) <- "mm per year"
+units(df$gdp_1000) <- "<b>$USD</b>"
+units(df$male_edu) <- "<b>years per capita</b>"
+units(df$temp) <- "<b>Celsius</b>"
+units(df$rainfall_1000) <- "<b>mm per year</b>"
 
 caption  <- "Table 1. Characteristics of Each Country-Year Observation from 2000-2019"
 footnote <- "GDP = gross domestic product, mm = millimitres, OECD = Organisation for Econoomic Co-operation and Development. 
@@ -56,5 +57,15 @@ Age dependency ratio represents the number of dependents (individuals under 15 y
 Male education represents age-standardised years per capita. 
 Rainfall was scaled down by a factor of 1,000."
 
-table1(~ drought + earthquake + oecd + gdp_1000 + pop_dens + urban + age_dep + male_edu + temp + rainfall_1000 | armed_conflict, data = df,
+tab1 <- table1(~ drought + earthquake + oecd + gdp_1000 + pop_dens + urban + age_dep + male_edu + temp + rainfall_1000 | armed_conflict, data = df,
     overall = c(left = "Overall"), caption = caption, footnote = footnote)
+print(tab1)
+
+htmltools::save_html(
+  tab1,
+  file = "table01_country-year-characteristics.html"
+)
+webshot(
+  "table01_country-year-characteristics.html",
+  file = "table01_country-year-characteristics.pdf"
+)
