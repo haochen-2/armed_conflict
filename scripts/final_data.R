@@ -85,11 +85,8 @@ conflict_sum <- matmor %>%
     by = c("iso", "year")
   ) %>%
   mutate(
-    armed_conflict = if_else(
-      is.na(deaths_sum),
-      NA_integer_,
-      as.integer(deaths_sum >= 25)
-    )
+    deaths_sum = coalesce(deaths_sum, 0),
+    armed_conflict = as.integer(deaths_sum >= 25)
   ) %>%
   filter(between(year, 2000, 2019)) %>%
   select(iso, year, armed_conflict)
