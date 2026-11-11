@@ -12,16 +12,6 @@ df$armed_conflict <-
   factor(df$armed_conflict, levels = c(1,0),
   labels = c("Armed conflict present", "Armed conflict absent"))
 
-df <- df %>%
-  mutate(
-    armed_conflict = as.character(armed_conflict),
-    armed_conflict = ifelse(
-      is.na(armed_conflict),
-      "Missing",
-      armed_conflict
-    )
-  )
-
 df$drought <-
   factor(df$drought, levels = c(1,0),
   labels = c("Present", "Absent"))
@@ -63,9 +53,9 @@ print(tab1)
 
 htmltools::save_html(
   tab1,
-  file = "table01_country-year-characteristics.html"
+  file = here("outputs", "table01_country-year-characteristics.html")
 )
 webshot(
-  "table01_country-year-characteristics.html",
-  file = "table01_country-year-characteristics.pdf"
+  here("outputs", "table01_country-year-characteristics.html"),
+  file = here("outputs", "table01_country-year-characteristics.pdf")
 )
